@@ -89,7 +89,6 @@ function App() {
                 <span
                   style={{ color: "#a31576", textDecoration: "line-through" }}
                 >
-                  {" "}
                   {response.word[0].typed}
                 </span>{" → "}
                 <span style={{ color: "teal" }}>{response.word[0].offered}</span>
@@ -97,6 +96,7 @@ function App() {
             ))}
         </h2>
       }
+      <button onClick={()=>{sayIt(words[ind].word)}}>Repeat</button>
     </div>
   );
 }

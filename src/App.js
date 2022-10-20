@@ -1,44 +1,61 @@
 import { useState, useReducer } from "react";
-import Data from "./Words"
+import Data from "./Words";
 import "./App.css";
-
-function reducer(words, action) {
-  switch (action.type) {
-    case "CHECK_INPUT":
-      break;
-
-    default:
-      return words;
-  }
-}
+import correct from "./files/correct.mp3";
+import wrong from "./files/wrong.mp3";
 
 function App() {
-  const [inputCurrent, setInputCurrent] = useState();
+  const [inputCurrent, setInputCurrent] = useState("");
   const [wordCurrent, setWordCurrent] = useState(false);
+  const [response, setResponse] = useState({
+    exists: false,
+    word: [{ offered: "first", typed: "second" }],
+  });
   const [ind, setInd] = useState(0);
-  const [words, dispatch] = useReducer(reducer, Data);
+  const [words, setWrods] = useState(Data);
+  //const [words, dispatch] = useReducer(reducer, Data);
+
+  function sayit(word) {
+    var utterance = new SpeechSynthesisUtterance(word);
+    utterance.voice = speechSynthesis.getVoices()[parseInt(50)];
+    // utterance.pitch = 1;
+    utterance.rate = 0.8;
+    speechSynthesis.speak(utterance);
+    // console.log(window.speechSynthesis.getVoices());
+  }
 
   function handleSubmit(e) {
     e.preventDefault();
 
-    if (ind < words.length-1) {
+    if (ind < words.length - 1) {
       console.log(ind);
-      words[ind].word.trim()==inputCurrent.trim() ?setWordCurrent(true):setWordCurrent(false);
+      setResponse([words[ind].word.trim(), inputCurrent.trim()]);
 
-      console.log(words[ind].word.trim(),inputCurrent.trim());
+      if (words[ind].word.trim() == inputCurrent.trim()) {
+        setWordCurrent(true);
+        new Audio(correct).play();
+      } else {
+        new Audio(wrong).play();
+        setWordCurrent(false);
+      }
+
+      console.log(words[ind].word.trim(), inputCurrent.trim());
       setInd(ind + 1);
-      var utterance = new SpeechSynthesisUtterance(words[ind + 1].word);
-      utterance.voice = speechSynthesis.getVoices()[parseInt(50)];
-      // utterance.pitch = 1;
-      utterance.rate = 0.8;
-      // console.log(window.speechSynthesis.getVoices());
+
+      sayit(words[ind + 1].word);
     } else {
       setInd(0);
-      words[ind].word.trim()==inputCurrent.trim() ?setWordCurrent(true):setWordCurrent(false);
-      utterance = new SpeechSynthesisUtterance(words[0].word);
-      utterance.voice = speechSynthesis.getVoices()[parseInt(50)];
+      setResponse([words[ind].word.trim(), inputCurrent.trim()]);
+      if (words[ind].word.trim() == inputCurrent.trim()) {
+        setWordCurrent(true);
+        new Audio(correct).play();
+      } else {
+        new Audio(wrong).play();
+        setWordCurrent(false);
+      }
+
+      sayit(words[0].word);
     }
-    speechSynthesis.speak(utterance);
 
     setInputCurrent("");
   }
@@ -54,7 +71,18 @@ function App() {
           onChange={(e) => setInputCurrent(e.target.value)}
         />
       </form>
-      {wordCurrent?<h1 style={{color:"teal"}}>true</h1>:<h1 style={{color:"pink"}}>false</h1>}
+      {wordCurrent ? (
+        <h1 style={{ color: "teal" }}>true</h1>
+      ) : (
+        <h1 style={{ color: "pink" }}>false</h1>
+      )}
+      {
+        <h2>
+          {response.exists
+            ? response.word.offered + " --- " + response.word.typed
+            : ""}
+        </h2>
+      }
     </div>
   );
 }

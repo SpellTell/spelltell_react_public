@@ -6,7 +6,7 @@ import wrong from "./files/wrong.mp3";
 
 function App() {
   const [inputCurrent, setInputCurrent] = useState("");
-  const [wordCurrent, setWordCurrent] = useState(false);
+  const [inputState, setInputState] = useState(false);
   const [response, setResponse] = useState({
     exists: false,
     word: [{ offered: "first", typed: "second" }],
@@ -15,7 +15,7 @@ function App() {
   const [words, setWrods] = useState(Data);
   //const [words, dispatch] = useReducer(reducer, Data);
 
-  function sayit(word) {
+  function sayIt(word) {
     var utterance = new SpeechSynthesisUtterance(word);
     utterance.voice = speechSynthesis.getVoices()[parseInt(50)];
     // utterance.pitch = 1;
@@ -28,33 +28,37 @@ function App() {
     e.preventDefault();
 
     if (ind < words.length - 1) {
-      console.log(ind);
-      setResponse([words[ind].word.trim(), inputCurrent.trim()]);
+      setResponse({
+        exists: true,
+        word: [{ offered: words[ind].word.trim(), typed: inputCurrent.trim() }],
+      });
 
       if (words[ind].word.trim() == inputCurrent.trim()) {
-        setWordCurrent(true);
+        setInputState(true);
         new Audio(correct).play();
       } else {
         new Audio(wrong).play();
-        setWordCurrent(false);
+        setInputState(false);
       }
-
-      console.log(words[ind].word.trim(), inputCurrent.trim());
+      //console.log(words[ind].word.trim(), inputCurrent.trim());
       setInd(ind + 1);
-
-      sayit(words[ind + 1].word);
+      sayIt(words[ind + 1].word);
     } else {
       setInd(0);
-      setResponse([words[ind].word.trim(), inputCurrent.trim()]);
+      setResponse({
+        exists: true,
+        word: [{ offered: words[ind].word.trim(), typed: inputCurrent.trim() }],
+      });
+
       if (words[ind].word.trim() == inputCurrent.trim()) {
-        setWordCurrent(true);
+        setInputState(true);
         new Audio(correct).play();
       } else {
         new Audio(wrong).play();
-        setWordCurrent(false);
+        setInputState(false);
       }
 
-      sayit(words[0].word);
+      sayIt(words[0].word);
     }
 
     setInputCurrent("");
@@ -71,16 +75,26 @@ function App() {
           onChange={(e) => setInputCurrent(e.target.value)}
         />
       </form>
-      {wordCurrent ? (
-        <h1 style={{ color: "teal" }}>true</h1>
-      ) : (
-        <h1 style={{ color: "pink" }}>false</h1>
-      )}
+
       {
         <h2>
-          {response.exists
-            ? response.word.offered + " --- " + response.word.typed
-            : ""}
+          {response.exists &&
+            (inputState ? (
+              <>
+                <span style={{ color: "teal" }}>{response.word[0].offered}</span>{" "}
+
+              </>
+            ) : (
+              <>
+                <span
+                  style={{ color: "#a31576", textDecoration: "line-through" }}
+                >
+                  {" "}
+                  {response.word[0].typed}
+                </span>{" → "}
+                <span style={{ color: "teal" }}>{response.word[0].offered}</span>
+              </>
+            ))}
         </h2>
       }
     </div>

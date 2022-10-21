@@ -1,4 +1,4 @@
-import { useState, useReducer, useEffect } from "react";
+import { useState, useReducer, useEffect, useRef } from "react";
 import Data from "./Words";
 import "./App.css";
 import correct from "./files/correct.mp3";
@@ -6,12 +6,12 @@ import wrong from "./files/wrong.mp3";
 
 function App() {
   const [inputCurrent, setInputCurrent] = useState("");
-  const [inputState, setInputState] = useState(false);
+  const [inputState, setInputState] = useState(false); //if what user typed matches offered word
   const [response, setResponse] = useState({
     exists: false,
     word: [{ offered: "first", typed: "second" }],
   });
-  const [ind, setInd] = useState(0);
+  const ind = useRef(0);
   const [words, setWrods] = useState(Data);
   //const [words, dispatch] = useReducer(reducer, Data);
 
@@ -27,52 +27,38 @@ function App() {
   function handleSubmit(e) {
     e.preventDefault();
 
-    if (ind < words.length - 1) {
+    if (ind.current < words.length) {
+      console.log(ind.current);
       setResponse({
         exists: true,
-        word: [{ offered: words[ind].word.trim(), typed: inputCurrent.trim() }],
+        word: [{ offered: words[ind.current].word.trim(), typed: inputCurrent.trim() }],
       });
 
-      if (words[ind].word.trim() == inputCurrent.trim()) {
+      if (words[ind.current].word.trim() == inputCurrent.trim()) {
         setInputState(true);
         new Audio(correct).play();
       } else {
         new Audio(wrong).play();
         setInputState(false);
       }
-      //console.log(words[ind].word.trim(), inputCurrent.trim());
-      setInd(ind + 1);
-      sayIt(words[ind + 1].word);
-    } else {
-      setInd(0);
-      setResponse({
-        exists: true,
-        word: [{ offered: words[ind].word.trim(), typed: inputCurrent.trim() }],
-      });
-
-      if (words[ind].word.trim() == inputCurrent.trim()) {
-        setInputState(true);
-        new Audio(correct).play();
-      } else {
-        new Audio(wrong).play();
-        setInputState(false);
-      }
-
-      sayIt(words[0].word);
+      //if this is the last element of the array; rewind the Ind and start from the beggining of the array;
+      if(ind.current == words.length-1){ind.current=0}else{ind.current=ind.current+1;}
     }
 
+    //console.log(ind.current);
+    sayIt(words[ind.current].word)
     setInputCurrent("");
   }
 
   function repeatOnKeyDown(e) {
     //when curor is in Input form and CTRL is pressed down, pronounce word
     if (e.key === "Control") {
-      sayIt(words[ind].word);
+      sayIt(words[ind.current].word);
     }
   }
   return (
     <div className="App">
-      <h1>{words[ind].word}</h1>
+      <h1>{words[ind.current].word}</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"

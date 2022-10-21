@@ -64,17 +64,16 @@ function App() {
     setInputCurrent("");
   }
 
-
   function repeatOnKeyDown(e) {
-    console.log(e.key);
-    if(e.key === "Control"){
-    sayIt(words[ind].word)
+    //when curor is in Input form and CTRL is pressed down, pronounce word
+    if (e.key === "Control") {
+      sayIt(words[ind].word);
     }
   }
   return (
     <div className="App">
       <h1>{words[ind].word}</h1>
-      <form onSubmit={handleSubmit}  >
+      <form onSubmit={handleSubmit}>
         <input
           type="text"
           name="SpellTellInput"
@@ -90,8 +89,9 @@ function App() {
           {response.exists &&
             (inputState ? (
               <>
-                <span style={{ color: "teal" }}>{response.word[0].offered}</span>{" "}
-
+                <span style={{ color: "teal" }}>
+                  {response.word[0].offered}
+                </span>{" "}
               </>
             ) : (
               <>
@@ -99,13 +99,22 @@ function App() {
                   style={{ color: "#a31576", textDecoration: "line-through" }}
                 >
                   {response.word[0].typed}
-                </span>{" → "}
-                <span style={{ color: "teal" }}>{response.word[0].offered}</span>
+                </span>
+                {" → "}
+                <span style={{ color: "teal" }}>
+                  {response.word[0].offered}
+                </span>
               </>
             ))}
         </h2>
       }
-      <button onClick={()=>{sayIt(words[ind].word)}}>Repeat</button>
+      <button
+        onClick={() => {
+          sayIt(words[ind].word);
+        }}
+      >
+        Repeat
+      </button>
     </div>
   );
 }

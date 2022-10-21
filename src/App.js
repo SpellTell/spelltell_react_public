@@ -96,7 +96,7 @@ function App() {
       }
       <button
         onClick={() => {
-          sayIt(words[ind].word);
+          sayIt(words[ind.current].word);
         }}
       >
         Repeat

@@ -1,4 +1,4 @@
-import { useState, useReducer } from "react";
+import { useState, useReducer, useEffect } from "react";
 import Data from "./Words";
 import "./App.css";
 import correct from "./files/correct.mp3";
@@ -63,16 +63,25 @@ function App() {
 
     setInputCurrent("");
   }
+
+
+  function repeatOnKeyDown(e) {
+    console.log(e.key);
+    if(e.key === "Control"){
+    sayIt(words[ind].word)
+    }
+  }
   return (
     <div className="App">
       <h1>{words[ind].word}</h1>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit}  >
         <input
           type="text"
           name="SpellTellInput"
           autoComplete="off"
           value={inputCurrent}
           onChange={(e) => setInputCurrent(e.target.value)}
+          onKeyDown={(e) => repeatOnKeyDown(e)}
         />
       </form>
 

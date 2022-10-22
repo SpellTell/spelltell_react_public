@@ -21,6 +21,9 @@ function reducer(words, action) {
           };
         }
       )
+      //remove word for which all N tries have been succesfull
+      var TEMP = TEMP.filter((el)=>(el.progress.length !== el.sum));
+
       return TEMP.sort(function (a, b) {
           return a.sum - b.sum;
         })
@@ -48,6 +51,18 @@ function App() {
   const ind = useRef(0);
   const [words, dispatch] = useReducer(reducer, Data);
 
+  useEffect(
+    ()=>{
+      sayIt(words[ind.current].word);
+    }, [ind.current]
+  )
+
+  function repeatOnKeyDown(e) {
+    //when cursor is in Input form and CTRL is pressed down, pronounce the  word
+    if (e.key === "Control") {
+      sayIt(words[ind.current].word);
+    }
+  }
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -77,23 +92,17 @@ function App() {
       //if this is the last element of the array; rewind the Ind and start from the beggining of the array;
       if (ind.current == words.length - 1) {
         ind.current = 0;
+        //if this is the last word in current setup, shuffle deck
         dispatch({ type: "SHUFFLE" });
       } else {
         ind.current = ind.current + 1;
       }
     }
-
     //console.log(ind.current);
-    sayIt(words[ind.current].word);
     setInputCurrent("");
   }
 
-  function repeatOnKeyDown(e) {
-    //when curor is in Input form and CTRL is pressed down, pronounce word
-    if (e.key === "Control") {
-      sayIt(words[ind.current].word);
-    }
-  }
+
   return (
     <div className="App">
       <h1>{words[ind.current].word}</h1>

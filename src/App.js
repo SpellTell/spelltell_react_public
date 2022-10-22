@@ -12,7 +12,7 @@ function App() {
     word: [{ offered: "first", typed: "second" }],
   });
   const ind = useRef(0);
-  const [words, setWrods] = useState(Data);
+  const [words, setWords] = useState(Data);
   //const [words, dispatch] = useReducer(reducer, Data);
 
   function sayIt(word) {
@@ -21,13 +21,28 @@ function App() {
     // utterance.pitch = 1;
     utterance.rate = 0.8;
     speechSynthesis.speak(utterance);
-    // console.log(window.speechSynthesis.getVoices());
+    // console.log
   }
-  function shuffleDeck(params) {
+
+  function shuffleDeck() {
+    console.log("shuffling");
+    setWords(
+      words.map((el) => {
+        return {
+          id: el.id,
+          pronunciation: el.pronunciation,
+          progress: el.progress,
+          sum: el.progress.reduce((a, b) => a + b, 0),
+        };
+      })
+    );
+    setWords(
+      words.sort(function (a, b) {
+        return a.sum - b.sum;
+      })
+    );
     console.log(words);
   }
-
-
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -36,7 +51,12 @@ function App() {
       console.log(ind.current);
       setResponse({
         exists: true,
-        word: [{ offered: words[ind.current].word.trim(), typed: inputCurrent.trim() }],
+        word: [
+          {
+            offered: words[ind.current].word.trim(),
+            typed: inputCurrent.trim(),
+          },
+        ],
       });
 
       if (words[ind.current].word.trim() == inputCurrent.trim()) {
@@ -51,14 +71,16 @@ function App() {
         setInputState(false);
       }
       //if this is the last element of the array; rewind the Ind and start from the beggining of the array;
-      if(ind.current == words.length-1){
-        shuffleDeck()
-        ind.current=0
-      }else{ind.current=ind.current+1;}
+      if (ind.current == words.length - 1) {
+        shuffleDeck();
+        ind.current = 0;
+      } else {
+        ind.current = ind.current + 1;
+      }
     }
 
     //console.log(ind.current);
-    sayIt(words[ind.current].word)
+    sayIt(words[ind.current].word);
     setInputCurrent("");
   }
 

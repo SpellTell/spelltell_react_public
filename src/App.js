@@ -23,6 +23,11 @@ function App() {
     speechSynthesis.speak(utterance);
     // console.log(window.speechSynthesis.getVoices());
   }
+  function shuffleDeck(params) {
+    console.log(words);
+  }
+
+
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -36,13 +41,20 @@ function App() {
 
       if (words[ind.current].word.trim() == inputCurrent.trim()) {
         setInputState(true);
+        words[ind.current].progress.unshift(1);
+        words[ind.current].progress.pop();
         new Audio(correct).play();
       } else {
         new Audio(wrong).play();
+        words[ind.current].progress.unshift(-1);
+        words[ind.current].progress.pop();
         setInputState(false);
       }
       //if this is the last element of the array; rewind the Ind and start from the beggining of the array;
-      if(ind.current == words.length-1){ind.current=0}else{ind.current=ind.current+1;}
+      if(ind.current == words.length-1){
+        shuffleDeck()
+        ind.current=0
+      }else{ind.current=ind.current+1;}
     }
 
     //console.log(ind.current);

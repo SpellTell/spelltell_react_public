@@ -1,6 +1,6 @@
 import { useState, useReducer, useEffect, useRef } from "react";
 import Data from "./Words";
-import "./App.css";
+import "./Style.css";
 import correct from "./files/correct.mp3";
 import wrong from "./files/wrong.mp3";
 

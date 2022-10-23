@@ -27,6 +27,8 @@ function reducer(words, action) {
       return TEMP.sort(function (a, b) {
           return a.sum - b.sum;
         })
+    case "WATER":
+        return action.payload.words
   }
 }
 
@@ -55,6 +57,22 @@ function App() {
     ()=>{
       sayIt(words[ind.current].word);
     }, [ind.current]
+  )
+
+  useEffect(
+    ()=>{
+      var browserData = window.localStorage.getItem('SPELLTELL_WORDS');
+      browserData= JSON.parse(browserData);
+       if(browserData !== null) dispatch({ type: "WATER", payload:{words:browserData}});
+       console.log(words);
+    }, []
+  )
+
+  useEffect(
+    ()=>{
+      window.localStorage.setItem('SPELLTELL_WORDS', (JSON.stringify(words)))
+      console.log("changed", words);
+    }, [response]
   )
 
   function repeatOnKeyDown(e) {
@@ -105,7 +123,9 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{words[ind.current].word}</h1>
+       {(words.length==0)?<h2>Congrats! You've finished all words for today!</h2>:(
+      <div className="SpellTell">
+            <h1>{words[ind.current].word}</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
@@ -148,6 +168,9 @@ function App() {
       >
         Repeat
       </button>
+
+      </div>)}
+
     </div>
   );
 }

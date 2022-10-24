@@ -1,0 +1,328 @@
+
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>SpellTell</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital@0;1&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="navi-logo">
+        <a href="index.html"><img class="img-resp" src="img/logos/logo-spelltell.png"></a>
+    </div>
+
+    <div class="navi-container">
+        <div class="container">
+            <nav class="navi">
+                <span class="open-slide">
+                    <a href="#" onclick="openSlideMenu()">
+                        <svg width="30" height="20">
+                            <path d="M0,2 30, 2" stroke="rgb(181, 1, 157)" stroke-width="2.5"></path>
+                            <path d="M0,10 30, 10" stroke="rgb(181, 1, 157)" stroke-width="2.5"></path>
+                            <path d="M0, 17.5 30, 17.5" stroke="rgb(181, 1, 157)" stroke-width="2.5"></path>
+                        </svg>
+                    </a>
+                </span>
+                <ul class="navi-nav">
+                    <li><a class="login" href="#">Log In</a></li>
+                    <li><a class="signup" href="#">Sign Up</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div id="slide-menu" class="slide-nav">
+        <a id="close-button" href="#" class="btn-close" onclick="closeSlideMenu()">
+
+            <svg width="20" height="20">
+                <path d="M0,0 20, 20" stroke="white" stroke-width="2"></path>
+                <path d="M0,20 20,  0" stroke="white" stroke-width="2"></path>
+            </svg>
+            <!-- &times; -->
+        </a>
+        <a href="#">Contact</a>
+        <a href="#">Sing In</a>
+        <a href="#">Sign Up</a>
+        <a href="#">About Us</a>
+    </div>
+
+
+    <!-- Control focus; TabInex; !Tab avoids natural order! Tab starts in INPUT box; continues to CHECK; than goes back to REPEAT; -->
+
+
+
+    <div class="main">
+        <div class="container text-center ">
+            <h1>Improve Your <span>Spelling</span></h1>
+            <div class="subheadline">
+            <h2>  Thousands of adults have improved their spelling
+                in just <strong style="color:rgb(111, 0, 255)"> 7 days.</strong> <br>
+
+            <strong style="color:rgb(0, 128, 92)"> No registration</strong> needed,
+                just start typing to start practicing!<br></h2>
+            </div>
+
+        </div>
+        <div>
+            <div id="spelltellBox" class="spelltellBox">
+                <div class="spelltellBox__header">
+                    <h1>zuˈki ni</h1>
+                </div>
+                <div class="spelltellBox__body">
+                    <div class="spelltellBox__body__input">
+                        <input tabindex="1" spellcheck="false" type="text" placeholder="zucchi...">
+                    </div>
+                    <div class="spelltellBox__body__button">
+
+                        <button tabindex="3"  class="btn-outline-primary">REPEAT</button>
+                        <button tabindex="2" class="btn-primary">CHECK ►</button>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div>
+                <div id="howitworks" class="container split">
+                    <div class="basis100 column">
+                        <h2>How It Works</h2>
+                    </div>
+
+                    <div class="basis33 column step-item">
+                        <img class="img-fluid lazyloaded" data-src="img/steps/step1.png" alt="First step , singing up"
+                            src="img/steps/step1.png">
+                        <div class="portfolio-caption">
+                            <p class="circle">1</p>
+                            <p class="text-muted">Firstly, <span><a href="/signup.php">Sing up</a> to <span
+                                        class="spellTellAlgorithm"><img class="img-fluid logo"
+                                            src="img/logos/logo-spelltell.png" alt=""></span> with your email address
+                                    and
+                                    chosen password.</span></p>
+                        </div>
+                    </div>
+
+
+                    <div class="basis33 column step-item">
+                        <img class="img-fluid lazyloaded" data-src="img/steps/step2.png"
+                            alt="Second step, practicing spelling" src="img/steps/step2.png">
+                        <div class="portfolio-caption">
+                            <p class="circle">2</p>
+                            <span class="arrow"></span>
+                            <p class="text-muted">Start practicing while <span class="spellTellAlgorithm"><img
+                                        class="img-fluid logo" src="img/logos/logo-spelltell.png" alt=""></span>
+                                algorithm
+                                tracks your progress and adapts new learning methods. </p>
+                        </div>
+                    </div>
+
+                    <div class="basis33 column step-item">
+                        <img class="img-fluid lazyloaded" data-src="img/steps/step3.png"
+                            alt="Third step, downloading reports" src="img/steps/step3.png">
+                        <div class="portfolio-caption">
+                            <p class="circle">3</p>
+                            <span class="arrow"></span>
+                            <p class="text-muted"> Get regular weekly reports about your progress or dowload it at any
+                                time
+                                from
+                                your
+                                wordbank.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="container ">
+                <div class="cta-box">
+                    <h2>Masterting your <strong>spelling</strong> has never been easier.</h2>
+                </div>
+            </div>
+
+
+
+            <section id="features">
+                <div class="container">
+                    <div class="split">
+
+                        <div class="basis100 column">
+                            <h2>What Makes A Difference</h2>
+                        </div>
+
+                        <div class="basis33 column feature">
+                            <div><span class="feature-image">
+                                    <img class="img-resp" alt="Reporting email" src="img/features/report.png">
+                                </span>
+                                <h4>Reporting </h4>
+                                <p class="fls text-muted">A weekly report will be generated to help you track your
+                                    learning
+                                    progress.</p>
+                            </div>
+                            <div class="button">
+                                <a href="#under-footer"><button type="button" aria-label="Read more button"
+                                        class="btn btn-outline-primary">Read more</button></a>
+
+                            </div>
+                        </div>
+
+
+                        <div class="basis33 column feature">
+                            <div><span class="feature-image">
+                                    <img class="img-resp" alt="Adaptive algorithms" src="img/features/adapt.png">
+                                </span>
+                                <h4>Adaptive algorithms </h4>
+                                <p class="fls text-muted">Smart algoritams are personalizing the experience to best fit
+                                    your
+                                    brain's learing
+                                    cycle.</p>
+                            </div>
+                            <div class="button">
+                                <a href="#under-footer"><button type="button" aria-label="Read more button"
+                                        class="btn btn-outline-primary">Read more</button></a>
+
+                            </div>
+                        </div>
+
+
+                        <div class="basis33 column feature">
+                            <div><span class="feature-image">
+                                    <img class="img-resp" alt="Compare" src="img/features/compare.png">
+                                </span>
+                                <h4>Compare </h4>
+                                <p class="text-muted">Comapring your history records will motivate you to learn even
+                                    faster.</p>
+                            </div>
+                            <div class="button">
+                                <a href="#under-footer"><button type="button" aria-label="Read more button"
+                                        class="btn btn-outline-primary">Read more</button></a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <div class="container text-center start-learning" style="padding-bottom:120px;">
+                <h3 class="learn-with">Start learning with <span><img data-src="img/logos/logo-spelltell.png"
+                            class="img-fluid" alt="learning to spell with SpellTell"
+                            src="img/logos/logo-spelltell.png"></span>
+                    for free. </h3>
+                <a href="#spelltellBox">
+                    <div class="learn-with-button">
+                        Start Learning
+                    </div>
+                </a>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+    <footer>
+        <div class="container split">
+
+            <div class="basis33 column">
+                <h3>You need only 3.000 words to write with confidence</h3>
+                <p> In English, 3000 words make approximately 95% of daily communication. This means that you will be
+                    able
+                    to communicate properly after you learned only 3000 base words. Words in our word bank are ordered
+                    by
+                    their frequency in the English language. Once you mastered those 3000 high frequency words you will
+                    be
+                    able to write much more confidently. We apply "80/20 rule" to help you to learn much faster and more
+                    productively. Read more about the <a
+                        href="https://blog.hubspot.com/marketing/pareto-principle">"80/20
+                        rule"</a>. </p>
+            </div>
+            <div class="basis33 column">
+                <h3>The smartest way to learn</h3>
+                <p> Do you know how to spell "Zurich"? Some people don't know even what Zurich is, others live in
+                    Zurich,
+                    Switzerland. Why would we bombard people from Switzerland with the spelling of their home city? They
+                    even
+                    know to use "ü" to write "Zürich". Same goes for thousands of other words. If you know how to spell
+                    "handkerchief ", even though it's a tough word to spell, <img class="img-fluid white-inline-logo"
+                        src="img/logos/logo-spelltell-white.png" alt="Logo of SpellTell"> will not bother you with it
+                    more than it should. On the other hand, if you
+                    can't spell "money", it will serve you this word more frequently than any other. The more you
+                    practice,
+                    the more our algorithm is optimized to your personal needs. </p>
+            </div>
+            <div class="basis33 column">
+                <h3>You can feel that you are learning</h3>
+                <p>Remember those pesky old <a href="https://en.wikipedia.org/wiki/Flashcard">flash cards</a>
+                    from school. If only you could have some sort of database for them. 😊 Well... you would be very
+                    happy to
+                    hear about our weekly reports. We like to measure everything, and we think you should do it too. Our
+                    weekly reports include the words you have learned in a current week and the number of all words in
+                    your
+                    word bank. Our users reported this to be the highest motivating factor for improving their
+                    vocabulary
+                    with <img class="img-fluid white-inline-logo" src="img/logos/logo-spelltell-white.png"
+                        alt="Logo, spelltell.com">.
+                </p>
+            </div>
+
+        </div>
+        <div id="under-footer" class="under-footer">
+            <div class="container split ">
+                <div class="basis50 column">
+                    <p>Copyright © <img class="img-fluid white-inline-logo"
+                            data-src="img/logos/logo-spelltell-white.png" alt="White Logo of SpellTell"
+                            src="img/logos/logo-spelltell-white.png">
+                    </p>
+                </div>
+                <div class="basis50 column">
+                    <ul class="list-inline quicklinks">
+                        <li class="list-inline-item">
+                            <a href="contact.html">
+                                <p>Contact</p>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/privacy-policy.html">
+                                <p>Privacy Policy</p>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/privacy-policy.html">
+                                <p>Terms of Use</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function openSlideMenu() {
+            const padding = (window.innerWidth * 0.5);
+            document.getElementById('slide-menu').style.width = padding + "px";
+            document.getElementById('slide-menu').style.paddingLeft = `${padding - 200}` + "px";
+            document.getElementById('spelltellBox').style.left = '150px';
+            document.getElementById('spelltellBox').style.position = 'relative';
+        }
+
+        function closeSlideMenu() {
+            document.getElementById('slide-menu').style.width = '0';
+            document.getElementById('slide-menu').style.paddingLeft = '0px';
+
+            document.getElementById('spelltellBox').style.left = '0px';
+            document.getElementById('spelltellBox').style.position = 'relative';
+        }
+    </script>
+</body>
+
+</html>

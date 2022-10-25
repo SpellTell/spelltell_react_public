@@ -8,9 +8,7 @@ function SharedLayout() {
     return (
         <>
             <Menu />
-
             <Outlet />
-
             <Footer />
         </>
     )

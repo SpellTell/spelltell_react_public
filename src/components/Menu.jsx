@@ -32,7 +32,7 @@ function Menu() {
     return (
         <>
             <div className="navi-logo">
-                <Link to="index.html"><img className="img-resp" src={logo} /></Link>
+                <Link to="/"><img className="img-resp" src={logo} /></Link>
             </div>
 
             <div className="navi-container">

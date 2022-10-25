@@ -321,6 +321,10 @@
     margin-bottom: 20px;
     color: var(--white);
   }
+  .spelltellBox h2{
+    font-size:25px;
+    font-weight: 500;
+  }
   .spelltellBox__header {
     width: 100%;
     height: 200px;
@@ -352,7 +356,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 150px 0px 40px 0px;
+    padding: 20px 0px 40px 0px;
     width: 80%;
   }
   .spelltellBox__body__input input {

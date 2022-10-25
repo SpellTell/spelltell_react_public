@@ -5,20 +5,21 @@ import logo from '../img/logos/logo-spelltell.png'
 
 
 function Menu() {
-    const [padding, setPadding]=useState(window.innerWidth*0.5);
-
-    useEffect(() => {
-        function handleResize() {
-            setPadding( window.innerWidth*0.5)
-        }
-        window.addEventListener('resize', handleResize)
-    })
+    //Version 2; make it so that side menu width resized with window resize
+    // const [padding, setPadding]=useState(window.innerWidth*0.5);
+    // useEffect(() => {
+    //     function handleResize() {
+    //         setPadding( window.innerWidth*0.5)
+    //     }
+    //     window.addEventListener('resize', handleResize)
+    // })
 
 
     function openSlideMenu() {
-        // const padding = (window.innerWidth * 0.5);
+        const padding = (window.innerWidth * 0.5);
         document.getElementById('slide-menu').style.width = padding + "px";
         document.getElementById('slide-menu').style.paddingLeft = `${padding - 200}` + "px";
+        //make SpellTell box element move to right when
         //document.getElementById('spelltellBox').style.left = '150px';
     }
 

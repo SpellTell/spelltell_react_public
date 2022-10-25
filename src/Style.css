@@ -327,12 +327,14 @@
   }
   .flag {
     text-align: center;
-    max-width: 500px;
+    max-width: 320px;
     display: block;
     margin: 80px auto;
   }
   .flag h2{
-    font-size: 36px;
+    font-size: 24px;
+    color:rgb(175, 1, 134);
+    font-weight: 400;
   }
   .flag img{
     max-width: 200px;

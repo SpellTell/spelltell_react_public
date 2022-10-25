@@ -1,5 +1,6 @@
 import { useState, useReducer, useEffect, useRef } from "react";
 import Data from "../Words";
+import flag from '../img/flag.png'
 import correct from "../files/correct.mp3";
 import wrong from "../files/wrong.mp3";
 
@@ -54,7 +55,7 @@ function SpellTell() {
         () => {
          //check how many wording is left in the deck; if it's zero; sayIt function will get undefined for an argument
             //we can either check if words[ind.current].word is undefined, or we can check if length of words is ZERO beforehand
-           sayIt((words.length!==0)?words[ind.current].word:"Congratulations! You have finished all words for today!")
+           sayIt((words.length!=0)?words[ind.current].word:"Congratulations! You have finished all words for today!")
         }, [ind.current]
     )
 
@@ -125,7 +126,7 @@ function SpellTell() {
 
 
 
-            {(words.length == 0) ? <h2>Congrats! You've finished all words for today!</h2> : (
+            {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag}/> <h2>Congrats! You've finished all words for today!</h2></div> : (
                 <div id="spelltellBox" class="spelltellBox">
 
                     <div class="spelltellBox__header">

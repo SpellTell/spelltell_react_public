@@ -12,10 +12,10 @@
     margin: 0;
     padding: 0;
     line-height: 1.5;
-    font-family: "Lexend", Helvetica, Arial, sans-serif;
+    font-family: 'Lexend',Helvetica, Arial, sans-serif;
     box-sizing: border-box;
+    font-weight: 300;
   }
-
 
   ::-moz-selection {
     background: rgba(255, 84, 129, 1);
@@ -36,20 +36,22 @@
   li {
     font-size: 1.25em;
     line-height: 1.75;
-    font-weight: 400;
+    font-weight: 300;
   }
 
   h2{
-    font-size:3.5em;
-    font-weight: 300;
+    font-size:34px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
     padding-bottom: 50px;
     text-align: center;
 
   }
   h3 {
     font-size: 2.5em;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.5;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   img::-moz-selection {
@@ -66,7 +68,6 @@
 
   body {
     background-color: var(--pinkDark);
-    font-family: "Lexend", sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
     margin: 0;
@@ -112,10 +113,14 @@
     }
   }
   .main h1{
-    padding-top:30px; font-size:35px; color:rgb(189 13 158); font-weight: 600;
+    padding-top:30px; font-size:38px;
+    color:rgb(189 13 158); font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   h1 span{
+    font-weight: 600;
     text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   .main .subheadline {
     padding-top: 30px;
@@ -234,7 +239,7 @@
     color: white;
     font-size: 18px;
     padding: 10px 25px;
-    font-weight: 700;
+    font-weight: 400;
     text-transform: uppercase;
     background-color: rgb(181, 1, 157);
     border: none;
@@ -288,7 +293,7 @@
     font-style: italic;
     padding-bottom: 0;
     font-size: 45px;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0 auto;
     width:600px;
     color: rgb(180 25 133);
@@ -411,7 +416,7 @@
 
   .spelltellBox .btn-outline-primary {
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 500;
     color: rgb(181, 1, 157);
     border-radius: 50px;
     background-color: transparent;
@@ -444,7 +449,7 @@
 
   .spelltellBox .btn-primary {
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 400;
     color: var(--white);
     border-radius: 50px;
     background-image: -webkit-linear-gradient(
@@ -495,8 +500,8 @@
 
    .btn-outline-primary {
     font-size: 0.9rem;
-    font-weight: 700;
-    color: rgb(181, 1, 157);
+    font-weight: 4 00;
+    color:rgb(159 0 138);
     border-radius: 50px;
     background-color: transparent;
     background-image: none;
@@ -549,6 +554,8 @@
     padding-bottom: 10px;
     font-size:22px;
     font-weight: 500;
+    font-family: 'Source Sans Pro', sans-serif;
+
   }
   #features .feature-image{
     min-height: 150px;
@@ -691,7 +698,7 @@
     border-radius: 50%;
     float: left;
     margin-right: 20px;
-    font-weight: 400;
+    font-weight: 300;
     padding: 4px 14px;
   }
   @media (max-width: 1100px) {
@@ -768,7 +775,7 @@
   }
 
   .slide-nav a {
-    font-weight: 400;
+    font-weight: 300;
     text-transform: uppercase;
     padding: 10px 10px 10px 30px;
     text-decoration: none;
@@ -840,12 +847,12 @@
 
   a.login {
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 500;
     text-transform: uppercase;
   }
   a.signup {
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 400;
     text-transform: uppercase;
 
     background-image: -webkit-linear-gradient(

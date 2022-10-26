@@ -85,15 +85,6 @@ function Home() {
 
 
 
-
-        <div className="container ">
-            <div className="cta-box">
-                <h2>Masterting your <strong>spelling</strong> has never been easier.</h2>
-            </div>
-        </div>
-
-
-
         <section id="features">
             <div className="container">
                 <div className="split">
@@ -157,17 +148,7 @@ function Home() {
         </section>
 
 
-        <div className="container text-center start-learning" style={{paddingBottom:"120px"}}>
-            <h3 className="learn-with">Start learning with <span><img
-                        className="img-fluid" alt="learning to spell with SpellTell"
-                        src={logo}/></span>
-                for free. </h3>
-            <a href="#spelltellBox">
-                <div className="learn-with-button">
-                    Start Learning
-                </div>
-            </a>
-        </div>
+
 
 
 

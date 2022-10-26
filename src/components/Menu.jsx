@@ -65,10 +65,10 @@ function Menu() {
                         <path d="M0,20 20,  0" stroke="white" strokeWidth="2"></path>
                     </svg>
                 </Link>
-                <Link to="#">Contact</Link>
-                <Link to="#">Sing In</Link>
-                <Link to="#">Sign Up</Link>
+                <Link to="/">Home</Link>
+                <Link to="sign-up">Sing Up</Link>
                 <Link to="about-us">About Us</Link>
+                <Link to="contact-us">Contact</Link>
             </div>
         </>
     )

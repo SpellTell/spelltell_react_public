@@ -26,7 +26,7 @@ function Footer() {
                 Switzerland. Why would we bombard people from Switzerland with the spelling of their home city? They
                 even
                 know to use "ü" to write "Zürich". Same goes for thousands of other words. If you know how to spell
-                "handkerchief ", even though it's a tough word to spell, <img class="img-fluid white-inline-logo"
+                "handkerchief ", even though it's a tough word to spell, <img className="img-fluid white-inline-logo"
                     src={whiteLogo} alt="Logo of SpellTell"/> will not bother you with it
                 more than it should. On the other hand, if you
                 can't spell "money", it will serve you this word more frequently than any other. The more you

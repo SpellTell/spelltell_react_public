@@ -8,19 +8,22 @@ import SharedLayout from "./SharedLayout";
 import Home from "./Home";
 import Word from "./Word";
 import About from "./About";
+import { MenuPovider } from "./MenuContext";
 
 function App() {
   return <div>
-    <BrowserRouter>
+   <MenuPovider>
+   <BrowserRouter>
     <Routes>
       <Route path="/" element={<SharedLayout />}>
         <Route index element={<Home />} />
-        {/* <Route path="/about" element={<About />} />
+        <Route path="/about-us" element={<About />} />
         <Route path="/word:name" element={<Word />} />
-        <Route path="/" element={<h1>404</h1>} /> */}
+        <Route path="/" element={<h1>404</h1>} />
       </Route>
     </Routes>
   </BrowserRouter>
+   </MenuPovider>
   </div>;
 }
 

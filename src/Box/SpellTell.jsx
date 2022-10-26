@@ -127,16 +127,16 @@ function SpellTell() {
 
 
             {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag}/> <h2>Congrats! You've finished all words for today!</h2></div> : (
-                <div id="spelltellBox" class="spelltellBox">
+                <div id="spelltellBox" className="spelltellBox">
 
-                    <div class="spelltellBox__header">
+                    <div className="spelltellBox__header">
                         <h1>{words[ind.current].word}</h1>
                     </div>
 
 
-                    <div class="spelltellBox__body">
+                    <div className="spelltellBox__body">
 
-                    <div class="spelltellBox__body__input">
+                    <div className="spelltellBox__body__input">
                         <form onSubmit={handleSubmit}>
                             <input
                                 placeholder="first..."
@@ -175,7 +175,7 @@ function SpellTell() {
                                 ))}
                         </h2>
                     }
-                    <div class="spelltellBox__body__button">
+                    <div className="spelltellBox__body__button">
 
                         <button tabIndex="3" className="btn-outline-primary"
                             onClick={() => {
@@ -184,7 +184,7 @@ function SpellTell() {
                         >
                             Repeat
                         </button>
-                        <button tabindex="2" className="btn-primary">CHECK ►</button>
+                        <button tabIndex="2" className="btn-primary">CHECK ►</button>
 
                     </div>
                     </div>

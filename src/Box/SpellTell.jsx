@@ -130,7 +130,7 @@ function SpellTell() {
                 <div id="spelltellBox" className="spelltellBox">
 
                     <div className="spelltellBox__header">
-                        <h1>{words[ind.current].word}</h1>
+                        <h1>{words[ind.current].pronunciation}</h1>
                     </div>
 
 
@@ -139,7 +139,7 @@ function SpellTell() {
                     <div className="spelltellBox__body__input">
                         <form onSubmit={handleSubmit}>
                             <input
-                                placeholder="first..."
+                                placeholder="zucci..."
                                 tabIndex={1}
                                 spellCheck="false"
                                 type="text"

@@ -308,7 +308,7 @@
     font-size: 45px;
     font-weight: 300;
     margin: 0 auto;
-    width:600px;
+    max-width:600px;
     color: rgb(180 25 133);
 
     text-shadow: 2px 2px 10px rgba(119, 22, 99, 0.15),

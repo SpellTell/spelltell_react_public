@@ -21,7 +21,7 @@ function Menu() {
     function openSlideMenu() {
         const padding = (window.innerWidth * 0.5);
         document.getElementById('slide-menu').style.width = padding + "px";
-        document.getElementById('slide-menu').style.paddingLeft = `${padding - 200}` + "px";
+        document.getElementById('slide-menu').style.paddingLeft = `${padding - 240}` + "px";
         //make SpellTell box element move to right when
         //document.getElementById('spelltellBox').style.left = '150px';
     }
@@ -51,8 +51,8 @@ function Menu() {
                             </Link>
                         </span>
                         <ul className="navi-nav" >
-                            <li><Link className="login" to="#">Log In</Link></li>
-                            <li><Link className="signup" to="#">Sign Up</Link></li>
+                            <li><Link className="login" to="sign-up">Log In</Link></li>
+                            <li><Link className="signup" to="sign-up">Sign Up</Link></li>
                         </ul>
                     </nav>
                 </div>
@@ -66,8 +66,9 @@ function Menu() {
                     </svg>
                 </Link>
                 <Link to="/">Home</Link>
-                <Link to="sign-up">Sing Up</Link>
+                <Link to="but-why">Why it's Free 😲!?</Link>
                 <Link to="about-us">About Us</Link>
+                <Link to="sign-up">Sing Up</Link>
                 <Link to="contact-us">Contact</Link>
             </div>
         </>

@@ -51,12 +51,13 @@ function SpellTell() {
     const ind = useRef(0);
     const [words, dispatch] = useReducer(reducer, Data);
 
+
     useEffect(
         () => {
-         //check how many wording is left in the deck; if it's zero; sayIt function will get undefined for an argument
+            //check how many wording is left in the deck; if it's zero; sayIt function will get undefined for an argument
             //we can either check if words[ind.current].word is undefined, or we can check if length of words is ZERO beforehand
-           sayIt((words.length!=0)?words[ind.current].word:"Congratulations! You have finished all words for today!")
-        }, [ind.current]
+            sayIt((words.length != 0) ? words[ind.current].word : "Congratulations! You have finished all words for today!")
+        }, [words[ind.current].word]
     )
 
     useEffect(
@@ -124,9 +125,31 @@ function SpellTell() {
     return (
         <div>
 
+            <h2 onClick={() => {
+                dispatch({
+                    type: "WATER", payload: {
+                        words: [
+                            { id: 1, word: "Mona Lisa", pronunciation: "Leonardo Da Vinci's", progress: [0, 0] },
+                            { id: 2, word: "Girl with a Pearl Earring", pronunciation: "Johannes Vermeer", progress: [0, 0] },
+                            { id: 3, word: "The Starry Night", pronunciation: "Vincent van Gogh", progress: [0, 0] },
+                            { id: 4, word: "The Last Supper", pronunciation: "Leonardo Da Vinci's", progress: [0, 0] },
+                            { id: 5, word: "The Arnolfini Portrait", pronunciation: "Jan van Eyck", progress: [0, 0] },
+                            { id: 7, word: "The Garden of Earthly Delights", pronunciation: "Hieronymus Bosch", progress: [0, 0] },
+                            { id: 8, word: "The Young Ladies of Avignon", pronunciation: "Pablo Picasso", progress: [0, 0] },
+                            { id: 9, word: "The Harvesters", pronunciation: "Pieter Bruegel the Elder", progress: [0, 0] },
+                            { id: 10, word: "Composition with Red Blue and Yellow", pronunciation: "Piet Mondrian", progress: [0, 0] },
+                            { id: 11, word: "Liberty Leading the People", pronunciation: "Eugène Delacroix", progress: [0, 0] },
+                            { id: 12, word: "The Raft of the Medusa", pronunciation: "Théodore Géricault", progress: [0, 0] },
+                            { id: 13, word: "Nighthawks", pronunciation: "Edward Hopper", progress: [0, 0] },
+                            { id: 14, word: "The Birth of Venus", pronunciation: "Sandro Botticelli", progress: [0, 0] },
+                            { id: 15, word: "Creation of Adam", pronunciation: "Michelangelo", progress: [0, 0] },
+                        ]
+                    }
+                });
+                ind.current=0;
+            }}>Works of Art:Paintings</h2>
 
-
-            {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag}/> <h2>Congrats! You've finished all words for today!</h2></div> : (
+            {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag} /> <h2>Congrats! You've finished all words for today!</h2></div> : (
                 <div id="spelltellBox" className="spelltellBox">
 
                     <div className="spelltellBox__header">
@@ -136,57 +159,57 @@ function SpellTell() {
 
                     <div className="spelltellBox__body">
 
-                    <div className="spelltellBox__body__input">
-                        <form onSubmit={handleSubmit}>
-                            <input
-                                placeholder="zucci..."
-                                tabIndex={1}
-                                spellCheck="false"
-                                type="text"
-                                name="SpellTellInput"
-                                autoComplete="off"
-                                value={inputCurrent}
-                                onChange={(e) => setInputCurrent(e.target.value)}
-                                onKeyDown={(e) => repeatOnKeyDown(e)}
-                            />
-                        </form>
-                    </div>
-                    {
-                        <h2>
-                            {response.exists &&
-                                (inputState ? (
-                                    <>
-                                        <span style={{ color: "teal" }}>
-                                            {response.word[0].offered}
-                                        </span>{" "}
-                                    </>
-                                ) : (
-                                    <>
-                                        <span
-                                            style={{ color: "#a31576", textDecoration: "line-through" }}
-                                        >
-                                            {response.word[0].typed}
-                                        </span>
-                                        {" → "}
-                                        <span style={{ color: "teal" }}>
-                                            {response.word[0].offered}
-                                        </span>
-                                    </>
-                                ))}
-                        </h2>
-                    }
-                    <div className="spelltellBox__body__button">
+                        <div className="spelltellBox__body__input">
+                            <form onSubmit={handleSubmit}>
+                                <input
+                                    placeholder="zucci..."
+                                    tabIndex={1}
+                                    spellCheck="false"
+                                    type="text"
+                                    name="SpellTellInput"
+                                    autoComplete="off"
+                                    value={inputCurrent}
+                                    onChange={(e) => setInputCurrent(e.target.value)}
+                                    onKeyDown={(e) => repeatOnKeyDown(e)}
+                                />
+                            </form>
+                        </div>
+                        {
+                            <h2>
+                                {response.exists &&
+                                    (inputState ? (
+                                        <>
+                                            <span style={{ color: "teal" }}>
+                                                {response.word[0].offered}
+                                            </span>{" "}
+                                        </>
+                                    ) : (
+                                        <>
+                                            <span
+                                                style={{ color: "#a31576", textDecoration: "line-through" }}
+                                            >
+                                                {response.word[0].typed}
+                                            </span>
+                                            {" → "}
+                                            <span style={{ color: "teal" }}>
+                                                {response.word[0].offered}
+                                            </span>
+                                        </>
+                                    ))}
+                            </h2>
+                        }
+                        <div className="spelltellBox__body__button">
 
-                        <button tabIndex="3" className="btn-outline-primary"
-                            onClick={() => {
-                                sayIt(words[ind.current].word);
-                            }}
-                        >
-                            Repeat
-                        </button>
-                        <button tabIndex="2" className="btn-primary">CHECK ►</button>
+                            <button tabIndex="3" className="btn-outline-primary"
+                                onClick={() => {
+                                    sayIt(words[ind.current].word);
+                                }}
+                            >
+                                Repeat
+                            </button>
+                            <button tabIndex="2" lue="Submit" onClick={(e)=>{handleSubmit(e)}} className="btn-primary">CHECK ►</button>
 
-                    </div>
+                        </div>
                     </div>
 
                 </div>)}

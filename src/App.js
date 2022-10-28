@@ -9,6 +9,7 @@ import Home from "./Home";
 import About from "./About";
 import SignUp from "./SignUp";
 import { MenuPovider } from "./MenuContext";
+import ButWhy from "./ButWhy";
 
 function App() {
   return <div>
@@ -19,6 +20,7 @@ function App() {
         <Route index element={<Home />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/contact-us" element={<About />} />
+        <Route path="/but-why" element={<ButWhy />} />
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/*" element={<h1>404</h1>} />
       </Route>

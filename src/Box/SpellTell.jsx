@@ -4,6 +4,8 @@ import flag from '../img/flag.png'
 import correct from "../files/correct.mp3";
 import wrong from "../files/wrong.mp3";
 
+
+
 function reducer(words, action) {
     switch (action.type) {
         case "SHUFFLE":
@@ -49,6 +51,7 @@ function SpellTell() {
         word: [{ offered: "first", typed: "second" }],
     });
     const ind = useRef(0);
+    const sayCounter = useRef(0); //used in useEffect to start sayIt function
     const [words, dispatch] = useReducer(reducer, Data);
 
 
@@ -57,7 +60,7 @@ function SpellTell() {
             //check how many wording is left in the deck; if it's zero; sayIt function will get undefined for an argument
             //we can either check if words[ind.current].word is undefined, or we can check if length of words is ZERO beforehand
             sayIt((words.length != 0) ? words[ind.current].word : "Congratulations! You have finished all words for today!")
-        }, [words[ind.current].word]
+        }, [sayCounter.current] //[words[ind.current].word]
     )
 
     useEffect(
@@ -85,6 +88,8 @@ function SpellTell() {
 
     function handleSubmit(e) {
         e.preventDefault();
+        sayCounter.current++;
+        console.log(sayCounter.current);
         if (ind.current < words.length) {
             console.log(ind.current);
             setResponse({
@@ -147,6 +152,7 @@ function SpellTell() {
                     }
                 });
                 ind.current=0;
+                sayCounter.current++;
             }}>Works of Art:Paintings</h2>
 
             {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag} /> <h2>Congrats! You've finished all words for today!</h2></div> : (

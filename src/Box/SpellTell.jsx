@@ -1,5 +1,7 @@
 import { useState, useReducer, useEffect, useRef } from "react";
 import Data from "../Words";
+import W1000 from "../W1000";
+import WordsWorksOfArt from "../WordsWorksOfArt";
 import flag from '../img/flag.png'
 import correct from "../files/correct.mp3";
 import wrong from "../files/wrong.mp3";
@@ -52,7 +54,7 @@ function SpellTell() {
     });
     const ind = useRef(0);
     const sayCounter = useRef(0); //used in useEffect to start sayIt function
-    const [words, dispatch] = useReducer(reducer, Data);
+    const [words, dispatch] = useReducer(reducer, W1000);
 
 
     useEffect(
@@ -129,31 +131,37 @@ function SpellTell() {
 
     return (
         <div>
+            <div className="ChooseDeck">
+                <h3 onClick={() => {
+                    dispatch({
+                        type: "WATER", payload: {
+                            words: W1000
+                        }
+                    });
+                    ind.current = 0;
+                    sayCounter.current++;
+                }}>Words 1000</h3>
+                <h3 onClick={() => {
+                    dispatch({
+                        type: "WATER", payload: {
+                            words: WordsWorksOfArt
+                        }
+                    });
+                    ind.current = 0;
+                    sayCounter.current++;
+                }}>Works of Art</h3>
+                <h3 onClick={() => {
+                    dispatch({
+                        type: "WATER", payload: {
+                            words: Data
+                        }
+                    });
+                    ind.current = 0;
+                    sayCounter.current++;
+                }}>Test Deck</h3>
 
-            <h2 onClick={() => {
-                dispatch({
-                    type: "WATER", payload: {
-                        words: [
-                            { id: 1, word: "Mona Lisa", pronunciation: "Leonardo Da Vinci's", progress: [0, 0] },
-                            { id: 2, word: "Girl with a Pearl Earring", pronunciation: "Johannes Vermeer", progress: [0, 0] },
-                            { id: 3, word: "The Starry Night", pronunciation: "Vincent van Gogh", progress: [0, 0] },
-                            { id: 4, word: "The Last Supper", pronunciation: "Leonardo Da Vinci's", progress: [0, 0] },
-                            { id: 5, word: "The Arnolfini Portrait", pronunciation: "Jan van Eyck", progress: [0, 0] },
-                            { id: 7, word: "The Garden of Earthly Delights", pronunciation: "Hieronymus Bosch", progress: [0, 0] },
-                            { id: 8, word: "The Young Ladies of Avignon", pronunciation: "Pablo Picasso", progress: [0, 0] },
-                            { id: 9, word: "The Harvesters", pronunciation: "Pieter Bruegel the Elder", progress: [0, 0] },
-                            { id: 10, word: "Composition with Red Blue and Yellow", pronunciation: "Piet Mondrian", progress: [0, 0] },
-                            { id: 11, word: "Liberty Leading the People", pronunciation: "Eugène Delacroix", progress: [0, 0] },
-                            { id: 12, word: "The Raft of the Medusa", pronunciation: "Théodore Géricault", progress: [0, 0] },
-                            { id: 13, word: "Nighthawks", pronunciation: "Edward Hopper", progress: [0, 0] },
-                            { id: 14, word: "The Birth of Venus", pronunciation: "Sandro Botticelli", progress: [0, 0] },
-                            { id: 15, word: "Creation of Adam", pronunciation: "Michelangelo", progress: [0, 0] },
-                        ]
-                    }
-                });
-                ind.current=0;
-                sayCounter.current++;
-            }}>Works of Art:Paintings</h2>
+            </div>
+
 
             {(words.length == 0) ? <div className="flag"> <img className="img-resp" src={flag} /> <h2>Congrats! You've finished all words for today!</h2></div> : (
                 <div id="spelltellBox" className="spelltellBox">
@@ -213,7 +221,7 @@ function SpellTell() {
                             >
                                 Repeat
                             </button>
-                            <button tabIndex="2" lue="Submit" onClick={(e)=>{handleSubmit(e)}} className="btn-primary">CHECK ►</button>
+                            <button tabIndex="2" lue="Submit" onClick={(e) => { handleSubmit(e) }} className="btn-primary">CHECK ►</button>
 
                         </div>
                     </div>

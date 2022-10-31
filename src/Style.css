@@ -505,6 +505,7 @@ h1 span {
   border: 1px solid purple;
   margin:0.2rem;
   padding:0.2rem 0.75rem;
+  border-radius: 3px;
 }
 .ChooseDeck h3:hover{
  background-color: rgba(128, 0, 128, 0.11);
@@ -657,6 +658,9 @@ footer h3 {
     min-height: 0;
     margin-bottom: 1em;
   }
+}
+footer li p{
+  margin:0;
 }
 .under-footer p {
   font-size: 15px;

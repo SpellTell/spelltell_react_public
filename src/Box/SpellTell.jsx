@@ -4,6 +4,7 @@ import W1000 from "../Words/W1000";
 import W2000 from "../Words/W2000";
 import W3000 from "../Words/W3000";
 import W4000 from "../Words/W4000";
+import States from "../Words/States";
 import WordsNames from "../Words/WordsNames";
 import WordsWorksOfArt from "../Words/WordsWorksOfArt";
 import flag from '../img/flag.png'
@@ -61,7 +62,7 @@ function SpellTell() {
     const ind = useRef(0);
     const sayCounter = useRef(0); //used in useEffect to start sayIt function
     const [words, dispatch] = useReducer(reducer, W1000);
-    // const [wrongList, setWrongList] = useState([]);
+    const [wrongList, setWrongList] = useState([]);
 
 
     useEffect(
@@ -120,7 +121,7 @@ function SpellTell() {
                 new Audio(wrong).play();
                 words[ind.current].progress.unshift(-1);
                 words[ind.current].progress.pop();
-                // setWrongList([...wrongList, words[ind.current]]);
+                setWrongList([...wrongList, words[ind.current]]);
                 setInputState(false);
 
             }
@@ -204,6 +205,17 @@ function SpellTell() {
                         sayCounter.current++;
                     }}>Top 400 Names in America</h3>
 
+
+                    <h3 onClick={() => {
+                        dispatch({
+                            type: "WATER", payload: {
+                                words: States
+                            }
+                        });
+                        ind.current = 0;
+                        sayCounter.current++;
+                    }}>US States</h3>
+
                     <h3 onClick={() => {
                         dispatch({
                             type: "WATER", payload: {
@@ -214,15 +226,15 @@ function SpellTell() {
                         sayCounter.current++;
                     }}>Test Deck</h3>
 
-                    {/* <h3 onClick={() => {
+                    <h3 onClick={() => {
                         dispatch({
                             type: "WATER", payload: {
-                                words: W1000
+                                words: wrongList
                             }
                         });
                         ind.current = 0;
                         sayCounter.current++;
-                    }}>Wrong (<span style={{ fontWeight: "400", color: "purple" }}>{wrongList.length}</span>)</h3> */}
+                    }}>Wrong (<span style={{ fontWeight: "400", color: "purple" }}>{wrongList.length}</span>)</h3>
 
 
                 </div>
@@ -241,7 +253,7 @@ function SpellTell() {
                             <div className="spelltellBox__body__input">
                                 <form onSubmit={handleSubmit}>
                                     <input
-                                        placeholder="zucci..."
+                                        placeholder="type..."
                                         tabIndex={1}
                                         spellCheck="false"
                                         type="text"
@@ -294,11 +306,11 @@ function SpellTell() {
                     </div>)}
 
             </div>
-            {/* {(wrongList.length) ? (<>
+            {(wrongList.length) ? (<>
                 <div className="WrongWordsListHeadline"><h3>Words You need to practice:</h3></div>
                 <div className="WrongWordsList">
                     {wrongList.map(elm => <span>{elm.word}; </span>)}
-                </div></>) : ""} */}
+                </div></>) : ""}
         </>
 
     );

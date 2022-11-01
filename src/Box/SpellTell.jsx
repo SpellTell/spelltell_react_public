@@ -5,6 +5,7 @@ import W2000 from "../Words/W2000";
 import W3000 from "../Words/W3000";
 import W4000 from "../Words/W4000";
 import States from "../Words/States";
+import Cities from "../Words/Cities";
 import WordsNames from "../Words/WordsNames";
 import WordsWorksOfArt from "../Words/WordsWorksOfArt";
 import flag from '../img/flag.png'
@@ -69,7 +70,7 @@ function SpellTell() {
         () => {
             //check how many wording is left in the deck; if it's zero; sayIt function will get undefined for an argument
             //we can either check if words[ind.current].word is undefined, or we can check if length of words is ZERO beforehand
-            sayIt((words.length !== 0) ? words[ind.current].word : "Congratulations! You have finished all words for today!")
+            sayIt((words.length !== 0) ? words[ind.current].word : "Congratulations! You have finished all words in this deck!")
         }, [sayCounter.current] //[words[ind.current].word]
     )
 
@@ -216,6 +217,16 @@ function SpellTell() {
                         sayCounter.current++;
                     }}>US States</h3>
 
+<h3 onClick={() => {
+                        dispatch({
+                            type: "WATER", payload: {
+                                words: Cities
+                            }
+                        });
+                        ind.current = 0;
+                        sayCounter.current++;
+                    }}>US Cities</h3>
+
                     <h3 onClick={() => {
                         dispatch({
                             type: "WATER", payload: {
@@ -240,7 +251,7 @@ function SpellTell() {
                 </div>
 
 
-                {(words.length === 0) ? <div className="flag"> <img className="img-resp" src={flag} /> <h2>Congrats! You've finished all words for today!</h2></div> : (
+                {(words.length === 0) ? <div className="flag"> <img className="img-resp" src={flag} /> <h2>Congrats! You've finished all words in this deck!!</h2></div> : (
                     <div id="spelltellBox" className="spelltellBox">
 
                         <div className="spelltellBox__header">

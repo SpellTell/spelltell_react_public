@@ -498,7 +498,10 @@ h1 span {
 */
 .ChooseDeck{
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  max-width: 900px;
+  margin:0 auto;
 }
 .ChooseDeck h3{
   font-size:20px;
@@ -510,7 +513,21 @@ h1 span {
 .ChooseDeck h3:hover{
  background-color: rgba(128, 0, 128, 0.11);
 }
-
+.WrongWordsListHeadline{
+  text-align: center;
+}
+.WrongWordsList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 500px;
+  margin:0 auto;
+}
+.WrongWordsList span{
+  padding:2px 5px;
+  margin:2px 2px;
+  background-color: rgba(128, 0, 128, 0.11);
+}
 /*
   $start-learning
 

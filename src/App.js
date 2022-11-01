@@ -1,9 +1,6 @@
-import { useState, useReducer, useEffect, useRef } from "react";
+//import { useState, useReducer, useEffect, useRef } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Data from "./Words";
 import "./Style.css";
-import correct from "./files/correct.mp3";
-import wrong from "./files/wrong.mp3";
 import SharedLayout from "./SharedLayout";
 import Home from "./Home";
 import About from "./About";

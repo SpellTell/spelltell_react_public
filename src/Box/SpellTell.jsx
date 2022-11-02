@@ -1,5 +1,6 @@
 import { useState, useReducer, useEffect, useRef } from "react";
 import Data from "../Words/Words";
+import Common from "../Words/Common";
 import W1000 from "../Words/W1000";
 import W2000 from "../Words/W2000";
 import W3000 from "../Words/W3000";
@@ -148,6 +149,17 @@ function SpellTell() {
                     <h3 onClick={() => {
                         dispatch({
                             type: "WATER", payload: {
+                                words: Common
+                            }
+                        });
+                        ind.current = 0;
+                        sayCounter.current++;
+                    }}>Common Mistakes</h3>
+
+
+                    <h3 onClick={() => {
+                        dispatch({
+                            type: "WATER", payload: {
                                 words: W1000
                             }
                         });
@@ -217,7 +229,7 @@ function SpellTell() {
                         sayCounter.current++;
                     }}>US States</h3>
 
-<h3 onClick={() => {
+                    <h3 onClick={() => {
                         dispatch({
                             type: "WATER", payload: {
                                 words: Cities

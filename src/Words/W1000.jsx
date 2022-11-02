@@ -1,8 +1,8 @@
 const W1000 = [
   {
       "id": 1,
-      "word": "zucchini",
-      "pronunciation": "/zuˈki ni/",
+      "word": "in",
+      "pronunciation": "/in/",
       "progress": [
           0,
           0,

@@ -5,9 +5,11 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-   <React.StrictMode>
+  // Disabled React Strict Mode because useEffect was firing twice and erasing browser cookies for wrongWord list.
+  // This restriction is only happening in dev version. Built version of this up does not have this behaviour
+   //<React.StrictMode>
     <App />
-  </React.StrictMode>
+ // </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function

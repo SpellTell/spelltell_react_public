@@ -78,16 +78,21 @@ function SpellTell() {
     useEffect(
         () => {
             var browserData = window.localStorage.getItem('SPELLTELL_WORDS');
-            browserData = JSON.parse(browserData);
+            var browserWrongList = window.localStorage.getItem('SPELLTELL_WRONGLIST');
+
+            if (browserData !== null) browserData = JSON.parse(browserData);
             if (browserData !== null) dispatch({ type: "WATER", payload: { words: browserData } });
-            console.log(words);
+            if (browserWrongList !== null) setWrongList(JSON.parse(browserWrongList));
+            console.log(JSON.parse(browserWrongList));
         }, []
     )
 
     useEffect(
         () => {
-            window.localStorage.setItem('SPELLTELL_WORDS', (JSON.stringify(words)))
-            console.log("changed", words);
+            window.localStorage.setItem('SPELLTELL_WORDS',JSON.stringify(words));
+            window.localStorage.setItem('SPELLTELL_WRONGLIST', JSON.stringify(wrongList));
+            //console.log("changed", words);
+            console.log("response");
         }, [response]
     )
 
@@ -101,9 +106,9 @@ function SpellTell() {
     function handleSubmit(e) {
         e.preventDefault();
         sayCounter.current++;
-        console.log(sayCounter.current);
+        //console.log(sayCounter.current);
         if (ind.current < words.length) {
-            console.log(ind.current);
+            //console.log(ind.current);
             setResponse({
                 exists: true,
                 word: [
@@ -332,7 +337,7 @@ function SpellTell() {
             {(wrongList.length) ? (<>
                 <div className="WrongWordsListHeadline"><h3>Words You need to practice:</h3></div>
                 <div className="WrongWordsList">
-                    {wrongList.map(elm => <span>{elm.word}; </span>)}
+                    {wrongList.map(elm => <span  >{elm.word}; </span>)}
                 </div></>) : ""}
         </>
 

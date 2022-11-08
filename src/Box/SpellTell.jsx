@@ -45,7 +45,12 @@ function reducer(words, action) {
 
 function sayIt(word) {
     var utterance = new SpeechSynthesisUtterance(word);
-    utterance.voice = speechSynthesis.getVoices()[parseInt(50)];
+
+    var voices = window.speechSynthesis.getVoices();
+    utterance.voice = voices.filter(function(voice) { return voice.name == 'Google UK English Female'; })[0];
+
+
+    console.log("Glasovi:",window.speechSynthesis.getVoices());
     // utterance.pitch = 1;
     utterance.rate = 0.8;
     speechSynthesis.speak(utterance);

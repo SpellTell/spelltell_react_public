@@ -88,7 +88,7 @@ function SpellTell() {
             if (browserData !== null) browserData = JSON.parse(browserData);
             if (browserData !== null) dispatch({ type: "WATER", payload: { words: browserData } });
             if (browserWrongList !== null) setWrongList(JSON.parse(browserWrongList));
-            console.log(JSON.parse(browserWrongList));
+            //console.log(JSON.parse(browserWrongList));
         }, []
     )
 
@@ -97,7 +97,7 @@ function SpellTell() {
             window.localStorage.setItem('SPELLTELL_WORDS',JSON.stringify(words));
             window.localStorage.setItem('SPELLTELL_WRONGLIST', JSON.stringify(wrongList));
             //console.log("changed", words);
-            console.log("response");
+            //console.log("response");
         }, [response]
     )
 
@@ -133,7 +133,16 @@ function SpellTell() {
                 new Audio(wrong).play();
                 words[ind.current].progress.unshift(-1);
                 words[ind.current].progress.pop();
-                setWrongList([...wrongList, words[ind.current]]);
+
+                console.log(wrongList);
+                console.log("current:", words[ind.current].word)
+
+
+                let foundInWrong = false;
+                    if(wrongList.map(elm=>{
+                        if(elm.word==words[ind.current].word)foundInWrong=true}))
+                if(!foundInWrong){setWrongList([...wrongList, words[ind.current]]);};
+
                 setInputState(false);
 
             }

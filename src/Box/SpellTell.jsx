@@ -50,7 +50,7 @@ function sayIt(word) {
     utterance.voice = voices.filter(function(voice) { return voice.name == 'Google UK English Female'; })[0];
 
 
-    console.log("Glasovi:",window.speechSynthesis.getVoices());
+    //console.log("Glasovi:",window.speechSynthesis.getVoices());
     // utterance.pitch = 1;
     utterance.rate = 0.8;
     speechSynthesis.speak(utterance);
@@ -124,7 +124,7 @@ function SpellTell() {
                 ],
             });
 
-            if (words[ind.current].word.trim() === inputCurrent.trim()) {
+            if (words[ind.current].word.trim().toLowerCase() === inputCurrent.trim().toLowerCase()) {
                 setInputState(true);
                 words[ind.current].progress.unshift(1);
                 words[ind.current].progress.pop();

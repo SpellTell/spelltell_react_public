@@ -2,7 +2,7 @@ const W4000 = [
         {
             "id": 1,
             "word": "traditionally",
-            "pronunciation": "/tɹəˈdɪʃənli/",
+            "pronunciation": "tɹəˈdɪʃənli",
             "progress": [
                 0,
                 0,
@@ -12,7 +12,7 @@ const W4000 = [
         {
             "id": 2,
             "word": "intensity",
-            "pronunciation": "/ɪnˈtɛnsɪti/",
+            "pronunciation": "ɪnˈtɛnsɪti",
             "progress": [
                 0,
                 0,
@@ -32,7 +32,7 @@ const W4000 = [
         {
             "id": 4,
             "word": "pronounce",
-            "pronunciation": "/pɹəˈnaʊns/",
+            "pronunciation": "pɹəˈnaʊns",
             "progress": [
                 0,
                 0,
@@ -42,7 +42,7 @@ const W4000 = [
         {
             "id": 5,
             "word": "wisdom",
-            "pronunciation": "/ˈwɪzdəm/",
+            "pronunciation": "ˈwɪzdəm",
             "progress": [
                 0,
                 0,
@@ -62,7 +62,7 @@ const W4000 = [
         {
             "id": 7,
             "word": "simultaneously",
-            "pronunciation": "/ˌsɪməlˈteɪnɪəsli/",
+            "pronunciation": "ˌsɪməlˈteɪnɪəsli",
             "progress": [
                 0,
                 0,
@@ -72,7 +72,7 @@ const W4000 = [
         {
             "id": 8,
             "word": "interact",
-            "pronunciation": "/ɪntəɹˈækt/",
+            "pronunciation": "ɪntəɹˈækt",
             "progress": [
                 0,
                 0,
@@ -82,7 +82,7 @@ const W4000 = [
         {
             "id": 9,
             "word": "blank",
-            "pronunciation": "/blæŋk/",
+            "pronunciation": "blæŋk",
             "progress": [
                 0,
                 0,
@@ -92,7 +92,7 @@ const W4000 = [
         {
             "id": 10,
             "word": "tense",
-            "pronunciation": "/tɛns/",
+            "pronunciation": "tɛns",
             "progress": [
                 0,
                 0,
@@ -102,7 +102,7 @@ const W4000 = [
         {
             "id": 11,
             "word": "strictly",
-            "pronunciation": "/ˈstɹɪktli/",
+            "pronunciation": "ˈstɹɪktli",
             "progress": [
                 0,
                 0,
@@ -112,7 +112,7 @@ const W4000 = [
         {
             "id": 12,
             "word": "assert",
-            "pronunciation": "/əˈsɜːt/",
+            "pronunciation": "əˈsɜːt",
             "progress": [
                 0,
                 0,
@@ -122,7 +122,7 @@ const W4000 = [
         {
             "id": 13,
             "word": "objection",
-            "pronunciation": "/əbˈdʒɛkʃən/",
+            "pronunciation": "əbˈdʒɛkʃən",
             "progress": [
                 0,
                 0,
@@ -132,7 +132,7 @@ const W4000 = [
         {
             "id": 14,
             "word": "span",
-            "pronunciation": "/spæn/",
+            "pronunciation": "spæn",
             "progress": [
                 0,
                 0,
@@ -142,7 +142,7 @@ const W4000 = [
         {
             "id": 15,
             "word": "execution",
-            "pronunciation": "/ˌek.sɪˈkjuː.ʃən/",
+            "pronunciation": "ˌek.sɪˈkjuː.ʃən",
             "progress": [
                 0,
                 0,
@@ -152,7 +152,7 @@ const W4000 = [
         {
             "id": 16,
             "word": "continent",
-            "pronunciation": "/ˈkɒntɪnənt/",
+            "pronunciation": "ˈkɒntɪnənt",
             "progress": [
                 0,
                 0,
@@ -172,7 +172,7 @@ const W4000 = [
         {
             "id": 18,
             "word": "undermine",
-            "pronunciation": "/ʌndəˈmaɪn/",
+            "pronunciation": "ʌndəˈmaɪn",
             "progress": [
                 0,
                 0,
@@ -182,7 +182,7 @@ const W4000 = [
         {
             "id": 19,
             "word": "airplane",
-            "pronunciation": "/ˈɛəpleɪn/",
+            "pronunciation": "ˈɛəpleɪn",
             "progress": [
                 0,
                 0,
@@ -202,7 +202,7 @@ const W4000 = [
         {
             "id": 21,
             "word": "kilometer",
-            "pronunciation": "/kɪˈlɒmɪtə/",
+            "pronunciation": "kɪˈlɒmɪtə",
             "progress": [
                 0,
                 0,
@@ -212,7 +212,7 @@ const W4000 = [
         {
             "id": 22,
             "word": "neat",
-            "pronunciation": "/niːt/",
+            "pronunciation": "niːt",
             "progress": [
                 0,
                 0,
@@ -222,7 +222,7 @@ const W4000 = [
         {
             "id": 23,
             "word": "fraction",
-            "pronunciation": "/ˈfɹæk.ʃən/",
+            "pronunciation": "ˈfɹæk.ʃən",
             "progress": [
                 0,
                 0,
@@ -242,7 +242,7 @@ const W4000 = [
         {
             "id": 25,
             "word": "ethics",
-            "pronunciation": "/ˈɛθ.ɪks/",
+            "pronunciation": "ˈɛθ.ɪks",
             "progress": [
                 0,
                 0,
@@ -252,7 +252,7 @@ const W4000 = [
         {
             "id": 26,
             "word": "insert",
-            "pronunciation": "/ɪnˈsɜːt/",
+            "pronunciation": "ɪnˈsɜːt",
             "progress": [
                 0,
                 0,
@@ -262,7 +262,7 @@ const W4000 = [
         {
             "id": 27,
             "word": "tempt",
-            "pronunciation": "/tɛmpt/",
+            "pronunciation": "tɛmpt",
             "progress": [
                 0,
                 0,
@@ -282,7 +282,7 @@ const W4000 = [
         {
             "id": 29,
             "word": "faculty",
-            "pronunciation": "/ˈfæ.kəl.ti/",
+            "pronunciation": "ˈfæ.kəl.ti",
             "progress": [
                 0,
                 0,
@@ -292,7 +292,7 @@ const W4000 = [
         {
             "id": 30,
             "word": "depict",
-            "pronunciation": "/dɪˈpɪkt/",
+            "pronunciation": "dɪˈpɪkt",
             "progress": [
                 0,
                 0,
@@ -302,7 +302,7 @@ const W4000 = [
         {
             "id": 31,
             "word": "clarify",
-            "pronunciation": "/ˈklæɹɪfaɪ/",
+            "pronunciation": "ˈklæɹɪfaɪ",
             "progress": [
                 0,
                 0,
@@ -312,7 +312,7 @@ const W4000 = [
         {
             "id": 32,
             "word": "diagnosis",
-            "pronunciation": "/daɪəɡˈnəʊsɪs/",
+            "pronunciation": "daɪəɡˈnəʊsɪs",
             "progress": [
                 0,
                 0,
@@ -322,7 +322,7 @@ const W4000 = [
         {
             "id": 33,
             "word": "colony",
-            "pronunciation": "/ˈkɒl.əni/",
+            "pronunciation": "ˈkɒl.əni",
             "progress": [
                 0,
                 0,
@@ -332,7 +332,7 @@ const W4000 = [
         {
             "id": 34,
             "word": "deadline",
-            "pronunciation": "/ˈdɛdˌlaɪn/",
+            "pronunciation": "ˈdɛdˌlaɪn",
             "progress": [
                 0,
                 0,
@@ -342,7 +342,7 @@ const W4000 = [
         {
             "id": 35,
             "word": "motive",
-            "pronunciation": "/ˈməʊtɪv/",
+            "pronunciation": "ˈməʊtɪv",
             "progress": [
                 0,
                 0,
@@ -352,7 +352,7 @@ const W4000 = [
         {
             "id": 36,
             "word": "mineral",
-            "pronunciation": "/ˈmɪ.nəɹ.əl/",
+            "pronunciation": "ˈmɪ.nəɹ.əl",
             "progress": [
                 0,
                 0,
@@ -362,7 +362,7 @@ const W4000 = [
         {
             "id": 37,
             "word": "readily",
-            "pronunciation": "/ˈɹɛdɪli/",
+            "pronunciation": "ˈɹɛdɪli",
             "progress": [
                 0,
                 0,
@@ -372,7 +372,7 @@ const W4000 = [
         {
             "id": 38,
             "word": "correspondence",
-            "pronunciation": "/ˌkɒɹɪˈspɒndəns/",
+            "pronunciation": "ˌkɒɹɪˈspɒndəns",
             "progress": [
                 0,
                 0,
@@ -382,7 +382,7 @@ const W4000 = [
         {
             "id": 39,
             "word": "tribe",
-            "pronunciation": "/tɹaɪb/",
+            "pronunciation": "tɹaɪb",
             "progress": [
                 0,
                 0,
@@ -392,7 +392,7 @@ const W4000 = [
         {
             "id": 40,
             "word": "statistical",
-            "pronunciation": "/stəˈtɪstɪkəl/",
+            "pronunciation": "stəˈtɪstɪkəl",
             "progress": [
                 0,
                 0,
@@ -402,7 +402,7 @@ const W4000 = [
         {
             "id": 41,
             "word": "disability",
-            "pronunciation": "/dɪsəˈbɪlɪti/",
+            "pronunciation": "dɪsəˈbɪlɪti",
             "progress": [
                 0,
                 0,
@@ -412,7 +412,7 @@ const W4000 = [
         {
             "id": 42,
             "word": "separation",
-            "pronunciation": "/sɛpəˈɹeɪʃən/",
+            "pronunciation": "sɛpəˈɹeɪʃən",
             "progress": [
                 0,
                 0,
@@ -422,7 +422,7 @@ const W4000 = [
         {
             "id": 43,
             "word": "punch",
-            "pronunciation": "/pʌntʃ/",
+            "pronunciation": "pʌntʃ",
             "progress": [
                 0,
                 0,
@@ -432,7 +432,7 @@ const W4000 = [
         {
             "id": 44,
             "word": "infect",
-            "pronunciation": "/ɪnˈfɛkt/",
+            "pronunciation": "ɪnˈfɛkt",
             "progress": [
                 0,
                 0,
@@ -442,7 +442,7 @@ const W4000 = [
         {
             "id": 45,
             "word": "minimize",
-            "pronunciation": "/ˈmɪn.ə.maɪz/",
+            "pronunciation": "ˈmɪn.ə.maɪz",
             "progress": [
                 0,
                 0,
@@ -452,7 +452,7 @@ const W4000 = [
         {
             "id": 46,
             "word": "informal",
-            "pronunciation": "/ɪnˈfɔːm(ə)l/",
+            "pronunciation": "ɪnˈfɔːm(ə)l",
             "progress": [
                 0,
                 0,
@@ -462,7 +462,7 @@ const W4000 = [
         {
             "id": 47,
             "word": "plug",
-            "pronunciation": "/plʌɡ/",
+            "pronunciation": "plʌɡ",
             "progress": [
                 0,
                 0,
@@ -472,7 +472,7 @@ const W4000 = [
         {
             "id": 48,
             "word": "punish",
-            "pronunciation": "/ˈpʌnɪʃ/",
+            "pronunciation": "ˈpʌnɪʃ",
             "progress": [
                 0,
                 0,
@@ -482,7 +482,7 @@ const W4000 = [
         {
             "id": 49,
             "word": "artificial",
-            "pronunciation": "/ɑː(ɹ)təˈfɪʃəl/",
+            "pronunciation": "ɑː(ɹ)təˈfɪʃəl",
             "progress": [
                 0,
                 0,
@@ -492,7 +492,7 @@ const W4000 = [
         {
             "id": 50,
             "word": "strand",
-            "pronunciation": "/stɹænd/",
+            "pronunciation": "stɹænd",
             "progress": [
                 0,
                 0,
@@ -502,7 +502,7 @@ const W4000 = [
         {
             "id": 51,
             "word": "adolescent",
-            "pronunciation": "/ˌædəˈlɛsənt/",
+            "pronunciation": "ˌædəˈlɛsənt",
             "progress": [
                 0,
                 0,
@@ -522,7 +522,7 @@ const W4000 = [
         {
             "id": 53,
             "word": "discourse",
-            "pronunciation": "/dɪsˈkɔː(ɹ)s/",
+            "pronunciation": "dɪsˈkɔː(ɹ)s",
             "progress": [
                 0,
                 0,
@@ -532,7 +532,7 @@ const W4000 = [
         {
             "id": 54,
             "word": "purely",
-            "pronunciation": "/ˈpjɔːli/",
+            "pronunciation": "ˈpjɔːli",
             "progress": [
                 0,
                 0,
@@ -542,7 +542,7 @@ const W4000 = [
         {
             "id": 55,
             "word": "partial",
-            "pronunciation": "/ˈpɑːʃəl/",
+            "pronunciation": "ˈpɑːʃəl",
             "progress": [
                 0,
                 0,
@@ -562,7 +562,7 @@ const W4000 = [
         {
             "id": 57,
             "word": "bound",
-            "pronunciation": "/ˈbaʊnd/",
+            "pronunciation": "ˈbaʊnd",
             "progress": [
                 0,
                 0,
@@ -572,7 +572,7 @@ const W4000 = [
         {
             "id": 58,
             "word": "norm",
-            "pronunciation": "/nɔːm/",
+            "pronunciation": "nɔːm",
             "progress": [
                 0,
                 0,
@@ -582,7 +582,7 @@ const W4000 = [
         {
             "id": 59,
             "word": "duration",
-            "pronunciation": "/djʊˈɹeɪʃn̩/",
+            "pronunciation": "djʊˈɹeɪʃn̩",
             "progress": [
                 0,
                 0,
@@ -592,7 +592,7 @@ const W4000 = [
         {
             "id": 60,
             "word": "constitution",
-            "pronunciation": "/ˌkɒnstɪˈtjuːʃən/",
+            "pronunciation": "ˌkɒnstɪˈtjuːʃən",
             "progress": [
                 0,
                 0,
@@ -602,7 +602,7 @@ const W4000 = [
         {
             "id": 61,
             "word": "homework",
-            "pronunciation": "/ˈhəʊmˌwɜːk/",
+            "pronunciation": "ˈhəʊmˌwɜːk",
             "progress": [
                 0,
                 0,
@@ -612,7 +612,7 @@ const W4000 = [
         {
             "id": 62,
             "word": "horizon",
-            "pronunciation": "/həˈɹaɪzən/",
+            "pronunciation": "həˈɹaɪzən",
             "progress": [
                 0,
                 0,
@@ -622,7 +622,7 @@ const W4000 = [
         {
             "id": 63,
             "word": "allocate",
-            "pronunciation": "/ˈæl.ə.keɪt/",
+            "pronunciation": "ˈæl.ə.keɪt",
             "progress": [
                 0,
                 0,
@@ -632,7 +632,7 @@ const W4000 = [
         {
             "id": 64,
             "word": "rational",
-            "pronunciation": "/ˈɹæʃ(ə)nəl/",
+            "pronunciation": "ˈɹæʃ(ə)nəl",
             "progress": [
                 0,
                 0,
@@ -642,7 +642,7 @@ const W4000 = [
         {
             "id": 65,
             "word": "nest",
-            "pronunciation": "/nɛst/",
+            "pronunciation": "nɛst",
             "progress": [
                 0,
                 0,
@@ -652,7 +652,7 @@ const W4000 = [
         {
             "id": 66,
             "word": "resemble",
-            "pronunciation": "/ɹɪˈzɛmb(ə)l/",
+            "pronunciation": "ɹɪˈzɛmb(ə)l",
             "progress": [
                 0,
                 0,
@@ -662,7 +662,7 @@ const W4000 = [
         {
             "id": 67,
             "word": "deliberately",
-            "pronunciation": "/dəˈlɪb(ə)ɹətli/",
+            "pronunciation": "dəˈlɪb(ə)ɹətli",
             "progress": [
                 0,
                 0,
@@ -682,7 +682,7 @@ const W4000 = [
         {
             "id": 69,
             "word": "psychology",
-            "pronunciation": "/saɪˈkɒlədʒɪ/",
+            "pronunciation": "saɪˈkɒlədʒɪ",
             "progress": [
                 0,
                 0,
@@ -692,7 +692,7 @@ const W4000 = [
         {
             "id": 70,
             "word": "corruption",
-            "pronunciation": "/kəˈɹʌpʃən/",
+            "pronunciation": "kəˈɹʌpʃən",
             "progress": [
                 0,
                 0,
@@ -702,7 +702,7 @@ const W4000 = [
         {
             "id": 71,
             "word": "probe",
-            "pronunciation": "/pɹəʊb/",
+            "pronunciation": "pɹəʊb",
             "progress": [
                 0,
                 0,
@@ -712,7 +712,7 @@ const W4000 = [
         {
             "id": 72,
             "word": "harvest",
-            "pronunciation": "/ˈhaːvəst/",
+            "pronunciation": "ˈhaːvəst",
             "progress": [
                 0,
                 0,
@@ -722,7 +722,7 @@ const W4000 = [
         {
             "id": 73,
             "word": "outer",
-            "pronunciation": "/ˈaʊtə/",
+            "pronunciation": "ˈaʊtə",
             "progress": [
                 0,
                 0,
@@ -732,7 +732,7 @@ const W4000 = [
         {
             "id": 74,
             "word": "recipe",
-            "pronunciation": "/ˈɹɛs.ə.pi/",
+            "pronunciation": "ˈɹɛs.ə.pi",
             "progress": [
                 0,
                 0,
@@ -742,7 +742,7 @@ const W4000 = [
         {
             "id": 75,
             "word": "oxygen",
-            "pronunciation": "/ˈɒksɪdʒən/",
+            "pronunciation": "ˈɒksɪdʒən",
             "progress": [
                 0,
                 0,
@@ -752,7 +752,7 @@ const W4000 = [
         {
             "id": 76,
             "word": "cognitive",
-            "pronunciation": "/ˈkɒɡnɪtɪv/",
+            "pronunciation": "ˈkɒɡnɪtɪv",
             "progress": [
                 0,
                 0,
@@ -762,7 +762,7 @@ const W4000 = [
         {
             "id": 77,
             "word": "subtle",
-            "pronunciation": "/ˈsʌt(ə)l/",
+            "pronunciation": "ˈsʌt(ə)l",
             "progress": [
                 0,
                 0,
@@ -772,7 +772,7 @@ const W4000 = [
         {
             "id": 78,
             "word": "merge",
-            "pronunciation": "/mɜːdʒ/",
+            "pronunciation": "mɜːdʒ",
             "progress": [
                 0,
                 0,
@@ -782,7 +782,7 @@ const W4000 = [
         {
             "id": 79,
             "word": "slot",
-            "pronunciation": "/slɒt/",
+            "pronunciation": "slɒt",
             "progress": [
                 0,
                 0,
@@ -792,7 +792,7 @@ const W4000 = [
         {
             "id": 80,
             "word": "legend",
-            "pronunciation": "/ˈlɛdʒ.ənd/",
+            "pronunciation": "ˈlɛdʒ.ənd",
             "progress": [
                 0,
                 0,
@@ -802,7 +802,7 @@ const W4000 = [
         {
             "id": 81,
             "word": "interface",
-            "pronunciation": "/ˈɪntəfeɪs/",
+            "pronunciation": "ˈɪntəfeɪs",
             "progress": [
                 0,
                 0,
@@ -812,7 +812,7 @@ const W4000 = [
         {
             "id": 82,
             "word": "comparable",
-            "pronunciation": "/kəmˈpæɹəbl̩/",
+            "pronunciation": "kəmˈpæɹəbl̩",
             "progress": [
                 0,
                 0,
@@ -822,7 +822,7 @@ const W4000 = [
         {
             "id": 83,
             "word": "hedge",
-            "pronunciation": "/hɛdʒ/",
+            "pronunciation": "hɛdʒ",
             "progress": [
                 0,
                 0,
@@ -832,7 +832,7 @@ const W4000 = [
         {
             "id": 84,
             "word": "ridiculous",
-            "pronunciation": "/ɹiːˈdɪkjʊləs/",
+            "pronunciation": "ɹiːˈdɪkjʊləs",
             "progress": [
                 0,
                 0,
@@ -842,7 +842,7 @@ const W4000 = [
         {
             "id": 85,
             "word": "linguistic",
-            "pronunciation": "/lɪŋˈɡwɪstɪk/",
+            "pronunciation": "lɪŋˈɡwɪstɪk",
             "progress": [
                 0,
                 0,
@@ -852,7 +852,7 @@ const W4000 = [
         {
             "id": 86,
             "word": "naked",
-            "pronunciation": "/ˈnɛkɪd/",
+            "pronunciation": "ˈnɛkɪd",
             "progress": [
                 0,
                 0,
@@ -862,7 +862,7 @@ const W4000 = [
         {
             "id": 87,
             "word": "preliminary",
-            "pronunciation": "/pɹɪˈlɪmɪnəɹi/",
+            "pronunciation": "pɹɪˈlɪmɪnəɹi",
             "progress": [
                 0,
                 0,
@@ -872,7 +872,7 @@ const W4000 = [
         {
             "id": 88,
             "word": "similarity",
-            "pronunciation": "/sɪmɪˈlæɹɪti/",
+            "pronunciation": "sɪmɪˈlæɹɪti",
             "progress": [
                 0,
                 0,
@@ -882,7 +882,7 @@ const W4000 = [
         {
             "id": 89,
             "word": "bulk",
-            "pronunciation": "/bʌlk/",
+            "pronunciation": "bʌlk",
             "progress": [
                 0,
                 0,
@@ -892,7 +892,7 @@ const W4000 = [
         {
             "id": 90,
             "word": "mall",
-            "pronunciation": "/mɔːl/",
+            "pronunciation": "mɔːl",
             "progress": [
                 0,
                 0,
@@ -902,7 +902,7 @@ const W4000 = [
         {
             "id": 91,
             "word": "rub",
-            "pronunciation": "/ɹʌb/",
+            "pronunciation": "ɹʌb",
             "progress": [
                 0,
                 0,
@@ -912,7 +912,7 @@ const W4000 = [
         {
             "id": 92,
             "word": "poster",
-            "pronunciation": "/ˈpoʊstɚ/",
+            "pronunciation": "ˈpoʊstɚ",
             "progress": [
                 0,
                 0,
@@ -922,7 +922,7 @@ const W4000 = [
         {
             "id": 93,
             "word": "myth",
-            "pronunciation": "/mɪθ/",
+            "pronunciation": "mɪθ",
             "progress": [
                 0,
                 0,
@@ -932,7 +932,7 @@ const W4000 = [
         {
             "id": 94,
             "word": "ghost",
-            "pronunciation": "/ɡəʊst/",
+            "pronunciation": "ɡəʊst",
             "progress": [
                 0,
                 0,
@@ -942,7 +942,7 @@ const W4000 = [
         {
             "id": 95,
             "word": "pole",
-            "pronunciation": "/pɔːl/",
+            "pronunciation": "pɔːl",
             "progress": [
                 0,
                 0,
@@ -952,7 +952,7 @@ const W4000 = [
         {
             "id": 96,
             "word": "separately",
-            "pronunciation": "/ˈsɛpəɹətli/",
+            "pronunciation": "ˈsɛpəɹətli",
             "progress": [
                 0,
                 0,
@@ -972,7 +972,7 @@ const W4000 = [
         {
             "id": 98,
             "word": "rope",
-            "pronunciation": "/ɹəʊp/",
+            "pronunciation": "ɹəʊp",
             "progress": [
                 0,
                 0,
@@ -982,7 +982,7 @@ const W4000 = [
         {
             "id": 99,
             "word": "swell",
-            "pronunciation": "/swɛl/",
+            "pronunciation": "swɛl",
             "progress": [
                 0,
                 0,
@@ -1002,7 +1002,7 @@ const W4000 = [
         {
             "id": 101,
             "word": "processor",
-            "pronunciation": "/ˈpɹəʊˌsɛsə(ɹ)/",
+            "pronunciation": "ˈpɹəʊˌsɛsə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -1012,7 +1012,7 @@ const W4000 = [
         {
             "id": 102,
             "word": "robot",
-            "pronunciation": "/ˈɹoʊbət/",
+            "pronunciation": "ˈɹoʊbət",
             "progress": [
                 0,
                 0,
@@ -1022,7 +1022,7 @@ const W4000 = [
         {
             "id": 103,
             "word": "correlation",
-            "pronunciation": "/kɒɹəˈleɪʃən/",
+            "pronunciation": "kɒɹəˈleɪʃən",
             "progress": [
                 0,
                 0,
@@ -1032,7 +1032,7 @@ const W4000 = [
         {
             "id": 104,
             "word": "manuscript",
-            "pronunciation": "/ˈmænjəˌskɹɪpt/",
+            "pronunciation": "ˈmænjəˌskɹɪpt",
             "progress": [
                 0,
                 0,
@@ -1042,7 +1042,7 @@ const W4000 = [
         {
             "id": 105,
             "word": "transmit",
-            "pronunciation": "/tɹænsˈmɪt/",
+            "pronunciation": "tɹænsˈmɪt",
             "progress": [
                 0,
                 0,
@@ -1052,7 +1052,7 @@ const W4000 = [
         {
             "id": 106,
             "word": "molecule",
-            "pronunciation": "/ˈmɒləkjuːl/",
+            "pronunciation": "ˈmɒləkjuːl",
             "progress": [
                 0,
                 0,
@@ -1062,7 +1062,7 @@ const W4000 = [
         {
             "id": 107,
             "word": "bacteria",
-            "pronunciation": "/bækˈtɪəɹ.ɪ.ə/",
+            "pronunciation": "bækˈtɪəɹ.ɪ.ə",
             "progress": [
                 0,
                 0,
@@ -1072,7 +1072,7 @@ const W4000 = [
         {
             "id": 108,
             "word": "sufficiently",
-            "pronunciation": "/səˈfɪʃəntli/",
+            "pronunciation": "səˈfɪʃəntli",
             "progress": [
                 0,
                 0,
@@ -1082,7 +1082,7 @@ const W4000 = [
         {
             "id": 109,
             "word": "stack",
-            "pronunciation": "/stæk/",
+            "pronunciation": "stæk",
             "progress": [
                 0,
                 0,
@@ -1092,7 +1092,7 @@ const W4000 = [
         {
             "id": 110,
             "word": "nasty",
-            "pronunciation": "/ˈnaː.sti/",
+            "pronunciation": "ˈnaː.sti",
             "progress": [
                 0,
                 0,
@@ -1102,7 +1102,7 @@ const W4000 = [
         {
             "id": 111,
             "word": "explicit",
-            "pronunciation": "/ɪkˈsplɪsɪt/",
+            "pronunciation": "ɪkˈsplɪsɪt",
             "progress": [
                 0,
                 0,
@@ -1112,7 +1112,7 @@ const W4000 = [
         {
             "id": 112,
             "word": "revolutionary",
-            "pronunciation": "/-ˈljuː-/",
+            "pronunciation": "-ˈljuː-",
             "progress": [
                 0,
                 0,
@@ -1122,7 +1122,7 @@ const W4000 = [
         {
             "id": 113,
             "word": "projection",
-            "pronunciation": "/pɹəˈdʒɛkʃən/",
+            "pronunciation": "pɹəˈdʒɛkʃən",
             "progress": [
                 0,
                 0,
@@ -1132,7 +1132,7 @@ const W4000 = [
         {
             "id": 114,
             "word": "essence",
-            "pronunciation": "/ˈɛsəns/",
+            "pronunciation": "ˈɛsəns",
             "progress": [
                 0,
                 0,
@@ -1142,7 +1142,7 @@ const W4000 = [
         {
             "id": 115,
             "word": "sensitivity",
-            "pronunciation": "/ˌsɛnsɪˈtɪvɪti/",
+            "pronunciation": "ˌsɛnsɪˈtɪvɪti",
             "progress": [
                 0,
                 0,
@@ -1152,7 +1152,7 @@ const W4000 = [
         {
             "id": 116,
             "word": "spray",
-            "pronunciation": "/spɹeɪ/",
+            "pronunciation": "spɹeɪ",
             "progress": [
                 0,
                 0,
@@ -1162,7 +1162,7 @@ const W4000 = [
         {
             "id": 117,
             "word": "usage",
-            "pronunciation": "/ˈjuːsɪd͡ʒ/",
+            "pronunciation": "ˈjuːsɪd͡ʒ",
             "progress": [
                 0,
                 0,
@@ -1172,7 +1172,7 @@ const W4000 = [
         {
             "id": 118,
             "word": "bang",
-            "pronunciation": "/bæŋ(ɡ)/",
+            "pronunciation": "bæŋ(ɡ)",
             "progress": [
                 0,
                 0,
@@ -1182,7 +1182,7 @@ const W4000 = [
         {
             "id": 119,
             "word": "bullet",
-            "pronunciation": "/ˈbʊl.ɪt/",
+            "pronunciation": "ˈbʊl.ɪt",
             "progress": [
                 0,
                 0,
@@ -1192,7 +1192,7 @@ const W4000 = [
         {
             "id": 120,
             "word": "progressive",
-            "pronunciation": "/pɹəˈɡɹɛsɪv/",
+            "pronunciation": "pɹəˈɡɹɛsɪv",
             "progress": [
                 0,
                 0,
@@ -1202,7 +1202,7 @@ const W4000 = [
         {
             "id": 121,
             "word": "breakdown",
-            "pronunciation": "/ˈbɹeɪkdaʊn/",
+            "pronunciation": "ˈbɹeɪkdaʊn",
             "progress": [
                 0,
                 0,
@@ -1212,7 +1212,7 @@ const W4000 = [
         {
             "id": 122,
             "word": "consciousness",
-            "pronunciation": "/ˈkɒnʃəsnəs/",
+            "pronunciation": "ˈkɒnʃəsnəs",
             "progress": [
                 0,
                 0,
@@ -1222,7 +1222,7 @@ const W4000 = [
         {
             "id": 123,
             "word": "influential",
-            "pronunciation": "/ɪnfluˈɛnʃəl/",
+            "pronunciation": "ɪnfluˈɛnʃəl",
             "progress": [
                 0,
                 0,
@@ -1232,7 +1232,7 @@ const W4000 = [
         {
             "id": 124,
             "word": "insect",
-            "pronunciation": "/ˈɪnsɛkt/",
+            "pronunciation": "ˈɪnsɛkt",
             "progress": [
                 0,
                 0,
@@ -1242,7 +1242,7 @@ const W4000 = [
         {
             "id": 125,
             "word": "underneath",
-            "pronunciation": "/ʌndəˈniθ/",
+            "pronunciation": "ʌndəˈniθ",
             "progress": [
                 0,
                 0,
@@ -1252,7 +1252,7 @@ const W4000 = [
         {
             "id": 126,
             "word": "interfere",
-            "pronunciation": "/ˌɪntəˈfɪə/",
+            "pronunciation": "ˌɪntəˈfɪə",
             "progress": [
                 0,
                 0,
@@ -1262,7 +1262,7 @@ const W4000 = [
         {
             "id": 127,
             "word": "surplus",
-            "pronunciation": "/ˈsɜːpləs/",
+            "pronunciation": "ˈsɜːpləs",
             "progress": [
                 0,
                 0,
@@ -1272,7 +1272,7 @@ const W4000 = [
         {
             "id": 128,
             "word": "bundle",
-            "pronunciation": "/ˈbʌnd(ə)l/",
+            "pronunciation": "ˈbʌnd(ə)l",
             "progress": [
                 0,
                 0,
@@ -1292,7 +1292,7 @@ const W4000 = [
         {
             "id": 130,
             "word": "whoever",
-            "pronunciation": "/huˈɛvə/",
+            "pronunciation": "huˈɛvə",
             "progress": [
                 0,
                 0,
@@ -1302,7 +1302,7 @@ const W4000 = [
         {
             "id": 131,
             "word": "accelerate",
-            "pronunciation": "/æk.ˈsɛl.ə.ˌɹeɪt/",
+            "pronunciation": "æk.ˈsɛl.ə.ˌɹeɪt",
             "progress": [
                 0,
                 0,
@@ -1312,7 +1312,7 @@ const W4000 = [
         {
             "id": 132,
             "word": "oral",
-            "pronunciation": "/ˈɒɹəl/",
+            "pronunciation": "ˈɒɹəl",
             "progress": [
                 0,
                 0,
@@ -1322,7 +1322,7 @@ const W4000 = [
         {
             "id": 133,
             "word": "diagram",
-            "pronunciation": "/ˈdaɪ.ə.ɡɹæm/",
+            "pronunciation": "ˈdaɪ.ə.ɡɹæm",
             "progress": [
                 0,
                 0,
@@ -1342,7 +1342,7 @@ const W4000 = [
         {
             "id": 135,
             "word": "bubble",
-            "pronunciation": "/ˈbʌb.əl/",
+            "pronunciation": "ˈbʌb.əl",
             "progress": [
                 0,
                 0,
@@ -1352,7 +1352,7 @@ const W4000 = [
         {
             "id": 136,
             "word": "portray",
-            "pronunciation": "/pɔɹˈtɹeɪ/",
+            "pronunciation": "pɔɹˈtɹeɪ",
             "progress": [
                 0,
                 0,
@@ -1372,7 +1372,7 @@ const W4000 = [
         {
             "id": 138,
             "word": "machinery",
-            "pronunciation": "/məˈʃiːnəɹi/",
+            "pronunciation": "məˈʃiːnəɹi",
             "progress": [
                 0,
                 0,
@@ -1382,7 +1382,7 @@ const W4000 = [
         {
             "id": 139,
             "word": "barrel",
-            "pronunciation": "/ˈbæɹəl/",
+            "pronunciation": "ˈbæɹəl",
             "progress": [
                 0,
                 0,
@@ -1392,7 +1392,7 @@ const W4000 = [
         {
             "id": 140,
             "word": "array",
-            "pronunciation": "/əˈɹeɪ/",
+            "pronunciation": "əˈɹeɪ",
             "progress": [
                 0,
                 0,
@@ -1412,7 +1412,7 @@ const W4000 = [
         {
             "id": 142,
             "word": "radiation",
-            "pronunciation": "/ɹaɪ.di.ˈaɪ.ʃən/",
+            "pronunciation": "ɹaɪ.di.ˈaɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -1422,7 +1422,7 @@ const W4000 = [
         {
             "id": 143,
             "word": "competence",
-            "pronunciation": "/ˈkɒmpətəns/",
+            "pronunciation": "ˈkɒmpətəns",
             "progress": [
                 0,
                 0,
@@ -1442,7 +1442,7 @@ const W4000 = [
         {
             "id": 145,
             "word": "solar",
-            "pronunciation": "/ˈsəʊlə/",
+            "pronunciation": "ˈsəʊlə",
             "progress": [
                 0,
                 0,
@@ -1452,7 +1452,7 @@ const W4000 = [
         {
             "id": 146,
             "word": "conservation",
-            "pronunciation": "/ˌkɑnsə(ɹ)ˈveɪʃən/",
+            "pronunciation": "ˌkɑnsə(ɹ)ˈveɪʃən",
             "progress": [
                 0,
                 0,
@@ -1462,7 +1462,7 @@ const W4000 = [
         {
             "id": 147,
             "word": "sometime",
-            "pronunciation": "/ˈsʌmˌtaɪm/",
+            "pronunciation": "ˈsʌmˌtaɪm",
             "progress": [
                 0,
                 0,
@@ -1472,7 +1472,7 @@ const W4000 = [
         {
             "id": 148,
             "word": "injection",
-            "pronunciation": "/ɪn.ˈdʒɛk.ʃən/",
+            "pronunciation": "ɪn.ˈdʒɛk.ʃən",
             "progress": [
                 0,
                 0,
@@ -1482,7 +1482,7 @@ const W4000 = [
         {
             "id": 149,
             "word": "freely",
-            "pronunciation": "/ˈfɹili/",
+            "pronunciation": "ˈfɹili",
             "progress": [
                 0,
                 0,
@@ -1502,7 +1502,7 @@ const W4000 = [
         {
             "id": 151,
             "word": "wheat",
-            "pronunciation": "/wiːt/",
+            "pronunciation": "wiːt",
             "progress": [
                 0,
                 0,
@@ -1512,7 +1512,7 @@ const W4000 = [
         {
             "id": 152,
             "word": "vertical",
-            "pronunciation": "/ˈvɜːtɪkəl/",
+            "pronunciation": "ˈvɜːtɪkəl",
             "progress": [
                 0,
                 0,
@@ -1522,7 +1522,7 @@ const W4000 = [
         {
             "id": 153,
             "word": "incredibly",
-            "pronunciation": "/ɪŋˈkɹɛdɪbli/",
+            "pronunciation": "ɪŋˈkɹɛdɪbli",
             "progress": [
                 0,
                 0,
@@ -1532,7 +1532,7 @@ const W4000 = [
         {
             "id": 154,
             "word": "flesh",
-            "pronunciation": "/flɛʃ/",
+            "pronunciation": "flɛʃ",
             "progress": [
                 0,
                 0,
@@ -1542,7 +1542,7 @@ const W4000 = [
         {
             "id": 155,
             "word": "donor",
-            "pronunciation": "/ˈdəʊnə/",
+            "pronunciation": "ˈdəʊnə",
             "progress": [
                 0,
                 0,
@@ -1572,7 +1572,7 @@ const W4000 = [
         {
             "id": 158,
             "word": "sketch",
-            "pronunciation": "/skɛtʃ/",
+            "pronunciation": "skɛtʃ",
             "progress": [
                 0,
                 0,
@@ -1582,7 +1582,7 @@ const W4000 = [
         {
             "id": 159,
             "word": "profound",
-            "pronunciation": "/pɹəˈfaʊnd/",
+            "pronunciation": "pɹəˈfaʊnd",
             "progress": [
                 0,
                 0,
@@ -1592,7 +1592,7 @@ const W4000 = [
         {
             "id": 160,
             "word": "transmission",
-            "pronunciation": "/tɹænsˈmɪʃən/",
+            "pronunciation": "tɹænsˈmɪʃən",
             "progress": [
                 0,
                 0,
@@ -1602,7 +1602,7 @@ const W4000 = [
         {
             "id": 161,
             "word": "meaningful",
-            "pronunciation": "/ˈminɪŋfʊl/",
+            "pronunciation": "ˈminɪŋfʊl",
             "progress": [
                 0,
                 0,
@@ -1622,7 +1622,7 @@ const W4000 = [
         {
             "id": 163,
             "word": "artistic",
-            "pronunciation": "/ɑːˈtɪstɪk/",
+            "pronunciation": "ɑːˈtɪstɪk",
             "progress": [
                 0,
                 0,
@@ -1632,7 +1632,7 @@ const W4000 = [
         {
             "id": 164,
             "word": "crystal",
-            "pronunciation": "/ˈkɹɪstəl/",
+            "pronunciation": "ˈkɹɪstəl",
             "progress": [
                 0,
                 0,
@@ -1642,7 +1642,7 @@ const W4000 = [
         {
             "id": 165,
             "word": "commodity",
-            "pronunciation": "/kəˈmɒdəti/",
+            "pronunciation": "kəˈmɒdəti",
             "progress": [
                 0,
                 0,
@@ -1652,7 +1652,7 @@ const W4000 = [
         {
             "id": 166,
             "word": "prejudice",
-            "pronunciation": "/ˈpɹɛd͡ʒədɪs/",
+            "pronunciation": "ˈpɹɛd͡ʒədɪs",
             "progress": [
                 0,
                 0,
@@ -1662,7 +1662,7 @@ const W4000 = [
         {
             "id": 167,
             "word": "questionnaire",
-            "pronunciation": "/ˌk(w)estjəˈnɛə/",
+            "pronunciation": "ˌk(w)estjəˈnɛə",
             "progress": [
                 0,
                 0,
@@ -1682,7 +1682,7 @@ const W4000 = [
         {
             "id": 169,
             "word": "terribly",
-            "pronunciation": "/ˈtɛɹ.ɪ.bli/",
+            "pronunciation": "ˈtɛɹ.ɪ.bli",
             "progress": [
                 0,
                 0,
@@ -1692,7 +1692,7 @@ const W4000 = [
         {
             "id": 170,
             "word": "gut",
-            "pronunciation": "/ɡʌt/",
+            "pronunciation": "ɡʌt",
             "progress": [
                 0,
                 0,
@@ -1702,7 +1702,7 @@ const W4000 = [
         {
             "id": 171,
             "word": "consultation",
-            "pronunciation": "/ˌkɒnsl̩ˈteɪʃən/",
+            "pronunciation": "ˌkɒnsl̩ˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -1712,7 +1712,7 @@ const W4000 = [
         {
             "id": 172,
             "word": "auction",
-            "pronunciation": "/ˈɒkʃən/",
+            "pronunciation": "ˈɒkʃən",
             "progress": [
                 0,
                 0,
@@ -1732,7 +1732,7 @@ const W4000 = [
         {
             "id": 174,
             "word": "mortality",
-            "pronunciation": "/mɔɹˈtælɪti/",
+            "pronunciation": "mɔɹˈtælɪti",
             "progress": [
                 0,
                 0,
@@ -1742,7 +1742,7 @@ const W4000 = [
         {
             "id": 175,
             "word": "overhead",
-            "pronunciation": "/ˈəʊvəˌhɛd/",
+            "pronunciation": "ˈəʊvəˌhɛd",
             "progress": [
                 0,
                 0,
@@ -1752,7 +1752,7 @@ const W4000 = [
         {
             "id": 176,
             "word": "formally",
-            "pronunciation": "/ˈfɔːməli/",
+            "pronunciation": "ˈfɔːməli",
             "progress": [
                 0,
                 0,
@@ -1772,7 +1772,7 @@ const W4000 = [
         {
             "id": 178,
             "word": "ideology",
-            "pronunciation": "/ˌaɪ.diːˈɒl.ə.d͡ʒiː/",
+            "pronunciation": "ˌaɪ.diːˈɒl.ə.d͡ʒiː",
             "progress": [
                 0,
                 0,
@@ -1782,7 +1782,7 @@ const W4000 = [
         {
             "id": 179,
             "word": "practitioner",
-            "pronunciation": "/pɹækˈtɪʃənə/",
+            "pronunciation": "pɹækˈtɪʃənə",
             "progress": [
                 0,
                 0,
@@ -1792,7 +1792,7 @@ const W4000 = [
         {
             "id": 180,
             "word": "minimal",
-            "pronunciation": "/mɪnəməl/",
+            "pronunciation": "mɪnəməl",
             "progress": [
                 0,
                 0,
@@ -1802,7 +1802,7 @@ const W4000 = [
         {
             "id": 181,
             "word": "goodness",
-            "pronunciation": "/ˈɡʊdnəs/",
+            "pronunciation": "ˈɡʊdnəs",
             "progress": [
                 0,
                 0,
@@ -1812,7 +1812,7 @@ const W4000 = [
         {
             "id": 182,
             "word": "loop",
-            "pronunciation": "/luːp/",
+            "pronunciation": "luːp",
             "progress": [
                 0,
                 0,
@@ -1832,7 +1832,7 @@ const W4000 = [
         {
             "id": 184,
             "word": "mechanical",
-            "pronunciation": "/mɪˈkanɪk(ə)l/",
+            "pronunciation": "mɪˈkanɪk(ə)l",
             "progress": [
                 0,
                 0,
@@ -1852,7 +1852,7 @@ const W4000 = [
         {
             "id": 186,
             "word": "chemistry",
-            "pronunciation": "/ˈkɛm.ɪ.stɹi/",
+            "pronunciation": "ˈkɛm.ɪ.stɹi",
             "progress": [
                 0,
                 0,
@@ -1862,7 +1862,7 @@ const W4000 = [
         {
             "id": 187,
             "word": "obscure",
-            "pronunciation": "/əbˈskjɔː(ɹ)/",
+            "pronunciation": "əbˈskjɔː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -1872,7 +1872,7 @@ const W4000 = [
         {
             "id": 188,
             "word": "powder",
-            "pronunciation": "/ˈpaʊ.də(ɹ)/",
+            "pronunciation": "ˈpaʊ.də(ɹ)",
             "progress": [
                 0,
                 0,
@@ -1882,7 +1882,7 @@ const W4000 = [
         {
             "id": 189,
             "word": "alien",
-            "pronunciation": "/ˈeɪ.li.ən/",
+            "pronunciation": "ˈeɪ.li.ən",
             "progress": [
                 0,
                 0,
@@ -1892,7 +1892,7 @@ const W4000 = [
         {
             "id": 190,
             "word": "neutral",
-            "pronunciation": "/ˈnjuːtɹəl/",
+            "pronunciation": "ˈnjuːtɹəl",
             "progress": [
                 0,
                 0,
@@ -1912,7 +1912,7 @@ const W4000 = [
         {
             "id": 192,
             "word": "compensate",
-            "pronunciation": "/ˈkɒm.pən.seɪt/",
+            "pronunciation": "ˈkɒm.pən.seɪt",
             "progress": [
                 0,
                 0,
@@ -1922,7 +1922,7 @@ const W4000 = [
         {
             "id": 193,
             "word": "accumulate",
-            "pronunciation": "/əˈkjuːmjʊˌleɪt/",
+            "pronunciation": "əˈkjuːmjʊˌleɪt",
             "progress": [
                 0,
                 0,
@@ -1942,7 +1942,7 @@ const W4000 = [
         {
             "id": 195,
             "word": "utilize",
-            "pronunciation": "/ˈjuːtɨlaɪz/",
+            "pronunciation": "ˈjuːtɨlaɪz",
             "progress": [
                 0,
                 0,
@@ -1952,7 +1952,7 @@ const W4000 = [
         {
             "id": 196,
             "word": "surgeon",
-            "pronunciation": "/ˈsɜːdʒən/",
+            "pronunciation": "ˈsɜːdʒən",
             "progress": [
                 0,
                 0,
@@ -1962,7 +1962,7 @@ const W4000 = [
         {
             "id": 197,
             "word": "pulse",
-            "pronunciation": "/pʊls/",
+            "pronunciation": "pʊls",
             "progress": [
                 0,
                 0,
@@ -1972,7 +1972,7 @@ const W4000 = [
         {
             "id": 198,
             "word": "embed",
-            "pronunciation": "/əmˈbɛd/",
+            "pronunciation": "əmˈbɛd",
             "progress": [
                 0,
                 0,
@@ -1982,7 +1982,7 @@ const W4000 = [
         {
             "id": 199,
             "word": "bleed",
-            "pronunciation": "/ˈbliːd/",
+            "pronunciation": "ˈbliːd",
             "progress": [
                 0,
                 0,
@@ -1992,7 +1992,7 @@ const W4000 = [
         {
             "id": 200,
             "word": "ruler",
-            "pronunciation": "/ˈɹuːlə(ɹ)/",
+            "pronunciation": "ˈɹuːlə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -2002,7 +2002,7 @@ const W4000 = [
         {
             "id": 201,
             "word": "leaf",
-            "pronunciation": "/liːf/",
+            "pronunciation": "liːf",
             "progress": [
                 0,
                 0,
@@ -2012,7 +2012,7 @@ const W4000 = [
         {
             "id": 202,
             "word": "partially",
-            "pronunciation": "/ˈpɑːʃəli/",
+            "pronunciation": "ˈpɑːʃəli",
             "progress": [
                 0,
                 0,
@@ -2032,7 +2032,7 @@ const W4000 = [
         {
             "id": 204,
             "word": "thesis",
-            "pronunciation": "/ˈθisɪs/",
+            "pronunciation": "ˈθisɪs",
             "progress": [
                 0,
                 0,
@@ -2042,7 +2042,7 @@ const W4000 = [
         {
             "id": 205,
             "word": "monkey",
-            "pronunciation": "/ˈmʌŋki/",
+            "pronunciation": "ˈmʌŋki",
             "progress": [
                 0,
                 0,
@@ -2052,7 +2052,7 @@ const W4000 = [
         {
             "id": 206,
             "word": "activate",
-            "pronunciation": "/ˈæktɪˌveɪt/",
+            "pronunciation": "ˈæktɪˌveɪt",
             "progress": [
                 0,
                 0,
@@ -2062,7 +2062,7 @@ const W4000 = [
         {
             "id": 207,
             "word": "conceive",
-            "pronunciation": "/kənˈsiːv/",
+            "pronunciation": "kənˈsiːv",
             "progress": [
                 0,
                 0,
@@ -2072,7 +2072,7 @@ const W4000 = [
         {
             "id": 208,
             "word": "intensive",
-            "pronunciation": "/ɪnˈtɛnsɪv/",
+            "pronunciation": "ɪnˈtɛnsɪv",
             "progress": [
                 0,
                 0,
@@ -2082,7 +2082,7 @@ const W4000 = [
         {
             "id": 209,
             "word": "overlap",
-            "pronunciation": "/ˈəʊvəˌlæp/",
+            "pronunciation": "ˈəʊvəˌlæp",
             "progress": [
                 0,
                 0,
@@ -2092,7 +2092,7 @@ const W4000 = [
         {
             "id": 210,
             "word": "manipulate",
-            "pronunciation": "/məˈnɪpjʊleɪt/",
+            "pronunciation": "məˈnɪpjʊleɪt",
             "progress": [
                 0,
                 0,
@@ -2102,7 +2102,7 @@ const W4000 = [
         {
             "id": 211,
             "word": "skip",
-            "pronunciation": "/skɪp/",
+            "pronunciation": "skɪp",
             "progress": [
                 0,
                 0,
@@ -2112,7 +2112,7 @@ const W4000 = [
         {
             "id": 212,
             "word": "orientation",
-            "pronunciation": "/ˌɔɹiɛnˈteɪʃən/",
+            "pronunciation": "ˌɔɹiɛnˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -2122,7 +2122,7 @@ const W4000 = [
         {
             "id": 213,
             "word": "equality",
-            "pronunciation": "/ɪˈkwɒl.ɪ.ti/",
+            "pronunciation": "ɪˈkwɒl.ɪ.ti",
             "progress": [
                 0,
                 0,
@@ -2132,7 +2132,7 @@ const W4000 = [
         {
             "id": 214,
             "word": "developmental",
-            "pronunciation": "/dɪˌvɛləpˈmɛntəl/",
+            "pronunciation": "dɪˌvɛləpˈmɛntəl",
             "progress": [
                 0,
                 0,
@@ -2142,7 +2142,7 @@ const W4000 = [
         {
             "id": 215,
             "word": "articulate",
-            "pronunciation": "/ɑː(ɹ)ˈtɪk.jʊ.lət/",
+            "pronunciation": "ɑː(ɹ)ˈtɪk.jʊ.lət",
             "progress": [
                 0,
                 0,
@@ -2152,7 +2152,7 @@ const W4000 = [
         {
             "id": 216,
             "word": "ethical",
-            "pronunciation": "/ˈɛθɪkəl/",
+            "pronunciation": "ˈɛθɪkəl",
             "progress": [
                 0,
                 0,
@@ -2162,7 +2162,7 @@ const W4000 = [
         {
             "id": 217,
             "word": "weave",
-            "pronunciation": "/wiːv/",
+            "pronunciation": "wiːv",
             "progress": [
                 0,
                 0,
@@ -2182,7 +2182,7 @@ const W4000 = [
         {
             "id": 219,
             "word": "presume",
-            "pronunciation": "/pɹɪˈzjuːm/",
+            "pronunciation": "pɹɪˈzjuːm",
             "progress": [
                 0,
                 0,
@@ -2202,7 +2202,7 @@ const W4000 = [
         {
             "id": 221,
             "word": "peasant",
-            "pronunciation": "/ˈpɛzənt/",
+            "pronunciation": "ˈpɛzənt",
             "progress": [
                 0,
                 0,
@@ -2212,7 +2212,7 @@ const W4000 = [
         {
             "id": 222,
             "word": "chronic",
-            "pronunciation": "/ˈkɹɒnɪk/",
+            "pronunciation": "ˈkɹɒnɪk",
             "progress": [
                 0,
                 0,
@@ -2222,7 +2222,7 @@ const W4000 = [
         {
             "id": 223,
             "word": "flip",
-            "pronunciation": "/flɪp/",
+            "pronunciation": "flɪp",
             "progress": [
                 0,
                 0,
@@ -2232,7 +2232,7 @@ const W4000 = [
         {
             "id": 224,
             "word": "sensation",
-            "pronunciation": "/sɛnˈseɪʃən/",
+            "pronunciation": "sɛnˈseɪʃən",
             "progress": [
                 0,
                 0,
@@ -2242,7 +2242,7 @@ const W4000 = [
         {
             "id": 225,
             "word": "organism",
-            "pronunciation": "/ˈɔː.ɡən.ɪ.zəm/",
+            "pronunciation": "ˈɔː.ɡən.ɪ.zəm",
             "progress": [
                 0,
                 0,
@@ -2262,7 +2262,7 @@ const W4000 = [
         {
             "id": 227,
             "word": "unity",
-            "pronunciation": "/ˈjuːnɪtɪ/",
+            "pronunciation": "ˈjuːnɪtɪ",
             "progress": [
                 0,
                 0,
@@ -2272,7 +2272,7 @@ const W4000 = [
         {
             "id": 228,
             "word": "tumor",
-            "pronunciation": "/tjuː.mə/",
+            "pronunciation": "tjuː.mə",
             "progress": [
                 0,
                 0,
@@ -2282,7 +2282,7 @@ const W4000 = [
         {
             "id": 229,
             "word": "trait",
-            "pronunciation": "/tɹeɪ/",
+            "pronunciation": "tɹeɪ",
             "progress": [
                 0,
                 0,
@@ -2292,7 +2292,7 @@ const W4000 = [
         {
             "id": 230,
             "word": "compact",
-            "pronunciation": "/kəmˈpækt/",
+            "pronunciation": "kəmˈpækt",
             "progress": [
                 0,
                 0,
@@ -2322,7 +2322,7 @@ const W4000 = [
         {
             "id": 233,
             "word": "modification",
-            "pronunciation": "/ˌmɒdɪfɪˈkeɪʃən/",
+            "pronunciation": "ˌmɒdɪfɪˈkeɪʃən",
             "progress": [
                 0,
                 0,
@@ -2332,7 +2332,7 @@ const W4000 = [
         {
             "id": 234,
             "word": "instinct",
-            "pronunciation": "/ˈɪn.stɪŋkt/",
+            "pronunciation": "ˈɪn.stɪŋkt",
             "progress": [
                 0,
                 0,
@@ -2342,7 +2342,7 @@ const W4000 = [
         {
             "id": 235,
             "word": "container",
-            "pronunciation": "/kənˈteɪnə/",
+            "pronunciation": "kənˈteɪnə",
             "progress": [
                 0,
                 0,
@@ -2352,7 +2352,7 @@ const W4000 = [
         {
             "id": 236,
             "word": "likelihood",
-            "pronunciation": "/ˈlaɪklihʊd/",
+            "pronunciation": "ˈlaɪklihʊd",
             "progress": [
                 0,
                 0,
@@ -2362,7 +2362,7 @@ const W4000 = [
         {
             "id": 237,
             "word": "conception",
-            "pronunciation": "/kənˈsɛpʃən/",
+            "pronunciation": "kənˈsɛpʃən",
             "progress": [
                 0,
                 0,
@@ -2372,7 +2372,7 @@ const W4000 = [
         {
             "id": 238,
             "word": "biology",
-            "pronunciation": "/baɪˈɒlədʒɪ/",
+            "pronunciation": "baɪˈɒlədʒɪ",
             "progress": [
                 0,
                 0,
@@ -2382,7 +2382,7 @@ const W4000 = [
         {
             "id": 239,
             "word": "metaphor",
-            "pronunciation": "/ˈmɛt.ə.fɔː(ɹ)/",
+            "pronunciation": "ˈmɛt.ə.fɔː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -2392,7 +2392,7 @@ const W4000 = [
         {
             "id": 240,
             "word": "audio",
-            "pronunciation": "/ˈɔː.di.əʊ/",
+            "pronunciation": "ˈɔː.di.əʊ",
             "progress": [
                 0,
                 0,
@@ -2402,7 +2402,7 @@ const W4000 = [
         {
             "id": 241,
             "word": "closure",
-            "pronunciation": "/ˈkləʊ.ʒə(ɹ)/",
+            "pronunciation": "ˈkləʊ.ʒə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -2412,7 +2412,7 @@ const W4000 = [
         {
             "id": 242,
             "word": "dilemma",
-            "pronunciation": "/daɪˈlɛmə/",
+            "pronunciation": "daɪˈlɛmə",
             "progress": [
                 0,
                 0,
@@ -2422,7 +2422,7 @@ const W4000 = [
         {
             "id": 243,
             "word": "colonial",
-            "pronunciation": "/kəˈləʊ.ni.əl/",
+            "pronunciation": "kəˈləʊ.ni.əl",
             "progress": [
                 0,
                 0,
@@ -2432,7 +2432,7 @@ const W4000 = [
         {
             "id": 244,
             "word": "diagnose",
-            "pronunciation": "/daɪəɡˈnəʊz/",
+            "pronunciation": "daɪəɡˈnəʊz",
             "progress": [
                 0,
                 0,
@@ -2442,7 +2442,7 @@ const W4000 = [
         {
             "id": 245,
             "word": "invade",
-            "pronunciation": "/ɪnˈveɪd/",
+            "pronunciation": "ɪnˈveɪd",
             "progress": [
                 0,
                 0,
@@ -2452,7 +2452,7 @@ const W4000 = [
         {
             "id": 246,
             "word": "accurately",
-            "pronunciation": "/ˈæk.jə.ɹɪt.li/",
+            "pronunciation": "ˈæk.jə.ɹɪt.li",
             "progress": [
                 0,
                 0,
@@ -2462,7 +2462,7 @@ const W4000 = [
         {
             "id": 247,
             "word": "stereotype",
-            "pronunciation": "/ˈstɛ.ɹi.əˌtaɪp/",
+            "pronunciation": "ˈstɛ.ɹi.əˌtaɪp",
             "progress": [
                 0,
                 0,
@@ -2472,7 +2472,7 @@ const W4000 = [
         {
             "id": 248,
             "word": "specialty",
-            "pronunciation": "/ˈspɛʃəlti/",
+            "pronunciation": "ˈspɛʃəlti",
             "progress": [
                 0,
                 0,
@@ -2482,7 +2482,7 @@ const W4000 = [
         {
             "id": 249,
             "word": "positively",
-            "pronunciation": "/ˈpɒzɪtɪvli/",
+            "pronunciation": "ˈpɒzɪtɪvli",
             "progress": [
                 0,
                 0,
@@ -2492,7 +2492,7 @@ const W4000 = [
         {
             "id": 250,
             "word": "threshold",
-            "pronunciation": "/ˈθɹeʃ(h)əʊld/",
+            "pronunciation": "ˈθɹeʃ(h)əʊld",
             "progress": [
                 0,
                 0,
@@ -2502,7 +2502,7 @@ const W4000 = [
         {
             "id": 251,
             "word": "systematic",
-            "pronunciation": "/ˌsɪs.təˈmæt.ɪk/",
+            "pronunciation": "ˌsɪs.təˈmæt.ɪk",
             "progress": [
                 0,
                 0,
@@ -2512,7 +2512,7 @@ const W4000 = [
         {
             "id": 252,
             "word": "inject",
-            "pronunciation": "/ɪnˈdʒɛkt/",
+            "pronunciation": "ɪnˈdʒɛkt",
             "progress": [
                 0,
                 0,
@@ -2522,7 +2522,7 @@ const W4000 = [
         {
             "id": 253,
             "word": "likewise",
-            "pronunciation": "/ˈlaɪkˌwaɪz/",
+            "pronunciation": "ˈlaɪkˌwaɪz",
             "progress": [
                 0,
                 0,
@@ -2532,7 +2532,7 @@ const W4000 = [
         {
             "id": 254,
             "word": "liver",
-            "pronunciation": "/ˈlɪvə/",
+            "pronunciation": "ˈlɪvə",
             "progress": [
                 0,
                 0,
@@ -2542,7 +2542,7 @@ const W4000 = [
         {
             "id": 255,
             "word": "hormone",
-            "pronunciation": "/ˈhɔːməʊn/",
+            "pronunciation": "ˈhɔːməʊn",
             "progress": [
                 0,
                 0,
@@ -2552,7 +2552,7 @@ const W4000 = [
         {
             "id": 256,
             "word": "thumb",
-            "pronunciation": "/θʌm/",
+            "pronunciation": "θʌm",
             "progress": [
                 0,
                 0,
@@ -2562,7 +2562,7 @@ const W4000 = [
         {
             "id": 257,
             "word": "quotation",
-            "pronunciation": "/kwoʊˈteɪʃən/",
+            "pronunciation": "kwoʊˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -2572,7 +2572,7 @@ const W4000 = [
         {
             "id": 258,
             "word": "independently",
-            "pronunciation": "/ˌɪndɪˈpɛndəntli/",
+            "pronunciation": "ˌɪndɪˈpɛndəntli",
             "progress": [
                 0,
                 0,
@@ -2582,7 +2582,7 @@ const W4000 = [
         {
             "id": 259,
             "word": "cheat",
-            "pronunciation": "/tʃiːt/",
+            "pronunciation": "tʃiːt",
             "progress": [
                 0,
                 0,
@@ -2612,7 +2612,7 @@ const W4000 = [
         {
             "id": 262,
             "word": "reproduce",
-            "pronunciation": "/ˌɹi.pɹoʊˈdjus/",
+            "pronunciation": "ˌɹi.pɹoʊˈdjus",
             "progress": [
                 0,
                 0,
@@ -2632,7 +2632,7 @@ const W4000 = [
         {
             "id": 264,
             "word": "sphere",
-            "pronunciation": "/sfɪə/",
+            "pronunciation": "sfɪə",
             "progress": [
                 0,
                 0,
@@ -2642,7 +2642,7 @@ const W4000 = [
         {
             "id": 265,
             "word": "clay",
-            "pronunciation": "/kleɪ/",
+            "pronunciation": "kleɪ",
             "progress": [
                 0,
                 0,
@@ -2652,7 +2652,7 @@ const W4000 = [
         {
             "id": 266,
             "word": "dictate",
-            "pronunciation": "/ˈdɪkˌteɪt/",
+            "pronunciation": "ˈdɪkˌteɪt",
             "progress": [
                 0,
                 0,
@@ -2662,7 +2662,7 @@ const W4000 = [
         {
             "id": 267,
             "word": "nucleus",
-            "pronunciation": "/ˈnjuː.kli.əs/",
+            "pronunciation": "ˈnjuː.kli.əs",
             "progress": [
                 0,
                 0,
@@ -2672,7 +2672,7 @@ const W4000 = [
         {
             "id": 268,
             "word": "noisy",
-            "pronunciation": "/ˈnɔːɪzɪ/",
+            "pronunciation": "ˈnɔːɪzɪ",
             "progress": [
                 0,
                 0,
@@ -2682,7 +2682,7 @@ const W4000 = [
         {
             "id": 269,
             "word": "slavery",
-            "pronunciation": "/ˈsleɪvəɹi/",
+            "pronunciation": "ˈsleɪvəɹi",
             "progress": [
                 0,
                 0,
@@ -2692,7 +2692,7 @@ const W4000 = [
         {
             "id": 270,
             "word": "justification",
-            "pronunciation": "/ˌdʒʌstɪfɪˈkeɪʃən/",
+            "pronunciation": "ˌdʒʌstɪfɪˈkeɪʃən",
             "progress": [
                 0,
                 0,
@@ -2732,7 +2732,7 @@ const W4000 = [
         {
             "id": 274,
             "word": "specimen",
-            "pronunciation": "/ˈspɛsɪmɪn/",
+            "pronunciation": "ˈspɛsɪmɪn",
             "progress": [
                 0,
                 0,
@@ -2752,7 +2752,7 @@ const W4000 = [
         {
             "id": 276,
             "word": "ancestor",
-            "pronunciation": "/ˈæn.sɛs.tə/",
+            "pronunciation": "ˈæn.sɛs.tə",
             "progress": [
                 0,
                 0,
@@ -2762,7 +2762,7 @@ const W4000 = [
         {
             "id": 277,
             "word": "hierarchy",
-            "pronunciation": "/ˈhaɪ.ə.ɹɑː(ɹ).ki/",
+            "pronunciation": "ˈhaɪ.ə.ɹɑː(ɹ).ki",
             "progress": [
                 0,
                 0,
@@ -2772,7 +2772,7 @@ const W4000 = [
         {
             "id": 278,
             "word": "electron",
-            "pronunciation": "/ɪˈlɛktɹɒn/",
+            "pronunciation": "ɪˈlɛktɹɒn",
             "progress": [
                 0,
                 0,
@@ -2792,7 +2792,7 @@ const W4000 = [
         {
             "id": 280,
             "word": "mathematical",
-            "pronunciation": "/ˌmæθəˈmætɪkəl/",
+            "pronunciation": "ˌmæθəˈmætɪkəl",
             "progress": [
                 0,
                 0,
@@ -2802,7 +2802,7 @@ const W4000 = [
         {
             "id": 281,
             "word": "snake",
-            "pronunciation": "/ˈsneɪk/",
+            "pronunciation": "ˈsneɪk",
             "progress": [
                 0,
                 0,
@@ -2812,7 +2812,7 @@ const W4000 = [
         {
             "id": 282,
             "word": "classification",
-            "pronunciation": "/ˌklæsɪfɪˈkeɪʃən/",
+            "pronunciation": "ˌklæsɪfɪˈkeɪʃən",
             "progress": [
                 0,
                 0,
@@ -2822,7 +2822,7 @@ const W4000 = [
         {
             "id": 283,
             "word": "arrow",
-            "pronunciation": "/ˈæɹ.əʊ/",
+            "pronunciation": "ˈæɹ.əʊ",
             "progress": [
                 0,
                 0,
@@ -2832,7 +2832,7 @@ const W4000 = [
         {
             "id": 284,
             "word": "comparative",
-            "pronunciation": "/kəmˈpæɹ.ə.tɪv/",
+            "pronunciation": "kəmˈpæɹ.ə.tɪv",
             "progress": [
                 0,
                 0,
@@ -2842,7 +2842,7 @@ const W4000 = [
         {
             "id": 285,
             "word": "matrix",
-            "pronunciation": "/ˈmeɪtɹɪks/",
+            "pronunciation": "ˈmeɪtɹɪks",
             "progress": [
                 0,
                 0,
@@ -2852,7 +2852,7 @@ const W4000 = [
         {
             "id": 286,
             "word": "empirical",
-            "pronunciation": "/ɪmˈpɪɹɪkəl/",
+            "pronunciation": "ɪmˈpɪɹɪkəl",
             "progress": [
                 0,
                 0,
@@ -2872,7 +2872,7 @@ const W4000 = [
         {
             "id": 288,
             "word": "calcium",
-            "pronunciation": "/ˈkælsi.əm/",
+            "pronunciation": "ˈkælsi.əm",
             "progress": [
                 0,
                 0,
@@ -2882,7 +2882,7 @@ const W4000 = [
         {
             "id": 289,
             "word": "migration",
-            "pronunciation": "/maɪˈɡɹeɪʃ(ə)n/",
+            "pronunciation": "maɪˈɡɹeɪʃ(ə)n",
             "progress": [
                 0,
                 0,
@@ -2892,7 +2892,7 @@ const W4000 = [
         {
             "id": 290,
             "word": "vein",
-            "pronunciation": "/veɪn/",
+            "pronunciation": "veɪn",
             "progress": [
                 0,
                 0,
@@ -2902,7 +2902,7 @@ const W4000 = [
         {
             "id": 291,
             "word": "correction",
-            "pronunciation": "/kəˈɹɛkʃən/",
+            "pronunciation": "kəˈɹɛkʃən",
             "progress": [
                 0,
                 0,
@@ -2912,7 +2912,7 @@ const W4000 = [
         {
             "id": 292,
             "word": "vitamin",
-            "pronunciation": "/ˈvɑet.ə.mən/",
+            "pronunciation": "ˈvɑet.ə.mən",
             "progress": [
                 0,
                 0,
@@ -2922,7 +2922,7 @@ const W4000 = [
         {
             "id": 293,
             "word": "adaptation",
-            "pronunciation": "/ˌædæpˈteɪʃən/",
+            "pronunciation": "ˌædæpˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -2932,7 +2932,7 @@ const W4000 = [
         {
             "id": 294,
             "word": "tutor",
-            "pronunciation": "/ˈtjuːtə/",
+            "pronunciation": "ˈtjuːtə",
             "progress": [
                 0,
                 0,
@@ -2942,7 +2942,7 @@ const W4000 = [
         {
             "id": 295,
             "word": "grid",
-            "pronunciation": "/ɡɹɪd/",
+            "pronunciation": "ɡɹɪd",
             "progress": [
                 0,
                 0,
@@ -2952,7 +2952,7 @@ const W4000 = [
         {
             "id": 296,
             "word": "magnetic",
-            "pronunciation": "/mæɡˈnɛtɪk/",
+            "pronunciation": "mæɡˈnɛtɪk",
             "progress": [
                 0,
                 0,
@@ -2962,7 +2962,7 @@ const W4000 = [
         {
             "id": 297,
             "word": "monetary",
-            "pronunciation": "/ˈmʌnɪtəɹi/",
+            "pronunciation": "ˈmʌnɪtəɹi",
             "progress": [
                 0,
                 0,
@@ -2972,7 +2972,7 @@ const W4000 = [
         {
             "id": 298,
             "word": "complement",
-            "pronunciation": "/ˈkɒmpləmənt/",
+            "pronunciation": "ˈkɒmpləmənt",
             "progress": [
                 0,
                 0,
@@ -2982,7 +2982,7 @@ const W4000 = [
         {
             "id": 299,
             "word": "crude",
-            "pronunciation": "/kɹʉd/",
+            "pronunciation": "kɹʉd",
             "progress": [
                 0,
                 0,
@@ -2992,7 +2992,7 @@ const W4000 = [
         {
             "id": 300,
             "word": "fever",
-            "pronunciation": "/ˈfiːvə/",
+            "pronunciation": "ˈfiːvə",
             "progress": [
                 0,
                 0,
@@ -3012,7 +3012,7 @@ const W4000 = [
         {
             "id": 302,
             "word": "vague",
-            "pronunciation": "/veɪɡ/",
+            "pronunciation": "veɪɡ",
             "progress": [
                 0,
                 0,
@@ -3022,7 +3022,7 @@ const W4000 = [
         {
             "id": 303,
             "word": "credibility",
-            "pronunciation": "/kɹɛd.ə.ˈbɪ.ɫɪ.ti/",
+            "pronunciation": "kɹɛd.ə.ˈbɪ.ɫɪ.ti",
             "progress": [
                 0,
                 0,
@@ -3052,7 +3052,7 @@ const W4000 = [
         {
             "id": 306,
             "word": "rack",
-            "pronunciation": "/ɹæk/",
+            "pronunciation": "ɹæk",
             "progress": [
                 0,
                 0,
@@ -3062,7 +3062,7 @@ const W4000 = [
         {
             "id": 307,
             "word": "psychologist",
-            "pronunciation": "/ˌsaɪˈkɑl.ə.d͡ʒɪst/",
+            "pronunciation": "ˌsaɪˈkɑl.ə.d͡ʒɪst",
             "progress": [
                 0,
                 0,
@@ -3072,7 +3072,7 @@ const W4000 = [
         {
             "id": 308,
             "word": "noble",
-            "pronunciation": "/ˈnəʊbəl/",
+            "pronunciation": "ˈnəʊbəl",
             "progress": [
                 0,
                 0,
@@ -3082,7 +3082,7 @@ const W4000 = [
         {
             "id": 309,
             "word": "conceptual",
-            "pronunciation": "/kənˈsɛptjʊəl/",
+            "pronunciation": "kənˈsɛptjʊəl",
             "progress": [
                 0,
                 0,
@@ -3092,7 +3092,7 @@ const W4000 = [
         {
             "id": 310,
             "word": "lump",
-            "pronunciation": "/lʌmp/",
+            "pronunciation": "lʌmp",
             "progress": [
                 0,
                 0,
@@ -3102,7 +3102,7 @@ const W4000 = [
         {
             "id": 311,
             "word": "limb",
-            "pronunciation": "/lɪm/",
+            "pronunciation": "lɪm",
             "progress": [
                 0,
                 0,
@@ -3112,7 +3112,7 @@ const W4000 = [
         {
             "id": 312,
             "word": "autonomy",
-            "pronunciation": "/ɑˈtɑnəmi/",
+            "pronunciation": "ɑˈtɑnəmi",
             "progress": [
                 0,
                 0,
@@ -3122,7 +3122,7 @@ const W4000 = [
         {
             "id": 313,
             "word": "membrane",
-            "pronunciation": "/ˈmembɹeɪn/",
+            "pronunciation": "ˈmembɹeɪn",
             "progress": [
                 0,
                 0,
@@ -3142,7 +3142,7 @@ const W4000 = [
         {
             "id": 315,
             "word": "definite",
-            "pronunciation": "/ˈdɛfɪnɪt/",
+            "pronunciation": "ˈdɛfɪnɪt",
             "progress": [
                 0,
                 0,
@@ -3152,7 +3152,7 @@ const W4000 = [
         {
             "id": 316,
             "word": "elementary",
-            "pronunciation": "/(ˌ)ɛlɪ̈ˈmɛnt(ə)ɹɪ/",
+            "pronunciation": "(ˌ)ɛlɪ̈ˈmɛnt(ə)ɹɪ",
             "progress": [
                 0,
                 0,
@@ -3162,7 +3162,7 @@ const W4000 = [
         {
             "id": 317,
             "word": "overview",
-            "pronunciation": "/ˈəʊvə(ɹ)ˌvjuː/",
+            "pronunciation": "ˈəʊvə(ɹ)ˌvjuː",
             "progress": [
                 0,
                 0,
@@ -3172,7 +3172,7 @@ const W4000 = [
         {
             "id": 318,
             "word": "dense",
-            "pronunciation": "/dɛns/",
+            "pronunciation": "dɛns",
             "progress": [
                 0,
                 0,
@@ -3182,7 +3182,7 @@ const W4000 = [
         {
             "id": 319,
             "word": "dissolve",
-            "pronunciation": "/dɪˈzɒlv/",
+            "pronunciation": "dɪˈzɒlv",
             "progress": [
                 0,
                 0,
@@ -3192,7 +3192,7 @@ const W4000 = [
         {
             "id": 320,
             "word": "magnitude",
-            "pronunciation": "/ˈmæɡnɪtjuːd/",
+            "pronunciation": "ˈmæɡnɪtjuːd",
             "progress": [
                 0,
                 0,
@@ -3202,7 +3202,7 @@ const W4000 = [
         {
             "id": 321,
             "word": "adverse",
-            "pronunciation": "/ədˈvɜ(ɹ)s/",
+            "pronunciation": "ədˈvɜ(ɹ)s",
             "progress": [
                 0,
                 0,
@@ -3212,7 +3212,7 @@ const W4000 = [
         {
             "id": 322,
             "word": "sustainable",
-            "pronunciation": "/səˈsteɪnəbəl/",
+            "pronunciation": "səˈsteɪnəbəl",
             "progress": [
                 0,
                 0,
@@ -3222,7 +3222,7 @@ const W4000 = [
         {
             "id": 323,
             "word": "diameter",
-            "pronunciation": "/daɪˈæmɪtə(ɹ)/",
+            "pronunciation": "daɪˈæmɪtə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -3232,7 +3232,7 @@ const W4000 = [
         {
             "id": 324,
             "word": "rejection",
-            "pronunciation": "/ɹəˈdʒɛkʃən/",
+            "pronunciation": "ɹəˈdʒɛkʃən",
             "progress": [
                 0,
                 0,
@@ -3242,7 +3242,7 @@ const W4000 = [
         {
             "id": 325,
             "word": "circulate",
-            "pronunciation": "/ˈsɚˌkju.leɪt/",
+            "pronunciation": "ˈsɚˌkju.leɪt",
             "progress": [
                 0,
                 0,
@@ -3252,7 +3252,7 @@ const W4000 = [
         {
             "id": 326,
             "word": "shallow",
-            "pronunciation": "/ˈʃaləʊ/",
+            "pronunciation": "ˈʃaləʊ",
             "progress": [
                 0,
                 0,
@@ -3262,7 +3262,7 @@ const W4000 = [
         {
             "id": 327,
             "word": "semantic",
-            "pronunciation": "/sɪˈmæntɪk/",
+            "pronunciation": "sɪˈmæntɪk",
             "progress": [
                 0,
                 0,
@@ -3272,7 +3272,7 @@ const W4000 = [
         {
             "id": 328,
             "word": "indirect",
-            "pronunciation": "/ˌɪndaɪˈɹɛkt/",
+            "pronunciation": "ˌɪndaɪˈɹɛkt",
             "progress": [
                 0,
                 0,
@@ -3282,7 +3282,7 @@ const W4000 = [
         {
             "id": 329,
             "word": "emergence",
-            "pronunciation": "/ɪˈmɜːdʒ(ə)ns/",
+            "pronunciation": "ɪˈmɜːdʒ(ə)ns",
             "progress": [
                 0,
                 0,
@@ -3292,7 +3292,7 @@ const W4000 = [
         {
             "id": 330,
             "word": "circulation",
-            "pronunciation": "/ˌsɜː(ɹ).kjʊˈleɪ.ʃən/",
+            "pronunciation": "ˌsɜː(ɹ).kjʊˈleɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -3312,7 +3312,7 @@ const W4000 = [
         {
             "id": 332,
             "word": "layout",
-            "pronunciation": "/ˈleɪ.aʊt/",
+            "pronunciation": "ˈleɪ.aʊt",
             "progress": [
                 0,
                 0,
@@ -3322,7 +3322,7 @@ const W4000 = [
         {
             "id": 333,
             "word": "competent",
-            "pronunciation": "/ˈkɒmpətənt/",
+            "pronunciation": "ˈkɒmpətənt",
             "progress": [
                 0,
                 0,
@@ -3332,7 +3332,7 @@ const W4000 = [
         {
             "id": 334,
             "word": "damp",
-            "pronunciation": "/dæmp/",
+            "pronunciation": "dæmp",
             "progress": [
                 0,
                 0,
@@ -3342,7 +3342,7 @@ const W4000 = [
         {
             "id": 335,
             "word": "occurrence",
-            "pronunciation": "/əˈkɐɹən(t)s/",
+            "pronunciation": "əˈkɐɹən(t)s",
             "progress": [
                 0,
                 0,
@@ -3352,7 +3352,7 @@ const W4000 = [
         {
             "id": 336,
             "word": "marble",
-            "pronunciation": "/ˈmɑːbəl/",
+            "pronunciation": "ˈmɑːbəl",
             "progress": [
                 0,
                 0,
@@ -3362,7 +3362,7 @@ const W4000 = [
         {
             "id": 337,
             "word": "momentum",
-            "pronunciation": "/ˌmoʊˈmɛntəm/",
+            "pronunciation": "ˌmoʊˈmɛntəm",
             "progress": [
                 0,
                 0,
@@ -3372,7 +3372,7 @@ const W4000 = [
         {
             "id": 338,
             "word": "simplify",
-            "pronunciation": "/ˈsɪmpləfaɪ/",
+            "pronunciation": "ˈsɪmpləfaɪ",
             "progress": [
                 0,
                 0,
@@ -3382,7 +3382,7 @@ const W4000 = [
         {
             "id": 339,
             "word": "syndrome",
-            "pronunciation": "/ˈsɪndɹəʊm/",
+            "pronunciation": "ˈsɪndɹəʊm",
             "progress": [
                 0,
                 0,
@@ -3412,7 +3412,7 @@ const W4000 = [
         {
             "id": 342,
             "word": "molecular",
-            "pronunciation": "/məˈlɛkjʊlə/",
+            "pronunciation": "məˈlɛkjʊlə",
             "progress": [
                 0,
                 0,
@@ -3432,7 +3432,7 @@ const W4000 = [
         {
             "id": 344,
             "word": "philosophical",
-            "pronunciation": "/ˌfɪləˈsɒfɪkl̩/",
+            "pronunciation": "ˌfɪləˈsɒfɪkl̩",
             "progress": [
                 0,
                 0,
@@ -3442,7 +3442,7 @@ const W4000 = [
         {
             "id": 345,
             "word": "goat",
-            "pronunciation": "/ɡɐ̟ʉt/",
+            "pronunciation": "ɡɐ̟ʉt",
             "progress": [
                 0,
                 0,
@@ -3452,7 +3452,7 @@ const W4000 = [
         {
             "id": 346,
             "word": "forum",
-            "pronunciation": "/ˈfɔːɹəm/",
+            "pronunciation": "ˈfɔːɹəm",
             "progress": [
                 0,
                 0,
@@ -3462,7 +3462,7 @@ const W4000 = [
         {
             "id": 347,
             "word": "capitalism",
-            "pronunciation": "/ˈkapɪt(ə)lɪz(ə)m/",
+            "pronunciation": "ˈkapɪt(ə)lɪz(ə)m",
             "progress": [
                 0,
                 0,
@@ -3472,7 +3472,7 @@ const W4000 = [
         {
             "id": 348,
             "word": "tolerance",
-            "pronunciation": "/ˈtɒləɹəns/",
+            "pronunciation": "ˈtɒləɹəns",
             "progress": [
                 0,
                 0,
@@ -3482,7 +3482,7 @@ const W4000 = [
         {
             "id": 349,
             "word": "habitat",
-            "pronunciation": "/ˈhæbɪtæt/",
+            "pronunciation": "ˈhæbɪtæt",
             "progress": [
                 0,
                 0,
@@ -3492,7 +3492,7 @@ const W4000 = [
         {
             "id": 350,
             "word": "elevate",
-            "pronunciation": "/ˈɛləveɪt/",
+            "pronunciation": "ˈɛləveɪt",
             "progress": [
                 0,
                 0,
@@ -3502,7 +3502,7 @@ const W4000 = [
         {
             "id": 351,
             "word": "viable",
-            "pronunciation": "/ˈvaɪəbəl/",
+            "pronunciation": "ˈvaɪəbəl",
             "progress": [
                 0,
                 0,
@@ -3512,7 +3512,7 @@ const W4000 = [
         {
             "id": 352,
             "word": "maternal",
-            "pronunciation": "/məˈtɜːnəl/",
+            "pronunciation": "məˈtɜːnəl",
             "progress": [
                 0,
                 0,
@@ -3522,7 +3522,7 @@ const W4000 = [
         {
             "id": 353,
             "word": "linear",
-            "pronunciation": "/ˈlɪn.i.ə/",
+            "pronunciation": "ˈlɪn.i.ə",
             "progress": [
                 0,
                 0,
@@ -3532,7 +3532,7 @@ const W4000 = [
         {
             "id": 354,
             "word": "halfway",
-            "pronunciation": "/hɑːfˈweɪ/",
+            "pronunciation": "hɑːfˈweɪ",
             "progress": [
                 0,
                 0,
@@ -3542,7 +3542,7 @@ const W4000 = [
         {
             "id": 355,
             "word": "bizarre",
-            "pronunciation": "/bəˈzɑː(ɹ)/",
+            "pronunciation": "bəˈzɑː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -3552,7 +3552,7 @@ const W4000 = [
         {
             "id": 356,
             "word": "atom",
-            "pronunciation": "/ˈatəm/",
+            "pronunciation": "ˈatəm",
             "progress": [
                 0,
                 0,
@@ -3562,7 +3562,7 @@ const W4000 = [
         {
             "id": 357,
             "word": "impulse",
-            "pronunciation": "/ˈɪmpʌls/",
+            "pronunciation": "ˈɪmpʌls",
             "progress": [
                 0,
                 0,
@@ -3572,7 +3572,7 @@ const W4000 = [
         {
             "id": 358,
             "word": "pardon",
-            "pronunciation": "/ˈpɑɹ.dən/",
+            "pronunciation": "ˈpɑɹ.dən",
             "progress": [
                 0,
                 0,
@@ -3582,7 +3582,7 @@ const W4000 = [
         {
             "id": 359,
             "word": "inclusion",
-            "pronunciation": "/ɪnˈkluːʒən/",
+            "pronunciation": "ɪnˈkluːʒən",
             "progress": [
                 0,
                 0,
@@ -3592,7 +3592,7 @@ const W4000 = [
         {
             "id": 360,
             "word": "toxic",
-            "pronunciation": "/ˈtɒk.sɪk/",
+            "pronunciation": "ˈtɒk.sɪk",
             "progress": [
                 0,
                 0,
@@ -3602,7 +3602,7 @@ const W4000 = [
         {
             "id": 361,
             "word": "methodology",
-            "pronunciation": "/meθəˈdɒlədʒi/",
+            "pronunciation": "meθəˈdɒlədʒi",
             "progress": [
                 0,
                 0,
@@ -3622,7 +3622,7 @@ const W4000 = [
         {
             "id": 363,
             "word": "illusion",
-            "pronunciation": "/ɪˈl(j)uːʒ(ə)n/",
+            "pronunciation": "ɪˈl(j)uːʒ(ə)n",
             "progress": [
                 0,
                 0,
@@ -3642,7 +3642,7 @@ const W4000 = [
         {
             "id": 365,
             "word": "pathway",
-            "pronunciation": "/ˈpæθˌweɪ/",
+            "pronunciation": "ˈpæθˌweɪ",
             "progress": [
                 0,
                 0,
@@ -3652,7 +3652,7 @@ const W4000 = [
         {
             "id": 366,
             "word": "unify",
-            "pronunciation": "/ˈjuːnɪfaɪ/",
+            "pronunciation": "ˈjuːnɪfaɪ",
             "progress": [
                 0,
                 0,
@@ -3662,7 +3662,7 @@ const W4000 = [
         {
             "id": 367,
             "word": "swap",
-            "pronunciation": "/swɒp/",
+            "pronunciation": "swɒp",
             "progress": [
                 0,
                 0,
@@ -3672,7 +3672,7 @@ const W4000 = [
         {
             "id": 368,
             "word": "gravity",
-            "pronunciation": "/ˈɡɹævɪti/",
+            "pronunciation": "ˈɡɹævɪti",
             "progress": [
                 0,
                 0,
@@ -3692,7 +3692,7 @@ const W4000 = [
         {
             "id": 370,
             "word": "dependence",
-            "pronunciation": "/dɪˈpɛndəns/",
+            "pronunciation": "dɪˈpɛndəns",
             "progress": [
                 0,
                 0,
@@ -3712,7 +3712,7 @@ const W4000 = [
         {
             "id": 372,
             "word": "athletic",
-            "pronunciation": "/æθˈlɛt.ɪk/",
+            "pronunciation": "æθˈlɛt.ɪk",
             "progress": [
                 0,
                 0,
@@ -3722,7 +3722,7 @@ const W4000 = [
         {
             "id": 373,
             "word": "continuity",
-            "pronunciation": "/ˌkɒntɪˈnjuːəti/",
+            "pronunciation": "ˌkɒntɪˈnjuːəti",
             "progress": [
                 0,
                 0,
@@ -3742,7 +3742,7 @@ const W4000 = [
         {
             "id": 375,
             "word": "mechanic",
-            "pronunciation": "/məˈkænɪk/",
+            "pronunciation": "məˈkænɪk",
             "progress": [
                 0,
                 0,
@@ -3752,7 +3752,7 @@ const W4000 = [
         {
             "id": 376,
             "word": "horizontal",
-            "pronunciation": "/ˌhɒɹɪˈzɒntəl/",
+            "pronunciation": "ˌhɒɹɪˈzɒntəl",
             "progress": [
                 0,
                 0,
@@ -3762,7 +3762,7 @@ const W4000 = [
         {
             "id": 377,
             "word": "ray",
-            "pronunciation": "/ɹeɪ/",
+            "pronunciation": "ɹeɪ",
             "progress": [
                 0,
                 0,
@@ -3772,7 +3772,7 @@ const W4000 = [
         {
             "id": 378,
             "word": "sword",
-            "pronunciation": "/sɔːd/",
+            "pronunciation": "sɔːd",
             "progress": [
                 0,
                 0,
@@ -3782,7 +3782,7 @@ const W4000 = [
         {
             "id": 379,
             "word": "aesthetic",
-            "pronunciation": "/iːs.ˈθe.tɪk/",
+            "pronunciation": "iːs.ˈθe.tɪk",
             "progress": [
                 0,
                 0,
@@ -3792,7 +3792,7 @@ const W4000 = [
         {
             "id": 380,
             "word": "disturbance",
-            "pronunciation": "/dɪˈstɜːbn̩s/",
+            "pronunciation": "dɪˈstɜːbn̩s",
             "progress": [
                 0,
                 0,
@@ -3812,7 +3812,7 @@ const W4000 = [
         {
             "id": 382,
             "word": "contradiction",
-            "pronunciation": "/ˌkɒntɹəˈdɪkʃən/",
+            "pronunciation": "ˌkɒntɹəˈdɪkʃən",
             "progress": [
                 0,
                 0,
@@ -3822,7 +3822,7 @@ const W4000 = [
         {
             "id": 383,
             "word": "orient",
-            "pronunciation": "/ˈɔː.ɹɪ.ənt/",
+            "pronunciation": "ˈɔː.ɹɪ.ənt",
             "progress": [
                 0,
                 0,
@@ -3832,7 +3832,7 @@ const W4000 = [
         {
             "id": 384,
             "word": "monopoly",
-            "pronunciation": "/məˈnɒpəˌli/",
+            "pronunciation": "məˈnɒpəˌli",
             "progress": [
                 0,
                 0,
@@ -3842,7 +3842,7 @@ const W4000 = [
         {
             "id": 385,
             "word": "protocol",
-            "pronunciation": "/ˈpɹəʊtəˌkɒl/",
+            "pronunciation": "ˈpɹəʊtəˌkɒl",
             "progress": [
                 0,
                 0,
@@ -3852,7 +3852,7 @@ const W4000 = [
         {
             "id": 386,
             "word": "primitive",
-            "pronunciation": "/ˈpɹɪmɪtɪv/",
+            "pronunciation": "ˈpɹɪmɪtɪv",
             "progress": [
                 0,
                 0,
@@ -3862,7 +3862,7 @@ const W4000 = [
         {
             "id": 387,
             "word": "minus",
-            "pronunciation": "/ˈmaɪnəs/",
+            "pronunciation": "ˈmaɪnəs",
             "progress": [
                 0,
                 0,
@@ -3872,7 +3872,7 @@ const W4000 = [
         {
             "id": 388,
             "word": "philosopher",
-            "pronunciation": "/fɪˈlɒs.ə.fə(ɹ)/",
+            "pronunciation": "fɪˈlɒs.ə.fə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -3882,7 +3882,7 @@ const W4000 = [
         {
             "id": 389,
             "word": "inhibit",
-            "pronunciation": "/ɪnˈhɪbɪt/",
+            "pronunciation": "ɪnˈhɪbɪt",
             "progress": [
                 0,
                 0,
@@ -3892,7 +3892,7 @@ const W4000 = [
         {
             "id": 390,
             "word": "hydrogen",
-            "pronunciation": "/ˈhaɪdɹədʒ(ə)n/",
+            "pronunciation": "ˈhaɪdɹədʒ(ə)n",
             "progress": [
                 0,
                 0,
@@ -3902,7 +3902,7 @@ const W4000 = [
         {
             "id": 391,
             "word": "multiply",
-            "pronunciation": "/ˈmʌltɪplaɪ/",
+            "pronunciation": "ˈmʌltɪplaɪ",
             "progress": [
                 0,
                 0,
@@ -3912,7 +3912,7 @@ const W4000 = [
         {
             "id": 392,
             "word": "dioxide",
-            "pronunciation": "/daɪˈɒksaɪd/",
+            "pronunciation": "daɪˈɒksaɪd",
             "progress": [
                 0,
                 0,
@@ -3932,7 +3932,7 @@ const W4000 = [
         {
             "id": 394,
             "word": "offspring",
-            "pronunciation": "/ˈɒfspɹɪŋ/",
+            "pronunciation": "ˈɒfspɹɪŋ",
             "progress": [
                 0,
                 0,
@@ -3942,7 +3942,7 @@ const W4000 = [
         {
             "id": 395,
             "word": "technically",
-            "pronunciation": "/ˈtɛknɪkli/",
+            "pronunciation": "ˈtɛknɪkli",
             "progress": [
                 0,
                 0,
@@ -3952,7 +3952,7 @@ const W4000 = [
         {
             "id": 396,
             "word": "prey",
-            "pronunciation": "/pɹeɪ/",
+            "pronunciation": "pɹeɪ",
             "progress": [
                 0,
                 0,
@@ -3962,7 +3962,7 @@ const W4000 = [
         {
             "id": 397,
             "word": "valve",
-            "pronunciation": "/ˈvælv/",
+            "pronunciation": "ˈvælv",
             "progress": [
                 0,
                 0,
@@ -3982,7 +3982,7 @@ const W4000 = [
         {
             "id": 399,
             "word": "simulation",
-            "pronunciation": "/sɪmjʊleɪʃən/",
+            "pronunciation": "sɪmjʊleɪʃən",
             "progress": [
                 0,
                 0,
@@ -3992,7 +3992,7 @@ const W4000 = [
         {
             "id": 400,
             "word": "whereby",
-            "pronunciation": "/wɛə(ɹ)ˈbaɪ/",
+            "pronunciation": "wɛə(ɹ)ˈbaɪ",
             "progress": [
                 0,
                 0,
@@ -4002,7 +4002,7 @@ const W4000 = [
         {
             "id": 401,
             "word": "standardize",
-            "pronunciation": "/ˈstændə(ɹ)daɪz/",
+            "pronunciation": "ˈstændə(ɹ)daɪz",
             "progress": [
                 0,
                 0,
@@ -4012,7 +4012,7 @@ const W4000 = [
         {
             "id": 402,
             "word": "integral",
-            "pronunciation": "/ˈɪntɪɡɹəl/",
+            "pronunciation": "ˈɪntɪɡɹəl",
             "progress": [
                 0,
                 0,
@@ -4022,7 +4022,7 @@ const W4000 = [
         {
             "id": 403,
             "word": "decay",
-            "pronunciation": "/dɪˈkeɪ/",
+            "pronunciation": "dɪˈkeɪ",
             "progress": [
                 0,
                 0,
@@ -4032,7 +4032,7 @@ const W4000 = [
         {
             "id": 404,
             "word": "nicely",
-            "pronunciation": "/ˈnʌɪsli/",
+            "pronunciation": "ˈnʌɪsli",
             "progress": [
                 0,
                 0,
@@ -4042,7 +4042,7 @@ const W4000 = [
         {
             "id": 405,
             "word": "inequality",
-            "pronunciation": "/ˌɪnɪˈkwɒlɪti/",
+            "pronunciation": "ˌɪnɪˈkwɒlɪti",
             "progress": [
                 0,
                 0,
@@ -4062,7 +4062,7 @@ const W4000 = [
         {
             "id": 407,
             "word": "artifact",
-            "pronunciation": "/ˈɑːtɪfækt/",
+            "pronunciation": "ˈɑːtɪfækt",
             "progress": [
                 0,
                 0,
@@ -4072,7 +4072,7 @@ const W4000 = [
         {
             "id": 408,
             "word": "selective",
-            "pronunciation": "/səˈlɛktɪv/",
+            "pronunciation": "səˈlɛktɪv",
             "progress": [
                 0,
                 0,
@@ -4082,7 +4082,7 @@ const W4000 = [
         {
             "id": 409,
             "word": "bucket",
-            "pronunciation": "/ˈbʌkɪt/",
+            "pronunciation": "ˈbʌkɪt",
             "progress": [
                 0,
                 0,
@@ -4092,7 +4092,7 @@ const W4000 = [
         {
             "id": 410,
             "word": "stripe",
-            "pronunciation": "/st(ʃ)ɹʌɪp/",
+            "pronunciation": "st(ʃ)ɹʌɪp",
             "progress": [
                 0,
                 0,
@@ -4102,7 +4102,7 @@ const W4000 = [
         {
             "id": 411,
             "word": "utterance",
-            "pronunciation": "/ˈʌtəɹəns/",
+            "pronunciation": "ˈʌtəɹəns",
             "progress": [
                 0,
                 0,
@@ -4112,7 +4112,7 @@ const W4000 = [
         {
             "id": 412,
             "word": "problematic",
-            "pronunciation": "/ˌpɹɒbləˈmætɪk/",
+            "pronunciation": "ˌpɹɒbləˈmætɪk",
             "progress": [
                 0,
                 0,
@@ -4122,7 +4122,7 @@ const W4000 = [
         {
             "id": 413,
             "word": "liable",
-            "pronunciation": "/ˈlaɪ̯əbəl/",
+            "pronunciation": "ˈlaɪ̯əbəl",
             "progress": [
                 0,
                 0,
@@ -4132,7 +4132,7 @@ const W4000 = [
         {
             "id": 414,
             "word": "cord",
-            "pronunciation": "/kɔːd/",
+            "pronunciation": "kɔːd",
             "progress": [
                 0,
                 0,
@@ -4142,7 +4142,7 @@ const W4000 = [
         {
             "id": 415,
             "word": "denote",
-            "pronunciation": "/dɪˈnəʊt/",
+            "pronunciation": "dɪˈnəʊt",
             "progress": [
                 0,
                 0,
@@ -4152,7 +4152,7 @@ const W4000 = [
         {
             "id": 416,
             "word": "morality",
-            "pronunciation": "/məˈɹælɪti/",
+            "pronunciation": "məˈɹælɪti",
             "progress": [
                 0,
                 0,
@@ -4162,7 +4162,7 @@ const W4000 = [
         {
             "id": 417,
             "word": "static",
-            "pronunciation": "/ˈstæt.ɪk/",
+            "pronunciation": "ˈstæt.ɪk",
             "progress": [
                 0,
                 0,
@@ -4172,7 +4172,7 @@ const W4000 = [
         {
             "id": 418,
             "word": "axis",
-            "pronunciation": "/ˈæksəs/",
+            "pronunciation": "ˈæksəs",
             "progress": [
                 0,
                 0,
@@ -4182,7 +4182,7 @@ const W4000 = [
         {
             "id": 419,
             "word": "dialect",
-            "pronunciation": "/ˈdaɪ.əˌlɛkt/",
+            "pronunciation": "ˈdaɪ.əˌlɛkt",
             "progress": [
                 0,
                 0,
@@ -4192,7 +4192,7 @@ const W4000 = [
         {
             "id": 420,
             "word": "fringe",
-            "pronunciation": "/fɹɪndʒ/",
+            "pronunciation": "fɹɪndʒ",
             "progress": [
                 0,
                 0,
@@ -4202,7 +4202,7 @@ const W4000 = [
         {
             "id": 421,
             "word": "textbook",
-            "pronunciation": "/ˈtɛkst.bʊk/",
+            "pronunciation": "ˈtɛkst.bʊk",
             "progress": [
                 0,
                 0,
@@ -4212,7 +4212,7 @@ const W4000 = [
         {
             "id": 422,
             "word": "unintelligible",
-            "pronunciation": "/ˌʌnɪnˈtɛlɨdʒɨbəl/",
+            "pronunciation": "ˌʌnɪnˈtɛlɨdʒɨbəl",
             "progress": [
                 0,
                 0,
@@ -4232,7 +4232,7 @@ const W4000 = [
         {
             "id": 424,
             "word": "bracket",
-            "pronunciation": "/ˈbɹækɪt/",
+            "pronunciation": "ˈbɹækɪt",
             "progress": [
                 0,
                 0,
@@ -4242,7 +4242,7 @@ const W4000 = [
         {
             "id": 425,
             "word": "spontaneous",
-            "pronunciation": "/spɒnˈteɪ.ni.əs/",
+            "pronunciation": "spɒnˈteɪ.ni.əs",
             "progress": [
                 0,
                 0,
@@ -4262,7 +4262,7 @@ const W4000 = [
         {
             "id": 427,
             "word": "fusion",
-            "pronunciation": "/ˈfjuː.ʒən/",
+            "pronunciation": "ˈfjuː.ʒən",
             "progress": [
                 0,
                 0,
@@ -4272,7 +4272,7 @@ const W4000 = [
         {
             "id": 428,
             "word": "correlate",
-            "pronunciation": "/ˈkɒɹələt/",
+            "pronunciation": "ˈkɒɹələt",
             "progress": [
                 0,
                 0,
@@ -4282,7 +4282,7 @@ const W4000 = [
         {
             "id": 429,
             "word": "onset",
-            "pronunciation": "/ˈɒnˌsɛt/",
+            "pronunciation": "ˈɒnˌsɛt",
             "progress": [
                 0,
                 0,
@@ -4292,7 +4292,7 @@ const W4000 = [
         {
             "id": 430,
             "word": "sniff",
-            "pronunciation": "/snɪf/",
+            "pronunciation": "snɪf",
             "progress": [
                 0,
                 0,
@@ -4302,7 +4302,7 @@ const W4000 = [
         {
             "id": 431,
             "word": "retrieve",
-            "pronunciation": "/ɹiˈtɹiv/",
+            "pronunciation": "ɹiˈtɹiv",
             "progress": [
                 0,
                 0,
@@ -4322,7 +4322,7 @@ const W4000 = [
         {
             "id": 433,
             "word": "sub",
-            "pronunciation": "/sʌb/",
+            "pronunciation": "sʌb",
             "progress": [
                 0,
                 0,
@@ -4332,7 +4332,7 @@ const W4000 = [
         {
             "id": 434,
             "word": "aluminum",
-            "pronunciation": "/ə.ˈluː.mɨ.nəm/",
+            "pronunciation": "ə.ˈluː.mɨ.nəm",
             "progress": [
                 0,
                 0,
@@ -4342,7 +4342,7 @@ const W4000 = [
         {
             "id": 435,
             "word": "critique",
-            "pronunciation": "/kɹɪˈtiːk/",
+            "pronunciation": "kɹɪˈtiːk",
             "progress": [
                 0,
                 0,
@@ -4352,7 +4352,7 @@ const W4000 = [
         {
             "id": 436,
             "word": "epidemic",
-            "pronunciation": "/ˌɛpɪˈdɛmɪk/",
+            "pronunciation": "ˌɛpɪˈdɛmɪk",
             "progress": [
                 0,
                 0,
@@ -4362,7 +4362,7 @@ const W4000 = [
         {
             "id": 437,
             "word": "syllable",
-            "pronunciation": "/ˈsɪləbəl/",
+            "pronunciation": "ˈsɪləbəl",
             "progress": [
                 0,
                 0,
@@ -4372,7 +4372,7 @@ const W4000 = [
         {
             "id": 438,
             "word": "trauma",
-            "pronunciation": "/ˈtɹaʊ.mə/",
+            "pronunciation": "ˈtɹaʊ.mə",
             "progress": [
                 0,
                 0,
@@ -4382,7 +4382,7 @@ const W4000 = [
         {
             "id": 439,
             "word": "comprehension",
-            "pronunciation": "/kɒmpɹɪˈhɛnʃn̩/",
+            "pronunciation": "kɒmpɹɪˈhɛnʃn̩",
             "progress": [
                 0,
                 0,
@@ -4392,7 +4392,7 @@ const W4000 = [
         {
             "id": 440,
             "word": "chromosome",
-            "pronunciation": "/ˈkɹəʊ.məˌsəʊm/",
+            "pronunciation": "ˈkɹəʊ.məˌsəʊm",
             "progress": [
                 0,
                 0,
@@ -4442,7 +4442,7 @@ const W4000 = [
         {
             "id": 445,
             "word": "bilingual",
-            "pronunciation": "/baɪˈlɪŋ.ɡju.əl/",
+            "pronunciation": "baɪˈlɪŋ.ɡju.əl",
             "progress": [
                 0,
                 0,
@@ -4452,7 +4452,7 @@ const W4000 = [
         {
             "id": 446,
             "word": "intermediate",
-            "pronunciation": "/ɪntə(ɹ)ˈmidi.ət/",
+            "pronunciation": "ɪntə(ɹ)ˈmidi.ət",
             "progress": [
                 0,
                 0,
@@ -4462,7 +4462,7 @@ const W4000 = [
         {
             "id": 447,
             "word": "enzyme",
-            "pronunciation": "/ˈɛn.zaɪm/",
+            "pronunciation": "ˈɛn.zaɪm",
             "progress": [
                 0,
                 0,
@@ -4482,7 +4482,7 @@ const W4000 = [
         {
             "id": 449,
             "word": "nonetheless",
-            "pronunciation": "/ˌnʌnðəˈlɛs/",
+            "pronunciation": "ˌnʌnðəˈlɛs",
             "progress": [
                 0,
                 0,
@@ -4492,7 +4492,7 @@ const W4000 = [
         {
             "id": 450,
             "word": "constrain",
-            "pronunciation": "/kənˈstɹeɪn/",
+            "pronunciation": "kənˈstɹeɪn",
             "progress": [
                 0,
                 0,
@@ -4502,7 +4502,7 @@ const W4000 = [
         {
             "id": 451,
             "word": "analogy",
-            "pronunciation": "/əˈnæləd͡ʒi/",
+            "pronunciation": "əˈnæləd͡ʒi",
             "progress": [
                 0,
                 0,
@@ -4522,7 +4522,7 @@ const W4000 = [
         {
             "id": 453,
             "word": "tech",
-            "pronunciation": "/tɛk/",
+            "pronunciation": "tɛk",
             "progress": [
                 0,
                 0,
@@ -4532,7 +4532,7 @@ const W4000 = [
         {
             "id": 454,
             "word": "equilibrium",
-            "pronunciation": "/iːkwɪˈlɪbɹɪəm/",
+            "pronunciation": "iːkwɪˈlɪbɹɪəm",
             "progress": [
                 0,
                 0,
@@ -4542,7 +4542,7 @@ const W4000 = [
         {
             "id": 455,
             "word": "fossil",
-            "pronunciation": "/ˈfɒsəl/",
+            "pronunciation": "ˈfɒsəl",
             "progress": [
                 0,
                 0,
@@ -4552,7 +4552,7 @@ const W4000 = [
         {
             "id": 456,
             "word": "implicit",
-            "pronunciation": "/ɪmˈplɪsɪt/",
+            "pronunciation": "ɪmˈplɪsɪt",
             "progress": [
                 0,
                 0,
@@ -4572,7 +4572,7 @@ const W4000 = [
         {
             "id": 458,
             "word": "quantitative",
-            "pronunciation": "/ˈkwɒntətɪv/",
+            "pronunciation": "ˈkwɒntətɪv",
             "progress": [
                 0,
                 0,
@@ -4582,7 +4582,7 @@ const W4000 = [
         {
             "id": 459,
             "word": "variant",
-            "pronunciation": "/ˈvɛəɹi.ənt/",
+            "pronunciation": "ˈvɛəɹi.ənt",
             "progress": [
                 0,
                 0,
@@ -4592,7 +4592,7 @@ const W4000 = [
         {
             "id": 460,
             "word": "planner",
-            "pronunciation": "/ˈplænɚ/",
+            "pronunciation": "ˈplænɚ",
             "progress": [
                 0,
                 0,
@@ -4602,7 +4602,7 @@ const W4000 = [
         {
             "id": 461,
             "word": "subjective",
-            "pronunciation": "/səbˈdʒɛktɪv/",
+            "pronunciation": "səbˈdʒɛktɪv",
             "progress": [
                 0,
                 0,
@@ -4622,7 +4622,7 @@ const W4000 = [
         {
             "id": 463,
             "word": "pragmatic",
-            "pronunciation": "/pɹæɡˈmætɪk/",
+            "pronunciation": "pɹæɡˈmætɪk",
             "progress": [
                 0,
                 0,
@@ -4632,7 +4632,7 @@ const W4000 = [
         {
             "id": 464,
             "word": "vowel",
-            "pronunciation": "/vaʊl/",
+            "pronunciation": "vaʊl",
             "progress": [
                 0,
                 0,
@@ -4642,7 +4642,7 @@ const W4000 = [
         {
             "id": 465,
             "word": "basin",
-            "pronunciation": "/ˈbeɪsɪn/",
+            "pronunciation": "ˈbeɪsɪn",
             "progress": [
                 0,
                 0,
@@ -4652,7 +4652,7 @@ const W4000 = [
         {
             "id": 466,
             "word": "composite",
-            "pronunciation": "/ˈkɒmpəzɪt/",
+            "pronunciation": "ˈkɒmpəzɪt",
             "progress": [
                 0,
                 0,
@@ -4682,7 +4682,7 @@ const W4000 = [
         {
             "id": 469,
             "word": "rotate",
-            "pronunciation": "/ɹəʊˈteɪt/",
+            "pronunciation": "ɹəʊˈteɪt",
             "progress": [
                 0,
                 0,
@@ -4702,7 +4702,7 @@ const W4000 = [
         {
             "id": 471,
             "word": "mentor",
-            "pronunciation": "/ˈmɛn.tɔː/",
+            "pronunciation": "ˈmɛn.tɔː",
             "progress": [
                 0,
                 0,
@@ -4712,7 +4712,7 @@ const W4000 = [
         {
             "id": 472,
             "word": "rewrite",
-            "pronunciation": "/ˈɹiː.ɹaɪt/",
+            "pronunciation": "ˈɹiː.ɹaɪt",
             "progress": [
                 0,
                 0,
@@ -4722,7 +4722,7 @@ const W4000 = [
         {
             "id": 473,
             "word": "antibiotic",
-            "pronunciation": "/ˌæn.taɪ.baɪˈɒt.ɪk/",
+            "pronunciation": "ˌæn.taɪ.baɪˈɒt.ɪk",
             "progress": [
                 0,
                 0,
@@ -4732,7 +4732,7 @@ const W4000 = [
         {
             "id": 474,
             "word": "peripheral",
-            "pronunciation": "/pəˈɹɪf(ə)ɹ(ə)l/",
+            "pronunciation": "pəˈɹɪf(ə)ɹ(ə)l",
             "progress": [
                 0,
                 0,
@@ -4752,7 +4752,7 @@ const W4000 = [
         {
             "id": 476,
             "word": "reservoir",
-            "pronunciation": "/ˈɹɛz.ə.vwɑː(ɹ)/",
+            "pronunciation": "ˈɹɛz.ə.vwɑː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -4762,7 +4762,7 @@ const W4000 = [
         {
             "id": 477,
             "word": "rotation",
-            "pronunciation": "/ɹoʊˈteɪʃən/",
+            "pronunciation": "ɹoʊˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -4772,7 +4772,7 @@ const W4000 = [
         {
             "id": 478,
             "word": "psychiatric",
-            "pronunciation": "/ˌsaɪ.ki.ˈæt.ɹɪk/",
+            "pronunciation": "ˌsaɪ.ki.ˈæt.ɹɪk",
             "progress": [
                 0,
                 0,
@@ -4782,7 +4782,7 @@ const W4000 = [
         {
             "id": 479,
             "word": "chess",
-            "pronunciation": "/t͡ʃɛs/",
+            "pronunciation": "t͡ʃɛs",
             "progress": [
                 0,
                 0,
@@ -4792,7 +4792,7 @@ const W4000 = [
         {
             "id": 480,
             "word": "mobility",
-            "pronunciation": "/mə(ʊ)ˈbɪlɪti/",
+            "pronunciation": "mə(ʊ)ˈbɪlɪti",
             "progress": [
                 0,
                 0,
@@ -4812,7 +4812,7 @@ const W4000 = [
         {
             "id": 482,
             "word": "gauge",
-            "pronunciation": "/ˈɡeɪdʒ/",
+            "pronunciation": "ˈɡeɪdʒ",
             "progress": [
                 0,
                 0,
@@ -4832,7 +4832,7 @@ const W4000 = [
         {
             "id": 484,
             "word": "velocity",
-            "pronunciation": "/vəˈlɒsəti/",
+            "pronunciation": "vəˈlɒsəti",
             "progress": [
                 0,
                 0,
@@ -4842,7 +4842,7 @@ const W4000 = [
         {
             "id": 485,
             "word": "optimal",
-            "pronunciation": "/ˈɒptɪməl/",
+            "pronunciation": "ˈɒptɪməl",
             "progress": [
                 0,
                 0,
@@ -4852,7 +4852,7 @@ const W4000 = [
         {
             "id": 486,
             "word": "physics",
-            "pronunciation": "/ˈfɪz.ɪks/",
+            "pronunciation": "ˈfɪz.ɪks",
             "progress": [
                 0,
                 0,
@@ -4862,7 +4862,7 @@ const W4000 = [
         {
             "id": 487,
             "word": "coordination",
-            "pronunciation": "/koʊˌɔɹdɪˈneɪʃən/",
+            "pronunciation": "koʊˌɔɹdɪˈneɪʃən",
             "progress": [
                 0,
                 0,
@@ -4872,7 +4872,7 @@ const W4000 = [
         {
             "id": 488,
             "word": "chunk",
-            "pronunciation": "/t͡ʃʌŋk/",
+            "pronunciation": "t͡ʃʌŋk",
             "progress": [
                 0,
                 0,
@@ -4882,7 +4882,7 @@ const W4000 = [
         {
             "id": 489,
             "word": "directive",
-            "pronunciation": "/daɪˈɹɛk.tɪv/",
+            "pronunciation": "daɪˈɹɛk.tɪv",
             "progress": [
                 0,
                 0,
@@ -4892,7 +4892,7 @@ const W4000 = [
         {
             "id": 490,
             "word": "tricky",
-            "pronunciation": "/tɹɪki/",
+            "pronunciation": "tɹɪki",
             "progress": [
                 0,
                 0,
@@ -4902,7 +4902,7 @@ const W4000 = [
         {
             "id": 491,
             "word": "manipulation",
-            "pronunciation": "/məˌnɪp.juˈleɪ.ʃən/",
+            "pronunciation": "məˌnɪp.juˈleɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -4912,7 +4912,7 @@ const W4000 = [
         {
             "id": 492,
             "word": "dominance",
-            "pronunciation": "/ˈdɒmɪnəns/",
+            "pronunciation": "ˈdɒmɪnəns",
             "progress": [
                 0,
                 0,
@@ -4922,7 +4922,7 @@ const W4000 = [
         {
             "id": 493,
             "word": "derivative",
-            "pronunciation": "/dɪˈɹɪvətɪv/",
+            "pronunciation": "dɪˈɹɪvətɪv",
             "progress": [
                 0,
                 0,
@@ -4932,7 +4932,7 @@ const W4000 = [
         {
             "id": 494,
             "word": "predator",
-            "pronunciation": "/ˈpɹɛd.ə.təɹ/",
+            "pronunciation": "ˈpɹɛd.ə.təɹ",
             "progress": [
                 0,
                 0,
@@ -4942,7 +4942,7 @@ const W4000 = [
         {
             "id": 495,
             "word": "replicate",
-            "pronunciation": "/ˈɹɛpləˌkeɪt/",
+            "pronunciation": "ˈɹɛpləˌkeɪt",
             "progress": [
                 0,
                 0,
@@ -4952,7 +4952,7 @@ const W4000 = [
         {
             "id": 496,
             "word": "fertility",
-            "pronunciation": "/fɚːˈtɪləti/",
+            "pronunciation": "fɚːˈtɪləti",
             "progress": [
                 0,
                 0,
@@ -4962,7 +4962,7 @@ const W4000 = [
         {
             "id": 497,
             "word": "nutrient",
-            "pronunciation": "/ˈnjuː.tɹi.ənt/",
+            "pronunciation": "ˈnjuː.tɹi.ənt",
             "progress": [
                 0,
                 0,
@@ -4972,7 +4972,7 @@ const W4000 = [
         {
             "id": 498,
             "word": "evolutionary",
-            "pronunciation": "/ˌevəˈl(j)uːʃənɹi/",
+            "pronunciation": "ˌevəˈl(j)uːʃənɹi",
             "progress": [
                 0,
                 0,
@@ -4992,7 +4992,7 @@ const W4000 = [
         {
             "id": 500,
             "word": "grammatical",
-            "pronunciation": "/ɡɹəˈmætɪkəl/",
+            "pronunciation": "ɡɹəˈmætɪkəl",
             "progress": [
                 0,
                 0,
@@ -5002,7 +5002,7 @@ const W4000 = [
         {
             "id": 501,
             "word": "footnote",
-            "pronunciation": "/ˈfʊtˌnəʊt/",
+            "pronunciation": "ˈfʊtˌnəʊt",
             "progress": [
                 0,
                 0,
@@ -5012,7 +5012,7 @@ const W4000 = [
         {
             "id": 502,
             "word": "fatigue",
-            "pronunciation": "/fəˈtiːɡ/",
+            "pronunciation": "fəˈtiːɡ",
             "progress": [
                 0,
                 0,
@@ -5022,7 +5022,7 @@ const W4000 = [
         {
             "id": 503,
             "word": "receptor",
-            "pronunciation": "/ɹɪˈsɛp.tə/",
+            "pronunciation": "ɹɪˈsɛp.tə",
             "progress": [
                 0,
                 0,
@@ -5032,7 +5032,7 @@ const W4000 = [
         {
             "id": 504,
             "word": "incumbent",
-            "pronunciation": "/ɪnˈkʌmbənt/",
+            "pronunciation": "ɪnˈkʌmbənt",
             "progress": [
                 0,
                 0,
@@ -5042,7 +5042,7 @@ const W4000 = [
         {
             "id": 505,
             "word": "diagnostic",
-            "pronunciation": "/daɪəˈɡnɒstɪk/",
+            "pronunciation": "daɪəˈɡnɒstɪk",
             "progress": [
                 0,
                 0,
@@ -5062,7 +5062,7 @@ const W4000 = [
         {
             "id": 507,
             "word": "dye",
-            "pronunciation": "/daɪ/",
+            "pronunciation": "daɪ",
             "progress": [
                 0,
                 0,
@@ -5072,7 +5072,7 @@ const W4000 = [
         {
             "id": 508,
             "word": "infinite",
-            "pronunciation": "/ˈɪnfɪnɪt/",
+            "pronunciation": "ˈɪnfɪnɪt",
             "progress": [
                 0,
                 0,
@@ -5082,7 +5082,7 @@ const W4000 = [
         {
             "id": 509,
             "word": "synthesis",
-            "pronunciation": "/ˈsɪnθəsɪs/",
+            "pronunciation": "ˈsɪnθəsɪs",
             "progress": [
                 0,
                 0,
@@ -5092,7 +5092,7 @@ const W4000 = [
         {
             "id": 510,
             "word": "reactor",
-            "pronunciation": "/ɹiːˈæktə/",
+            "pronunciation": "ɹiːˈæktə",
             "progress": [
                 0,
                 0,
@@ -5102,7 +5102,7 @@ const W4000 = [
         {
             "id": 511,
             "word": "mediate",
-            "pronunciation": "/ˈmidi.ət/",
+            "pronunciation": "ˈmidi.ət",
             "progress": [
                 0,
                 0,
@@ -5112,7 +5112,7 @@ const W4000 = [
         {
             "id": 512,
             "word": "radar",
-            "pronunciation": "/ˈɹeɪdɑː(ɹ)/",
+            "pronunciation": "ˈɹeɪdɑː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -5122,7 +5122,7 @@ const W4000 = [
         {
             "id": 513,
             "word": "detection",
-            "pronunciation": "/dəˈtɛkʃən/",
+            "pronunciation": "dəˈtɛkʃən",
             "progress": [
                 0,
                 0,
@@ -5132,7 +5132,7 @@ const W4000 = [
         {
             "id": 514,
             "word": "degrade",
-            "pronunciation": "/diˈɡɹeɪd/",
+            "pronunciation": "diˈɡɹeɪd",
             "progress": [
                 0,
                 0,
@@ -5142,7 +5142,7 @@ const W4000 = [
         {
             "id": 515,
             "word": "plantation",
-            "pronunciation": "/plænˈteɪʃən/",
+            "pronunciation": "plænˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -5152,7 +5152,7 @@ const W4000 = [
         {
             "id": 516,
             "word": "trivial",
-            "pronunciation": "/ˈtɹɪ.vi.əl/",
+            "pronunciation": "ˈtɹɪ.vi.əl",
             "progress": [
                 0,
                 0,
@@ -5182,7 +5182,7 @@ const W4000 = [
         {
             "id": 519,
             "word": "algorithm",
-            "pronunciation": "/ˈælɡəɹɪðm̩/",
+            "pronunciation": "ˈælɡəɹɪðm̩",
             "progress": [
                 0,
                 0,
@@ -5202,7 +5202,7 @@ const W4000 = [
         {
             "id": 521,
             "word": "inferior",
-            "pronunciation": "/ɪnˈfɪəɹɪə/",
+            "pronunciation": "ɪnˈfɪəɹɪə",
             "progress": [
                 0,
                 0,
@@ -5212,7 +5212,7 @@ const W4000 = [
         {
             "id": 522,
             "word": "plausible",
-            "pronunciation": "/ˈplɔːz.ə.bəl/",
+            "pronunciation": "ˈplɔːz.ə.bəl",
             "progress": [
                 0,
                 0,
@@ -5222,7 +5222,7 @@ const W4000 = [
         {
             "id": 523,
             "word": "lexical",
-            "pronunciation": "/ˈlɛksɪkəl/",
+            "pronunciation": "ˈlɛksɪkəl",
             "progress": [
                 0,
                 0,
@@ -5232,7 +5232,7 @@ const W4000 = [
         {
             "id": 524,
             "word": "optical",
-            "pronunciation": "/ˈɒptɪkəl/",
+            "pronunciation": "ˈɒptɪkəl",
             "progress": [
                 0,
                 0,
@@ -5242,7 +5242,7 @@ const W4000 = [
         {
             "id": 525,
             "word": "triangle",
-            "pronunciation": "/ˈtɹaɪəŋɡəl/",
+            "pronunciation": "ˈtɹaɪəŋɡəl",
             "progress": [
                 0,
                 0,
@@ -5252,7 +5252,7 @@ const W4000 = [
         {
             "id": 526,
             "word": "quiz",
-            "pronunciation": "/kwɪz/",
+            "pronunciation": "kwɪz",
             "progress": [
                 0,
                 0,
@@ -5272,7 +5272,7 @@ const W4000 = [
         {
             "id": 528,
             "word": "migrate",
-            "pronunciation": "/maɪ.ˈɡɹeɪt/",
+            "pronunciation": "maɪ.ˈɡɹeɪt",
             "progress": [
                 0,
                 0,
@@ -5282,7 +5282,7 @@ const W4000 = [
         {
             "id": 529,
             "word": "polar",
-            "pronunciation": "/ˈpəʊ̯lə(ɹ)/",
+            "pronunciation": "ˈpəʊ̯lə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -5292,7 +5292,7 @@ const W4000 = [
         {
             "id": 530,
             "word": "spatial",
-            "pronunciation": "/ˈspeɪʃəl/",
+            "pronunciation": "ˈspeɪʃəl",
             "progress": [
                 0,
                 0,
@@ -5302,7 +5302,7 @@ const W4000 = [
         {
             "id": 531,
             "word": "tract",
-            "pronunciation": "/tɹækt/",
+            "pronunciation": "tɹækt",
             "progress": [
                 0,
                 0,
@@ -5332,7 +5332,7 @@ const W4000 = [
         {
             "id": 534,
             "word": "singular",
-            "pronunciation": "/ˈsɪŋɡjʊlə/",
+            "pronunciation": "ˈsɪŋɡjʊlə",
             "progress": [
                 0,
                 0,
@@ -5342,7 +5342,7 @@ const W4000 = [
         {
             "id": 535,
             "word": "simulate",
-            "pronunciation": "/-jə-/",
+            "pronunciation": "-jə-",
             "progress": [
                 0,
                 0,
@@ -5362,7 +5362,7 @@ const W4000 = [
         {
             "id": 537,
             "word": "contradict",
-            "pronunciation": "/kɒntɹəˈdɪkt/",
+            "pronunciation": "kɒntɹəˈdɪkt",
             "progress": [
                 0,
                 0,
@@ -5372,7 +5372,7 @@ const W4000 = [
         {
             "id": 538,
             "word": "cylinder",
-            "pronunciation": "/ˈsɪlɪndə(ɹ)/",
+            "pronunciation": "ˈsɪlɪndə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -5382,7 +5382,7 @@ const W4000 = [
         {
             "id": 539,
             "word": "mutation",
-            "pronunciation": "/mjuˈteɪʃən/",
+            "pronunciation": "mjuˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -5392,7 +5392,7 @@ const W4000 = [
         {
             "id": 540,
             "word": "deficiency",
-            "pronunciation": "/dɪˈfɪʃənsi/",
+            "pronunciation": "dɪˈfɪʃənsi",
             "progress": [
                 0,
                 0,
@@ -5402,7 +5402,7 @@ const W4000 = [
         {
             "id": 541,
             "word": "ion",
-            "pronunciation": "/ˈaɪɒn/",
+            "pronunciation": "ˈaɪɒn",
             "progress": [
                 0,
                 0,
@@ -5412,7 +5412,7 @@ const W4000 = [
         {
             "id": 542,
             "word": "atomic",
-            "pronunciation": "/əˈtɔm.ɪk/",
+            "pronunciation": "əˈtɔm.ɪk",
             "progress": [
                 0,
                 0,
@@ -5422,7 +5422,7 @@ const W4000 = [
         {
             "id": 543,
             "word": "unstable",
-            "pronunciation": "/ʌnˈsteɪbəɫ/",
+            "pronunciation": "ʌnˈsteɪbəɫ",
             "progress": [
                 0,
                 0,
@@ -5432,7 +5432,7 @@ const W4000 = [
         {
             "id": 544,
             "word": "ecological",
-            "pronunciation": "/ˌiːkəˈlɒd͡ʒɪkl̩/",
+            "pronunciation": "ˌiːkəˈlɒd͡ʒɪkl̩",
             "progress": [
                 0,
                 0,
@@ -5452,7 +5452,7 @@ const W4000 = [
         {
             "id": 546,
             "word": "fracture",
-            "pronunciation": "/ˈfɹæk.tjə/",
+            "pronunciation": "ˈfɹæk.tjə",
             "progress": [
                 0,
                 0,
@@ -5462,7 +5462,7 @@ const W4000 = [
         {
             "id": 547,
             "word": "convergence",
-            "pronunciation": "/kɒnˈvɜː(ɹ)d͡ʒəns/",
+            "pronunciation": "kɒnˈvɜː(ɹ)d͡ʒəns",
             "progress": [
                 0,
                 0,
@@ -5472,7 +5472,7 @@ const W4000 = [
         {
             "id": 548,
             "word": "sodium",
-            "pronunciation": "/ˈsəʊdɪəm/",
+            "pronunciation": "ˈsəʊdɪəm",
             "progress": [
                 0,
                 0,
@@ -5482,7 +5482,7 @@ const W4000 = [
         {
             "id": 549,
             "word": "niche",
-            "pronunciation": "/niːʃ/",
+            "pronunciation": "niːʃ",
             "progress": [
                 0,
                 0,
@@ -5492,7 +5492,7 @@ const W4000 = [
         {
             "id": 550,
             "word": "media",
-            "pronunciation": "/ˈmiːdɪə/",
+            "pronunciation": "ˈmiːdɪə",
             "progress": [
                 0,
                 0,
@@ -5502,7 +5502,7 @@ const W4000 = [
         {
             "id": 551,
             "word": "neuron",
-            "pronunciation": "/ˈnjəɹɑn/",
+            "pronunciation": "ˈnjəɹɑn",
             "progress": [
                 0,
                 0,
@@ -5512,7 +5512,7 @@ const W4000 = [
         {
             "id": 552,
             "word": "variance",
-            "pronunciation": "/ˈvɛːɹi.əns/",
+            "pronunciation": "ˈvɛːɹi.əns",
             "progress": [
                 0,
                 0,
@@ -5532,7 +5532,7 @@ const W4000 = [
         {
             "id": 554,
             "word": "surgical",
-            "pronunciation": "/ˈsɜːdʒɪkəl/",
+            "pronunciation": "ˈsɜːdʒɪkəl",
             "progress": [
                 0,
                 0,
@@ -5552,7 +5552,7 @@ const W4000 = [
         {
             "id": 556,
             "word": "trajectory",
-            "pronunciation": "/tɹəˈdʒɛktəɹɪ/",
+            "pronunciation": "tɹəˈdʒɛktəɹɪ",
             "progress": [
                 0,
                 0,
@@ -5562,7 +5562,7 @@ const W4000 = [
         {
             "id": 557,
             "word": "nationalism",
-            "pronunciation": "/ˈnæʃənəlɪzəm/",
+            "pronunciation": "ˈnæʃənəlɪzəm",
             "progress": [
                 0,
                 0,
@@ -5572,7 +5572,7 @@ const W4000 = [
         {
             "id": 558,
             "word": "residue",
-            "pronunciation": "/ˈɹɛzɪdjuː/",
+            "pronunciation": "ˈɹɛzɪdjuː",
             "progress": [
                 0,
                 0,
@@ -5582,7 +5582,7 @@ const W4000 = [
         {
             "id": 559,
             "word": "calculator",
-            "pronunciation": "/kæl.kjə.leɪ.təɹ/",
+            "pronunciation": "kæl.kjə.leɪ.təɹ",
             "progress": [
                 0,
                 0,
@@ -5592,7 +5592,7 @@ const W4000 = [
         {
             "id": 560,
             "word": "photographic",
-            "pronunciation": "/ˌfoʊtəˈɡɹæfɪk/",
+            "pronunciation": "ˌfoʊtəˈɡɹæfɪk",
             "progress": [
                 0,
                 0,
@@ -5602,7 +5602,7 @@ const W4000 = [
         {
             "id": 561,
             "word": "dilute",
-            "pronunciation": "/daɪˈljuːt/",
+            "pronunciation": "daɪˈljuːt",
             "progress": [
                 0,
                 0,
@@ -5612,7 +5612,7 @@ const W4000 = [
         {
             "id": 562,
             "word": "residual",
-            "pronunciation": "/ɹɪˈzɪdjəl/",
+            "pronunciation": "ɹɪˈzɪdjəl",
             "progress": [
                 0,
                 0,
@@ -5622,7 +5622,7 @@ const W4000 = [
         {
             "id": 563,
             "word": "vegetation",
-            "pronunciation": "/ˌvɛd͡ʒəˈteɪʃən/",
+            "pronunciation": "ˌvɛd͡ʒəˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -5632,7 +5632,7 @@ const W4000 = [
         {
             "id": 564,
             "word": "synthetic",
-            "pronunciation": "/sɪnˈθɛtɪk/",
+            "pronunciation": "sɪnˈθɛtɪk",
             "progress": [
                 0,
                 0,
@@ -5662,7 +5662,7 @@ const W4000 = [
         {
             "id": 567,
             "word": "affirm",
-            "pronunciation": "/əˈfɜːm/",
+            "pronunciation": "əˈfɜːm",
             "progress": [
                 0,
                 0,
@@ -5682,7 +5682,7 @@ const W4000 = [
         {
             "id": 569,
             "word": "cone",
-            "pronunciation": "/kəʊn/",
+            "pronunciation": "kəʊn",
             "progress": [
                 0,
                 0,
@@ -5692,7 +5692,7 @@ const W4000 = [
         {
             "id": 570,
             "word": "finite",
-            "pronunciation": "/ˈfaɪnaɪt/",
+            "pronunciation": "ˈfaɪnaɪt",
             "progress": [
                 0,
                 0,
@@ -5702,7 +5702,7 @@ const W4000 = [
         {
             "id": 571,
             "word": "lecturer",
-            "pronunciation": "/ˈlɛktʃəɹə/",
+            "pronunciation": "ˈlɛktʃəɹə",
             "progress": [
                 0,
                 0,
@@ -5712,7 +5712,7 @@ const W4000 = [
         {
             "id": 572,
             "word": "altitude",
-            "pronunciation": "/ˈælt.ɪˌtjuːd/",
+            "pronunciation": "ˈælt.ɪˌtjuːd",
             "progress": [
                 0,
                 0,
@@ -5732,7 +5732,7 @@ const W4000 = [
         {
             "id": 574,
             "word": "periodic",
-            "pronunciation": "/ˌpɪə-/",
+            "pronunciation": "ˌpɪə-",
             "progress": [
                 0,
                 0,
@@ -5742,7 +5742,7 @@ const W4000 = [
         {
             "id": 575,
             "word": "susceptible",
-            "pronunciation": "/səˈsɛptɪbl̩/",
+            "pronunciation": "səˈsɛptɪbl̩",
             "progress": [
                 0,
                 0,
@@ -5762,7 +5762,7 @@ const W4000 = [
         {
             "id": 577,
             "word": "transparency",
-            "pronunciation": "/tɹænsˈpæɹənsi/",
+            "pronunciation": "tɹænsˈpæɹənsi",
             "progress": [
                 0,
                 0,
@@ -5772,7 +5772,7 @@ const W4000 = [
         {
             "id": 578,
             "word": "applause",
-            "pronunciation": "/əˈplɔːz/",
+            "pronunciation": "əˈplɔːz",
             "progress": [
                 0,
                 0,
@@ -5782,7 +5782,7 @@ const W4000 = [
         {
             "id": 579,
             "word": "emit",
-            "pronunciation": "/iˈmɪt/",
+            "pronunciation": "iˈmɪt",
             "progress": [
                 0,
                 0,
@@ -5792,7 +5792,7 @@ const W4000 = [
         {
             "id": 580,
             "word": "realism",
-            "pronunciation": "/ɹi.əlɪzm/",
+            "pronunciation": "ɹi.əlɪzm",
             "progress": [
                 0,
                 0,
@@ -5802,7 +5802,7 @@ const W4000 = [
         {
             "id": 581,
             "word": "lever",
-            "pronunciation": "/ˈliː.vɚ/",
+            "pronunciation": "ˈliː.vɚ",
             "progress": [
                 0,
                 0,
@@ -5812,7 +5812,7 @@ const W4000 = [
         {
             "id": 582,
             "word": "numerical",
-            "pronunciation": "/n(j)uˈmɛɹɪkəl/",
+            "pronunciation": "n(j)uˈmɛɹɪkəl",
             "progress": [
                 0,
                 0,
@@ -5822,7 +5822,7 @@ const W4000 = [
         {
             "id": 583,
             "word": "theorist",
-            "pronunciation": "/ˈθiːəɹəst/",
+            "pronunciation": "ˈθiːəɹəst",
             "progress": [
                 0,
                 0,
@@ -5832,7 +5832,7 @@ const W4000 = [
         {
             "id": 584,
             "word": "emperor",
-            "pronunciation": "/ˈempɘɹɘ/",
+            "pronunciation": "ˈempɘɹɘ",
             "progress": [
                 0,
                 0,
@@ -5842,7 +5842,7 @@ const W4000 = [
         {
             "id": 585,
             "word": "whichever",
-            "pronunciation": "/wɪtʃˈɛvɚ/",
+            "pronunciation": "wɪtʃˈɛvɚ",
             "progress": [
                 0,
                 0,
@@ -5852,7 +5852,7 @@ const W4000 = [
         {
             "id": 586,
             "word": "deviation",
-            "pronunciation": "/diviˈeɪʃən/",
+            "pronunciation": "diviˈeɪʃən",
             "progress": [
                 0,
                 0,
@@ -5862,7 +5862,7 @@ const W4000 = [
         {
             "id": 587,
             "word": "accumulation",
-            "pronunciation": "/ə.ˌkjuːm.jə.ˈleɪ.ʃən/",
+            "pronunciation": "ə.ˌkjuːm.jə.ˈleɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -5872,7 +5872,7 @@ const W4000 = [
         {
             "id": 588,
             "word": "liter",
-            "pronunciation": "/ˈliː.tə/",
+            "pronunciation": "ˈliː.tə",
             "progress": [
                 0,
                 0,
@@ -5882,7 +5882,7 @@ const W4000 = [
         {
             "id": 589,
             "word": "nominal",
-            "pronunciation": "/ˈnɑm.ɪnl̩/",
+            "pronunciation": "ˈnɑm.ɪnl̩",
             "progress": [
                 0,
                 0,
@@ -5892,7 +5892,7 @@ const W4000 = [
         {
             "id": 590,
             "word": "qualitative",
-            "pronunciation": "/ˈkwɒl.ɪ.tə.tɪv/",
+            "pronunciation": "ˈkwɒl.ɪ.tə.tɪv",
             "progress": [
                 0,
                 0,
@@ -5902,7 +5902,7 @@ const W4000 = [
         {
             "id": 591,
             "word": "deceive",
-            "pronunciation": "/dɪˈsiːv/",
+            "pronunciation": "dɪˈsiːv",
             "progress": [
                 0,
                 0,
@@ -5922,7 +5922,7 @@ const W4000 = [
         {
             "id": 593,
             "word": "critically",
-            "pronunciation": "/ˈkɹɪtɪkli/",
+            "pronunciation": "ˈkɹɪtɪkli",
             "progress": [
                 0,
                 0,
@@ -5932,7 +5932,7 @@ const W4000 = [
         {
             "id": 594,
             "word": "statistically",
-            "pronunciation": "/stəˈtɪstɪkl̩i/",
+            "pronunciation": "stəˈtɪstɪkl̩i",
             "progress": [
                 0,
                 0,
@@ -5942,7 +5942,7 @@ const W4000 = [
         {
             "id": 595,
             "word": "nitrogen",
-            "pronunciation": "/ˈnaɪ.tɹə.dʒən/",
+            "pronunciation": "ˈnaɪ.tɹə.dʒən",
             "progress": [
                 0,
                 0,
@@ -5962,7 +5962,7 @@ const W4000 = [
         {
             "id": 597,
             "word": "messenger",
-            "pronunciation": "/ˈmɛs.n̩.d͡ʒə/",
+            "pronunciation": "ˈmɛs.n̩.d͡ʒə",
             "progress": [
                 0,
                 0,
@@ -6002,7 +6002,7 @@ const W4000 = [
         {
             "id": 601,
             "word": "interviewer",
-            "pronunciation": "/ˈɪntəvjuːə/",
+            "pronunciation": "ˈɪntəvjuːə",
             "progress": [
                 0,
                 0,
@@ -6012,7 +6012,7 @@ const W4000 = [
         {
             "id": 602,
             "word": "paradox",
-            "pronunciation": "/ˈpaɹədɒks/",
+            "pronunciation": "ˈpaɹədɒks",
             "progress": [
                 0,
                 0,
@@ -6022,7 +6022,7 @@ const W4000 = [
         {
             "id": 603,
             "word": "elevation",
-            "pronunciation": "/ˌɛlɪˈveɪʃən/",
+            "pronunciation": "ˌɛlɪˈveɪʃən",
             "progress": [
                 0,
                 0,
@@ -6032,7 +6032,7 @@ const W4000 = [
         {
             "id": 604,
             "word": "erase",
-            "pronunciation": "/ɪˈɹeɪz/",
+            "pronunciation": "ɪˈɹeɪz",
             "progress": [
                 0,
                 0,
@@ -6042,7 +6042,7 @@ const W4000 = [
         {
             "id": 605,
             "word": "contour",
-            "pronunciation": "/-tɔː(ɹ)/",
+            "pronunciation": "-tɔː(ɹ)",
             "progress": [
                 0,
                 0,
@@ -6052,7 +6052,7 @@ const W4000 = [
         {
             "id": 606,
             "word": "randomly",
-            "pronunciation": "/ˈɹændm̩li/",
+            "pronunciation": "ˈɹændm̩li",
             "progress": [
                 0,
                 0,
@@ -6072,7 +6072,7 @@ const W4000 = [
         {
             "id": 608,
             "word": "converge",
-            "pronunciation": "/kən.ˈvɜːdʒ/",
+            "pronunciation": "kən.ˈvɜːdʒ",
             "progress": [
                 0,
                 0,
@@ -6082,7 +6082,7 @@ const W4000 = [
         {
             "id": 609,
             "word": "archaeology",
-            "pronunciation": "/ˌɑː.kiˈɒ.lə.dʒi/",
+            "pronunciation": "ˌɑː.kiˈɒ.lə.dʒi",
             "progress": [
                 0,
                 0,
@@ -6092,7 +6092,7 @@ const W4000 = [
         {
             "id": 610,
             "word": "coefficient",
-            "pronunciation": "/ˌkəʊ.iˈfɪʃn̩t/",
+            "pronunciation": "ˌkəʊ.iˈfɪʃn̩t",
             "progress": [
                 0,
                 0,
@@ -6102,7 +6102,7 @@ const W4000 = [
         {
             "id": 611,
             "word": "induction",
-            "pronunciation": "/ɪnˈdʌkʃən/",
+            "pronunciation": "ɪnˈdʌkʃən",
             "progress": [
                 0,
                 0,
@@ -6122,7 +6122,7 @@ const W4000 = [
         {
             "id": 613,
             "word": "thermal",
-            "pronunciation": "/ˈθɝməl/",
+            "pronunciation": "ˈθɝməl",
             "progress": [
                 0,
                 0,
@@ -6132,7 +6132,7 @@ const W4000 = [
         {
             "id": 614,
             "word": "regression",
-            "pronunciation": "/ɹəˈɡɹɛʃən/",
+            "pronunciation": "ɹəˈɡɹɛʃən",
             "progress": [
                 0,
                 0,
@@ -6152,7 +6152,7 @@ const W4000 = [
         {
             "id": 616,
             "word": "variability",
-            "pronunciation": "/ˌvæɹ.i.ə.ˈbɪl.ə.ti (ɪ.ti)/",
+            "pronunciation": "ˌvæɹ.i.ə.ˈbɪl.ə.ti (ɪ.ti)",
             "progress": [
                 0,
                 0,
@@ -6162,7 +6162,7 @@ const W4000 = [
         {
             "id": 617,
             "word": "plural",
-            "pronunciation": "/ˈplɔː.ɹəl/",
+            "pronunciation": "ˈplɔː.ɹəl",
             "progress": [
                 0,
                 0,
@@ -6182,7 +6182,7 @@ const W4000 = [
         {
             "id": 619,
             "word": "thickness",
-            "pronunciation": "/ˈθɪknəs/",
+            "pronunciation": "ˈθɪknəs",
             "progress": [
                 0,
                 0,
@@ -6192,7 +6192,7 @@ const W4000 = [
         {
             "id": 620,
             "word": "clone",
-            "pronunciation": "/kləʊn/",
+            "pronunciation": "kləʊn",
             "progress": [
                 0,
                 0,
@@ -6202,7 +6202,7 @@ const W4000 = [
         {
             "id": 621,
             "word": "slab",
-            "pronunciation": "/slæb/",
+            "pronunciation": "slæb",
             "progress": [
                 0,
                 0,
@@ -6212,7 +6212,7 @@ const W4000 = [
         {
             "id": 622,
             "word": "encode",
-            "pronunciation": "/ɪnˈkəʊd/",
+            "pronunciation": "ɪnˈkəʊd",
             "progress": [
                 0,
                 0,
@@ -6222,7 +6222,7 @@ const W4000 = [
         {
             "id": 623,
             "word": "pest",
-            "pronunciation": "/pɛst/",
+            "pronunciation": "pɛst",
             "progress": [
                 0,
                 0,
@@ -6232,7 +6232,7 @@ const W4000 = [
         {
             "id": 624,
             "word": "fungus",
-            "pronunciation": "/ˈfʌŋ.ɡəs/",
+            "pronunciation": "ˈfʌŋ.ɡəs",
             "progress": [
                 0,
                 0,
@@ -6242,7 +6242,7 @@ const W4000 = [
         {
             "id": 625,
             "word": "respiratory",
-            "pronunciation": "/ɹɪˈspɪɹət(ə)ɹi/",
+            "pronunciation": "ɹɪˈspɪɹət(ə)ɹi",
             "progress": [
                 0,
                 0,
@@ -6252,7 +6252,7 @@ const W4000 = [
         {
             "id": 626,
             "word": "urine",
-            "pronunciation": "/ˈjʉːəɹɪn/",
+            "pronunciation": "ˈjʉːəɹɪn",
             "progress": [
                 0,
                 0,
@@ -6262,7 +6262,7 @@ const W4000 = [
         {
             "id": 627,
             "word": "terminology",
-            "pronunciation": "/ˌtɜːməˈnɒləd͡ʒi/",
+            "pronunciation": "ˌtɜːməˈnɒləd͡ʒi",
             "progress": [
                 0,
                 0,
@@ -6282,7 +6282,7 @@ const W4000 = [
         {
             "id": 629,
             "word": "contradictory",
-            "pronunciation": "/ˌkɑntɹəˈdɪktəɹi/",
+            "pronunciation": "ˌkɑntɹəˈdɪktəɹi",
             "progress": [
                 0,
                 0,
@@ -6292,7 +6292,7 @@ const W4000 = [
         {
             "id": 630,
             "word": "inference",
-            "pronunciation": "/ˈɪn.fə.ɹəns/",
+            "pronunciation": "ˈɪn.fə.ɹəns",
             "progress": [
                 0,
                 0,
@@ -6312,7 +6312,7 @@ const W4000 = [
         {
             "id": 632,
             "word": "pesticide",
-            "pronunciation": "/ˈpɛstɨsaɪd/",
+            "pronunciation": "ˈpɛstɨsaɪd",
             "progress": [
                 0,
                 0,
@@ -6332,7 +6332,7 @@ const W4000 = [
         {
             "id": 634,
             "word": "absorption",
-            "pronunciation": "/əbˈsɔːp.ʃn̩/",
+            "pronunciation": "əbˈsɔːp.ʃn̩",
             "progress": [
                 0,
                 0,
@@ -6342,7 +6342,7 @@ const W4000 = [
         {
             "id": 635,
             "word": "transcription",
-            "pronunciation": "/tɹænˈskɹɪpʃən/",
+            "pronunciation": "tɹænˈskɹɪpʃən",
             "progress": [
                 0,
                 0,
@@ -6352,7 +6352,7 @@ const W4000 = [
         {
             "id": 636,
             "word": "estimation",
-            "pronunciation": "/ɛstɪˈmeɪʃən/",
+            "pronunciation": "ɛstɪˈmeɪʃən",
             "progress": [
                 0,
                 0,
@@ -6362,7 +6362,7 @@ const W4000 = [
         {
             "id": 637,
             "word": "conditional",
-            "pronunciation": "/kənˈdɪʃənəl/",
+            "pronunciation": "kənˈdɪʃənəl",
             "progress": [
                 0,
                 0,
@@ -6382,7 +6382,7 @@ const W4000 = [
         {
             "id": 639,
             "word": "appendix",
-            "pronunciation": "/əˈpɛn.dɪks/",
+            "pronunciation": "əˈpɛn.dɪks",
             "progress": [
                 0,
                 0,
@@ -6392,7 +6392,7 @@ const W4000 = [
         {
             "id": 640,
             "word": "discrete",
-            "pronunciation": "/dɪsˈkɹiːt/",
+            "pronunciation": "dɪsˈkɹiːt",
             "progress": [
                 0,
                 0,
@@ -6402,7 +6402,7 @@ const W4000 = [
         {
             "id": 641,
             "word": "temporal",
-            "pronunciation": "/ˈtɛm.pəɹ.əl/",
+            "pronunciation": "ˈtɛm.pəɹ.əl",
             "progress": [
                 0,
                 0,
@@ -6412,7 +6412,7 @@ const W4000 = [
         {
             "id": 642,
             "word": "indifference",
-            "pronunciation": "/ɪnˈdɪf.ə.ɹəns/",
+            "pronunciation": "ɪnˈdɪf.ə.ɹəns",
             "progress": [
                 0,
                 0,
@@ -6432,7 +6432,7 @@ const W4000 = [
         {
             "id": 644,
             "word": "domination",
-            "pronunciation": "/ˌdɒməˈneɪʃən/",
+            "pronunciation": "ˌdɒməˈneɪʃən",
             "progress": [
                 0,
                 0,
@@ -6442,7 +6442,7 @@ const W4000 = [
         {
             "id": 645,
             "word": "scroll",
-            "pronunciation": "/skɹoʊl/",
+            "pronunciation": "skɹoʊl",
             "progress": [
                 0,
                 0,
@@ -6452,7 +6452,7 @@ const W4000 = [
         {
             "id": 646,
             "word": "demonstrator",
-            "pronunciation": "/ˈdɛmənstɹeɪtə(ɹ)/",
+            "pronunciation": "ˈdɛmənstɹeɪtə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -6462,7 +6462,7 @@ const W4000 = [
         {
             "id": 647,
             "word": "subset",
-            "pronunciation": "/ˈsʌbˌsɛt/",
+            "pronunciation": "ˈsʌbˌsɛt",
             "progress": [
                 0,
                 0,
@@ -6472,7 +6472,7 @@ const W4000 = [
         {
             "id": 648,
             "word": "syntax",
-            "pronunciation": "/ˈsɪn.tæks/",
+            "pronunciation": "ˈsɪn.tæks",
             "progress": [
                 0,
                 0,
@@ -6492,7 +6492,7 @@ const W4000 = [
         {
             "id": 650,
             "word": "bodily",
-            "pronunciation": "/ˈbɒdɪli/",
+            "pronunciation": "ˈbɒdɪli",
             "progress": [
                 0,
                 0,
@@ -6502,7 +6502,7 @@ const W4000 = [
         {
             "id": 651,
             "word": "consonant",
-            "pronunciation": "/ˈkɒn.sə.nənt/",
+            "pronunciation": "ˈkɒn.sə.nənt",
             "progress": [
                 0,
                 0,
@@ -6512,7 +6512,7 @@ const W4000 = [
         {
             "id": 652,
             "word": "physiological",
-            "pronunciation": "/ˌfɪzi.əˈlɑdʒɪkəl/",
+            "pronunciation": "ˌfɪzi.əˈlɑdʒɪkəl",
             "progress": [
                 0,
                 0,
@@ -6522,7 +6522,7 @@ const W4000 = [
         {
             "id": 653,
             "word": "sediment",
-            "pronunciation": "/ˈsɛd.ɪ.mənt/",
+            "pronunciation": "ˈsɛd.ɪ.mənt",
             "progress": [
                 0,
                 0,
@@ -6532,7 +6532,7 @@ const W4000 = [
         {
             "id": 654,
             "word": "fin",
-            "pronunciation": "/fɪn/",
+            "pronunciation": "fɪn",
             "progress": [
                 0,
                 0,
@@ -6542,7 +6542,7 @@ const W4000 = [
         {
             "id": 655,
             "word": "motif",
-            "pronunciation": "/moʊˈtiːf/",
+            "pronunciation": "moʊˈtiːf",
             "progress": [
                 0,
                 0,
@@ -6552,7 +6552,7 @@ const W4000 = [
         {
             "id": 656,
             "word": "linguistics",
-            "pronunciation": "/liŋˈɡwɪstɪks/",
+            "pronunciation": "liŋˈɡwɪstɪks",
             "progress": [
                 0,
                 0,
@@ -6562,7 +6562,7 @@ const W4000 = [
         {
             "id": 657,
             "word": "radius",
-            "pronunciation": "/ˈɹeɪ.di.əs/",
+            "pronunciation": "ˈɹeɪ.di.əs",
             "progress": [
                 0,
                 0,
@@ -6572,7 +6572,7 @@ const W4000 = [
         {
             "id": 658,
             "word": "algebra",
-            "pronunciation": "/ˈæl.dʒɪ.bɹə/",
+            "pronunciation": "ˈæl.dʒɪ.bɹə",
             "progress": [
                 0,
                 0,
@@ -6582,7 +6582,7 @@ const W4000 = [
         {
             "id": 659,
             "word": "fetal",
-            "pronunciation": "/ˈfitl̩/",
+            "pronunciation": "ˈfitl̩",
             "progress": [
                 0,
                 0,
@@ -6592,7 +6592,7 @@ const W4000 = [
         {
             "id": 660,
             "word": "syntactic",
-            "pronunciation": "/sɪnˈtæktɪk/",
+            "pronunciation": "sɪnˈtæktɪk",
             "progress": [
                 0,
                 0,
@@ -6612,7 +6612,7 @@ const W4000 = [
         {
             "id": 662,
             "word": "approximation",
-            "pronunciation": "/əˌpɹɒksɪˈmeɪʃn/",
+            "pronunciation": "əˌpɹɒksɪˈmeɪʃn",
             "progress": [
                 0,
                 0,
@@ -6622,7 +6622,7 @@ const W4000 = [
         {
             "id": 663,
             "word": "acceleration",
-            "pronunciation": "/æk.ˌsɛl.ə.ˈɹeɪ.ʃən/",
+            "pronunciation": "æk.ˌsɛl.ə.ˈɹeɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -6632,7 +6632,7 @@ const W4000 = [
         {
             "id": 664,
             "word": "hawk",
-            "pronunciation": "/hɔːk/",
+            "pronunciation": "hɔːk",
             "progress": [
                 0,
                 0,
@@ -6662,7 +6662,7 @@ const W4000 = [
         {
             "id": 667,
             "word": "lateral",
-            "pronunciation": "/ˈlæt.ɹəl/",
+            "pronunciation": "ˈlæt.ɹəl",
             "progress": [
                 0,
                 0,
@@ -6672,7 +6672,7 @@ const W4000 = [
         {
             "id": 668,
             "word": "adaptive",
-            "pronunciation": "/əˈdæp.tɪv/",
+            "pronunciation": "əˈdæp.tɪv",
             "progress": [
                 0,
                 0,
@@ -6692,7 +6692,7 @@ const W4000 = [
         {
             "id": 670,
             "word": "friction",
-            "pronunciation": "/ˈfɹɪkʃən̩/",
+            "pronunciation": "ˈfɹɪkʃən̩",
             "progress": [
                 0,
                 0,
@@ -6702,7 +6702,7 @@ const W4000 = [
         {
             "id": 671,
             "word": "binary",
-            "pronunciation": "/ˈbaɪ.nə.ɹɪ/",
+            "pronunciation": "ˈbaɪ.nə.ɹɪ",
             "progress": [
                 0,
                 0,
@@ -6712,7 +6712,7 @@ const W4000 = [
         {
             "id": 672,
             "word": "gram",
-            "pronunciation": "/ɡɹæm/",
+            "pronunciation": "ɡɹæm",
             "progress": [
                 0,
                 0,
@@ -6722,7 +6722,7 @@ const W4000 = [
         {
             "id": 673,
             "word": "delta",
-            "pronunciation": "/ˈdɛltə/",
+            "pronunciation": "ˈdɛltə",
             "progress": [
                 0,
                 0,
@@ -6732,7 +6732,7 @@ const W4000 = [
         {
             "id": 674,
             "word": "notation",
-            "pronunciation": "/noʊˈteɪʃən/",
+            "pronunciation": "noʊˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -6742,7 +6742,7 @@ const W4000 = [
         {
             "id": 675,
             "word": "dissertation",
-            "pronunciation": "/ˌdɪsəˈteɪʃən/",
+            "pronunciation": "ˌdɪsəˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -6752,7 +6752,7 @@ const W4000 = [
         {
             "id": 676,
             "word": "genetics",
-            "pronunciation": "/dʒɛˈnɛ.tɪks/",
+            "pronunciation": "dʒɛˈnɛ.tɪks",
             "progress": [
                 0,
                 0,
@@ -6762,7 +6762,7 @@ const W4000 = [
         {
             "id": 677,
             "word": "wavelength",
-            "pronunciation": "/ˈweɪvlɛŋ(k)θ/",
+            "pronunciation": "ˈweɪvlɛŋ(k)θ",
             "progress": [
                 0,
                 0,
@@ -6772,7 +6772,7 @@ const W4000 = [
         {
             "id": 678,
             "word": "diffusion",
-            "pronunciation": "/dɪˈfjuːʒən/",
+            "pronunciation": "dɪˈfjuːʒən",
             "progress": [
                 0,
                 0,
@@ -6782,7 +6782,7 @@ const W4000 = [
         {
             "id": 679,
             "word": "cortex",
-            "pronunciation": "/ˈkɔːtɛks/",
+            "pronunciation": "ˈkɔːtɛks",
             "progress": [
                 0,
                 0,
@@ -6792,7 +6792,7 @@ const W4000 = [
         {
             "id": 680,
             "word": "facet",
-            "pronunciation": "/ˈfæsɪt/",
+            "pronunciation": "ˈfæsɪt",
             "progress": [
                 0,
                 0,
@@ -6802,7 +6802,7 @@ const W4000 = [
         {
             "id": 681,
             "word": "semester",
-            "pronunciation": "/sɪˈmɛstə/",
+            "pronunciation": "sɪˈmɛstə",
             "progress": [
                 0,
                 0,
@@ -6822,7 +6822,7 @@ const W4000 = [
         {
             "id": 683,
             "word": "anthropology",
-            "pronunciation": "/ˌænθɹəˈpɒlədʒi/",
+            "pronunciation": "ˌænθɹəˈpɒlədʒi",
             "progress": [
                 0,
                 0,
@@ -6832,7 +6832,7 @@ const W4000 = [
         {
             "id": 684,
             "word": "ecology",
-            "pronunciation": "/ɛˈkɒlədʒi/",
+            "pronunciation": "ɛˈkɒlədʒi",
             "progress": [
                 0,
                 0,
@@ -6842,7 +6842,7 @@ const W4000 = [
         {
             "id": 685,
             "word": "precipitate",
-            "pronunciation": "/pɹəˈsɪpɪteɪt/",
+            "pronunciation": "pɹəˈsɪpɪteɪt",
             "progress": [
                 0,
                 0,
@@ -6852,7 +6852,7 @@ const W4000 = [
         {
             "id": 686,
             "word": "theorem",
-            "pronunciation": "/ˈθiː.ə.ɹəm/",
+            "pronunciation": "ˈθiː.ə.ɹəm",
             "progress": [
                 0,
                 0,
@@ -6862,7 +6862,7 @@ const W4000 = [
         {
             "id": 687,
             "word": "mole",
-            "pronunciation": "/mɔʊl/",
+            "pronunciation": "mɔʊl",
             "progress": [
                 0,
                 0,
@@ -6872,7 +6872,7 @@ const W4000 = [
         {
             "id": 688,
             "word": "neural",
-            "pronunciation": "/ˈnjəɹəl/",
+            "pronunciation": "ˈnjəɹəl",
             "progress": [
                 0,
                 0,
@@ -6892,7 +6892,7 @@ const W4000 = [
         {
             "id": 690,
             "word": "irrigation",
-            "pronunciation": "/ˌɪɹəˈɡeɪʃən/",
+            "pronunciation": "ˌɪɹəˈɡeɪʃən",
             "progress": [
                 0,
                 0,
@@ -6902,7 +6902,7 @@ const W4000 = [
         {
             "id": 691,
             "word": "pi",
-            "pronunciation": "/paɪ/",
+            "pronunciation": "paɪ",
             "progress": [
                 0,
                 0,
@@ -6912,7 +6912,7 @@ const W4000 = [
         {
             "id": 692,
             "word": "amino",
-            "pronunciation": "/əˈmiːnəʊ/",
+            "pronunciation": "əˈmiːnəʊ",
             "progress": [
                 0,
                 0,
@@ -6922,7 +6922,7 @@ const W4000 = [
         {
             "id": 693,
             "word": "turbulent",
-            "pronunciation": "/ˈtɜːbjələnt/",
+            "pronunciation": "ˈtɜːbjələnt",
             "progress": [
                 0,
                 0,
@@ -6942,7 +6942,7 @@ const W4000 = [
         {
             "id": 695,
             "word": "yeast",
-            "pronunciation": "/iːst/",
+            "pronunciation": "iːst",
             "progress": [
                 0,
                 0,
@@ -6952,7 +6952,7 @@ const W4000 = [
         {
             "id": 696,
             "word": "innate",
-            "pronunciation": "/ɪˈneɪt/",
+            "pronunciation": "ɪˈneɪt",
             "progress": [
                 0,
                 0,
@@ -6962,7 +6962,7 @@ const W4000 = [
         {
             "id": 697,
             "word": "metabolism",
-            "pronunciation": "/mɪˈtab.əl.ɪz.əm/",
+            "pronunciation": "mɪˈtab.əl.ɪz.əm",
             "progress": [
                 0,
                 0,
@@ -6972,7 +6972,7 @@ const W4000 = [
         {
             "id": 698,
             "word": "mercury",
-            "pronunciation": "/ˈməː.kjʊ.ɹi/",
+            "pronunciation": "ˈməː.kjʊ.ɹi",
             "progress": [
                 0,
                 0,
@@ -6982,7 +6982,7 @@ const W4000 = [
         {
             "id": 699,
             "word": "artwork",
-            "pronunciation": "/ˈɑːtˌwɜːk/",
+            "pronunciation": "ˈɑːtˌwɜːk",
             "progress": [
                 0,
                 0,
@@ -6992,7 +6992,7 @@ const W4000 = [
         {
             "id": 700,
             "word": "longitudinal",
-            "pronunciation": "/lɔŋɡəˈt͡ʃʉːdənəl/",
+            "pronunciation": "lɔŋɡəˈt͡ʃʉːdənəl",
             "progress": [
                 0,
                 0,
@@ -7002,7 +7002,7 @@ const W4000 = [
         {
             "id": 701,
             "word": "hepatitis",
-            "pronunciation": "/ˌhɛpəˈtaɪ̯tɪs/",
+            "pronunciation": "ˌhɛpəˈtaɪ̯tɪs",
             "progress": [
                 0,
                 0,
@@ -7012,7 +7012,7 @@ const W4000 = [
         {
             "id": 702,
             "word": "transcribe",
-            "pronunciation": "/trænˈskɹaɪb/",
+            "pronunciation": "trænˈskɹaɪb",
             "progress": [
                 0,
                 0,
@@ -7022,7 +7022,7 @@ const W4000 = [
         {
             "id": 703,
             "word": "calculus",
-            "pronunciation": "/ˈkæl.kjʊ.ləs/",
+            "pronunciation": "ˈkæl.kjʊ.ləs",
             "progress": [
                 0,
                 0,
@@ -7032,7 +7032,7 @@ const W4000 = [
         {
             "id": 704,
             "word": "coronary",
-            "pronunciation": "/ˈkɒɹən(ə)ɹi/",
+            "pronunciation": "ˈkɒɹən(ə)ɹi",
             "progress": [
                 0,
                 0,
@@ -7042,7 +7042,7 @@ const W4000 = [
         {
             "id": 705,
             "word": "confound",
-            "pronunciation": "/kənˈfaʊnd/",
+            "pronunciation": "kənˈfaʊnd",
             "progress": [
                 0,
                 0,
@@ -7052,7 +7052,7 @@ const W4000 = [
         {
             "id": 706,
             "word": "optimum",
-            "pronunciation": "/ˈɒptɪməm/",
+            "pronunciation": "ˈɒptɪməm",
             "progress": [
                 0,
                 0,
@@ -7062,7 +7062,7 @@ const W4000 = [
         {
             "id": 707,
             "word": "portrayal",
-            "pronunciation": "/ˌpɔɹˈtɹeɪ.əl/",
+            "pronunciation": "ˌpɔɹˈtɹeɪ.əl",
             "progress": [
                 0,
                 0,
@@ -7072,7 +7072,7 @@ const W4000 = [
         {
             "id": 708,
             "word": "memorize",
-            "pronunciation": "/ˈmɛm.əɹˌaɪ̯z/",
+            "pronunciation": "ˈmɛm.əɹˌaɪ̯z",
             "progress": [
                 0,
                 0,
@@ -7082,7 +7082,7 @@ const W4000 = [
         {
             "id": 709,
             "word": "initiation",
-            "pronunciation": "/ɪ.nɪ.ʃi.ˈeɪ.ʃən/",
+            "pronunciation": "ɪ.nɪ.ʃi.ˈeɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -7092,7 +7092,7 @@ const W4000 = [
         {
             "id": 710,
             "word": "novice",
-            "pronunciation": "/ˈnɒvɪs/",
+            "pronunciation": "ˈnɒvɪs",
             "progress": [
                 0,
                 0,
@@ -7102,7 +7102,7 @@ const W4000 = [
         {
             "id": 711,
             "word": "sensory",
-            "pronunciation": "/ˈsɛnsəɹi/",
+            "pronunciation": "ˈsɛnsəɹi",
             "progress": [
                 0,
                 0,
@@ -7122,7 +7122,7 @@ const W4000 = [
         {
             "id": 713,
             "word": "substrate",
-            "pronunciation": "/ˈsʌbstɹeɪt/",
+            "pronunciation": "ˈsʌbstɹeɪt",
             "progress": [
                 0,
                 0,
@@ -7142,7 +7142,7 @@ const W4000 = [
         {
             "id": 715,
             "word": "censor",
-            "pronunciation": "/ˈsɛnsə/",
+            "pronunciation": "ˈsɛnsə",
             "progress": [
                 0,
                 0,
@@ -7152,7 +7152,7 @@ const W4000 = [
         {
             "id": 716,
             "word": "antiquity",
-            "pronunciation": "/ænˈtɪk.wɪ.ti/",
+            "pronunciation": "ænˈtɪk.wɪ.ti",
             "progress": [
                 0,
                 0,
@@ -7192,7 +7192,7 @@ const W4000 = [
         {
             "id": 720,
             "word": "displacement",
-            "pronunciation": "/dɪsˈpleɪsmɪnt/",
+            "pronunciation": "dɪsˈpleɪsmɪnt",
             "progress": [
                 0,
                 0,
@@ -7202,7 +7202,7 @@ const W4000 = [
         {
             "id": 721,
             "word": "subtract",
-            "pronunciation": "/səbˈtɹækt/",
+            "pronunciation": "səbˈtɹækt",
             "progress": [
                 0,
                 0,
@@ -7212,7 +7212,7 @@ const W4000 = [
         {
             "id": 722,
             "word": "phosphate",
-            "pronunciation": "/ˈfɒsfeɪt/",
+            "pronunciation": "ˈfɒsfeɪt",
             "progress": [
                 0,
                 0,
@@ -7222,7 +7222,7 @@ const W4000 = [
         {
             "id": 723,
             "word": "elastic",
-            "pronunciation": "/iˈlæstɪk/",
+            "pronunciation": "iˈlæstɪk",
             "progress": [
                 0,
                 0,
@@ -7232,7 +7232,7 @@ const W4000 = [
         {
             "id": 724,
             "word": "anti",
-            "pronunciation": "/ˈæn.ti/",
+            "pronunciation": "ˈæn.ti",
             "progress": [
                 0,
                 0,
@@ -7242,7 +7242,7 @@ const W4000 = [
         {
             "id": 725,
             "word": "locus",
-            "pronunciation": "/ˈləʊkəs/",
+            "pronunciation": "ˈləʊkəs",
             "progress": [
                 0,
                 0,
@@ -7252,7 +7252,7 @@ const W4000 = [
         {
             "id": 726,
             "word": "morphology",
-            "pronunciation": "/mɔɹˈfɑlədʒi/",
+            "pronunciation": "mɔɹˈfɑlədʒi",
             "progress": [
                 0,
                 0,
@@ -7272,7 +7272,7 @@ const W4000 = [
         {
             "id": 728,
             "word": "entrant",
-            "pronunciation": "/ˈɛntɹənt/",
+            "pronunciation": "ˈɛntɹənt",
             "progress": [
                 0,
                 0,
@@ -7282,7 +7282,7 @@ const W4000 = [
         {
             "id": 729,
             "word": "marrow",
-            "pronunciation": "/ˈmæɹəʊ/",
+            "pronunciation": "ˈmæɹəʊ",
             "progress": [
                 0,
                 0,
@@ -7292,7 +7292,7 @@ const W4000 = [
         {
             "id": 730,
             "word": "abdominal",
-            "pronunciation": "/æbˈdɒm.ə.nl̩/",
+            "pronunciation": "æbˈdɒm.ə.nl̩",
             "progress": [
                 0,
                 0,
@@ -7302,7 +7302,7 @@ const W4000 = [
         {
             "id": 731,
             "word": "flux",
-            "pronunciation": "/flʌks/",
+            "pronunciation": "flʌks",
             "progress": [
                 0,
                 0,
@@ -7312,7 +7312,7 @@ const W4000 = [
         {
             "id": 732,
             "word": "potassium",
-            "pronunciation": "/pəˈtæsiəm/",
+            "pronunciation": "pəˈtæsiəm",
             "progress": [
                 0,
                 0,
@@ -7322,7 +7322,7 @@ const W4000 = [
         {
             "id": 733,
             "word": "primer",
-            "pronunciation": "/ˈpɹaɪ.mə(ɹ)/",
+            "pronunciation": "ˈpɹaɪ.mə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -7332,7 +7332,7 @@ const W4000 = [
         {
             "id": 734,
             "word": "precipitation",
-            "pronunciation": "/pɹɪˌsɪpɪˈteɪʃən/",
+            "pronunciation": "pɹɪˌsɪpɪˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -7342,7 +7342,7 @@ const W4000 = [
         {
             "id": 735,
             "word": "connotation",
-            "pronunciation": "/ˌkɒnəˈteɪʃən/",
+            "pronunciation": "ˌkɒnəˈteɪʃən",
             "progress": [
                 0,
                 0,
@@ -7352,7 +7352,7 @@ const W4000 = [
         {
             "id": 736,
             "word": "amplitude",
-            "pronunciation": "/ˈæm.plɪ.tud/",
+            "pronunciation": "ˈæm.plɪ.tud",
             "progress": [
                 0,
                 0,
@@ -7362,7 +7362,7 @@ const W4000 = [
         {
             "id": 737,
             "word": "proton",
-            "pronunciation": "/ˈpɹəʊ.tɒn/",
+            "pronunciation": "ˈpɹəʊ.tɒn",
             "progress": [
                 0,
                 0,
@@ -7372,7 +7372,7 @@ const W4000 = [
         {
             "id": 738,
             "word": "replication",
-            "pronunciation": "/ɹɛplɪˈkeɪʃən/",
+            "pronunciation": "ɹɛplɪˈkeɪʃən",
             "progress": [
                 0,
                 0,
@@ -7382,7 +7382,7 @@ const W4000 = [
         {
             "id": 739,
             "word": "sneeze",
-            "pronunciation": "/sniːz/",
+            "pronunciation": "sniːz",
             "progress": [
                 0,
                 0,
@@ -7392,7 +7392,7 @@ const W4000 = [
         {
             "id": 740,
             "word": "infinity",
-            "pronunciation": "/ɪnˈfɪnɪti/",
+            "pronunciation": "ɪnˈfɪnɪti",
             "progress": [
                 0,
                 0,
@@ -7402,7 +7402,7 @@ const W4000 = [
         {
             "id": 741,
             "word": "inversion",
-            "pronunciation": "/ɪnˈvɜːʃən/",
+            "pronunciation": "ɪnˈvɜːʃən",
             "progress": [
                 0,
                 0,
@@ -7412,7 +7412,7 @@ const W4000 = [
         {
             "id": 742,
             "word": "scripture",
-            "pronunciation": "/ˈskɹɪptʃə/",
+            "pronunciation": "ˈskɹɪptʃə",
             "progress": [
                 0,
                 0,
@@ -7422,7 +7422,7 @@ const W4000 = [
         {
             "id": 743,
             "word": "denominator",
-            "pronunciation": "/dɪˈnɒmɪneɪtə(ɹ)/",
+            "pronunciation": "dɪˈnɒmɪneɪtə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -7432,7 +7432,7 @@ const W4000 = [
         {
             "id": 744,
             "word": "secrete",
-            "pronunciation": "/sɪˈkɹiːt/",
+            "pronunciation": "sɪˈkɹiːt",
             "progress": [
                 0,
                 0,
@@ -7442,7 +7442,7 @@ const W4000 = [
         {
             "id": 745,
             "word": "chloride",
-            "pronunciation": "/ˈklɔːɹaɪd/",
+            "pronunciation": "ˈklɔːɹaɪd",
             "progress": [
                 0,
                 0,
@@ -7482,7 +7482,7 @@ const W4000 = [
         {
             "id": 749,
             "word": "elasticity",
-            "pronunciation": "/ɪ.læsˈtɪs.ɪ.ti/",
+            "pronunciation": "ɪ.læsˈtɪs.ɪ.ti",
             "progress": [
                 0,
                 0,
@@ -7492,7 +7492,7 @@ const W4000 = [
         {
             "id": 750,
             "word": "exponential",
-            "pronunciation": "/ˌɛk.spəʊ.ˈnɛn.tʃəl/",
+            "pronunciation": "ˌɛk.spəʊ.ˈnɛn.tʃəl",
             "progress": [
                 0,
                 0,
@@ -7502,7 +7502,7 @@ const W4000 = [
         {
             "id": 751,
             "word": "morphological",
-            "pronunciation": "/ˌmɔːfəˈlɒd͡ʒɪkəl/",
+            "pronunciation": "ˌmɔːfəˈlɒd͡ʒɪkəl",
             "progress": [
                 0,
                 0,
@@ -7512,7 +7512,7 @@ const W4000 = [
         {
             "id": 752,
             "word": null,
-            "pronunciation": "/nʌl/",
+            "pronunciation": "nʌl",
             "progress": [
                 0,
                 0,
@@ -7542,7 +7542,7 @@ const W4000 = [
         {
             "id": 755,
             "word": "syllabus",
-            "pronunciation": "/ˈsɪləbəs/",
+            "pronunciation": "ˈsɪləbəs",
             "progress": [
                 0,
                 0,
@@ -7552,7 +7552,7 @@ const W4000 = [
         {
             "id": 756,
             "word": "handout",
-            "pronunciation": "/ˈhændaʊt/",
+            "pronunciation": "ˈhændaʊt",
             "progress": [
                 0,
                 0,
@@ -7562,7 +7562,7 @@ const W4000 = [
         {
             "id": 757,
             "word": "watershed",
-            "pronunciation": "/ˈwɔːtəʃɛd/",
+            "pronunciation": "ˈwɔːtəʃɛd",
             "progress": [
                 0,
                 0,
@@ -7572,7 +7572,7 @@ const W4000 = [
         {
             "id": 758,
             "word": "trans",
-            "pronunciation": "/tɹænz/",
+            "pronunciation": "tɹænz",
             "progress": [
                 0,
                 0,
@@ -7602,7 +7602,7 @@ const W4000 = [
         {
             "id": 761,
             "word": "equivalence",
-            "pronunciation": "/ɪˈkwɪvələns/",
+            "pronunciation": "ɪˈkwɪvələns",
             "progress": [
                 0,
                 0,
@@ -7612,7 +7612,7 @@ const W4000 = [
         {
             "id": 762,
             "word": "comma",
-            "pronunciation": "/ˈkɒm.ə/",
+            "pronunciation": "ˈkɒm.ə",
             "progress": [
                 0,
                 0,
@@ -7622,7 +7622,7 @@ const W4000 = [
         {
             "id": 763,
             "word": "dimensional",
-            "pronunciation": "/-ʃnəl/",
+            "pronunciation": "-ʃnəl",
             "progress": [
                 0,
                 0,
@@ -7642,7 +7642,7 @@ const W4000 = [
         {
             "id": 765,
             "word": "parenthesis",
-            "pronunciation": "/pəˈɹɛnθəsɪs/",
+            "pronunciation": "pəˈɹɛnθəsɪs",
             "progress": [
                 0,
                 0,
@@ -7652,7 +7652,7 @@ const W4000 = [
         {
             "id": 766,
             "word": "circa",
-            "pronunciation": "/ˈsɜːkə/",
+            "pronunciation": "ˈsɜːkə",
             "progress": [
                 0,
                 0,
@@ -7662,7 +7662,7 @@ const W4000 = [
         {
             "id": 767,
             "word": "biodiversity",
-            "pronunciation": "/ˌbaɪoʊdɑɪˈvɚsəti/",
+            "pronunciation": "ˌbaɪoʊdɑɪˈvɚsəti",
             "progress": [
                 0,
                 0,
@@ -7682,7 +7682,7 @@ const W4000 = [
         {
             "id": 769,
             "word": "capillary",
-            "pronunciation": "/kəˈpɪ.lə.ɹi/",
+            "pronunciation": "kəˈpɪ.lə.ɹi",
             "progress": [
                 0,
                 0,
@@ -7692,7 +7692,7 @@ const W4000 = [
         {
             "id": 770,
             "word": "acidic",
-            "pronunciation": "/əˈsɪdɪk/",
+            "pronunciation": "əˈsɪdɪk",
             "progress": [
                 0,
                 0,
@@ -7702,7 +7702,7 @@ const W4000 = [
         {
             "id": 771,
             "word": "epidemiology",
-            "pronunciation": "/ˈɛp.ɪ.diːm.iː.ɒl.ə.dʒi/",
+            "pronunciation": "ˈɛp.ɪ.diːm.iː.ɒl.ə.dʒi",
             "progress": [
                 0,
                 0,
@@ -7712,7 +7712,7 @@ const W4000 = [
         {
             "id": 772,
             "word": "aerosol",
-            "pronunciation": "/ˈɛəɹəsɒl/",
+            "pronunciation": "ˈɛəɹəsɒl",
             "progress": [
                 0,
                 0,
@@ -7722,7 +7722,7 @@ const W4000 = [
         {
             "id": 773,
             "word": "cyclic",
-            "pronunciation": "/ˈsaɪklɪk/",
+            "pronunciation": "ˈsaɪklɪk",
             "progress": [
                 0,
                 0,
@@ -7742,7 +7742,7 @@ const W4000 = [
         {
             "id": 775,
             "word": "dissection",
-            "pronunciation": "/daɪˈsɛkʃən/",
+            "pronunciation": "daɪˈsɛkʃən",
             "progress": [
                 0,
                 0,
@@ -7762,7 +7762,7 @@ const W4000 = [
         {
             "id": 777,
             "word": "helix",
-            "pronunciation": "/ˈhiːlɪks/",
+            "pronunciation": "ˈhiːlɪks",
             "progress": [
                 0,
                 0,
@@ -7782,7 +7782,7 @@ const W4000 = [
         {
             "id": 779,
             "word": "oxidize",
-            "pronunciation": "/ˈɒksɪdaɪz/",
+            "pronunciation": "ˈɒksɪdaɪz",
             "progress": [
                 0,
                 0,
@@ -7802,7 +7802,7 @@ const W4000 = [
         {
             "id": 781,
             "word": "descriptor",
-            "pronunciation": "/dɪˈskɹɪptə(ɹ)/",
+            "pronunciation": "dɪˈskɹɪptə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -7812,7 +7812,7 @@ const W4000 = [
         {
             "id": 782,
             "word": "deflection",
-            "pronunciation": "/dɪˈflɛkʃən/",
+            "pronunciation": "dɪˈflɛkʃən",
             "progress": [
                 0,
                 0,
@@ -7832,7 +7832,7 @@ const W4000 = [
         {
             "id": 784,
             "word": "conduction",
-            "pronunciation": "/kənˈdʌkʃən/",
+            "pronunciation": "kənˈdʌkʃən",
             "progress": [
                 0,
                 0,
@@ -7842,7 +7842,7 @@ const W4000 = [
         {
             "id": 785,
             "word": "congruent",
-            "pronunciation": "/ˈkɒŋ.ɡɹuː.ənt/",
+            "pronunciation": "ˈkɒŋ.ɡɹuː.ənt",
             "progress": [
                 0,
                 0,
@@ -7862,7 +7862,7 @@ const W4000 = [
         {
             "id": 787,
             "word": "neo",
-            "pronunciation": "/ˈniːəʊ/",
+            "pronunciation": "ˈniːəʊ",
             "progress": [
                 0,
                 0,
@@ -7872,7 +7872,7 @@ const W4000 = [
         {
             "id": 788,
             "word": "goods",
-            "pronunciation": "/ɡʊdz/",
+            "pronunciation": "ɡʊdz",
             "progress": [
                 0,
                 0,
@@ -7882,7 +7882,7 @@ const W4000 = [
         {
             "id": 789,
             "word": "factorial",
-            "pronunciation": "/fækˈtɔːɹi.əl/",
+            "pronunciation": "fækˈtɔːɹi.əl",
             "progress": [
                 0,
                 0,
@@ -7892,7 +7892,7 @@ const W4000 = [
         {
             "id": 790,
             "word": "birthday",
-            "pronunciation": "/ˈbɜːθ.deɪ/",
+            "pronunciation": "ˈbɜːθ.deɪ",
             "progress": [
                 0,
                 0,
@@ -7902,7 +7902,7 @@ const W4000 = [
         {
             "id": 791,
             "word": "airport",
-            "pronunciation": "/ˈɛə.pɔːt/",
+            "pronunciation": "ˈɛə.pɔːt",
             "progress": [
                 0,
                 0,
@@ -7912,7 +7912,7 @@ const W4000 = [
         {
             "id": 792,
             "word": "countryside",
-            "pronunciation": "/ˈkʌn.tɹiˌsaɪd/",
+            "pronunciation": "ˈkʌn.tɹiˌsaɪd",
             "progress": [
                 0,
                 0,
@@ -7922,7 +7922,7 @@ const W4000 = [
         {
             "id": 793,
             "word": "fax",
-            "pronunciation": "/fæks/",
+            "pronunciation": "fæks",
             "progress": [
                 0,
                 0,
@@ -7942,7 +7942,7 @@ const W4000 = [
         {
             "id": 795,
             "word": "sincerely",
-            "pronunciation": "/sɪnˈsɪəli/",
+            "pronunciation": "sɪnˈsɪəli",
             "progress": [
                 0,
                 0,
@@ -7952,7 +7952,7 @@ const W4000 = [
         {
             "id": 796,
             "word": "café",
-            "pronunciation": "/ˈkæfeɪ/",
+            "pronunciation": "ˈkæfeɪ",
             "progress": [
                 0,
                 0,
@@ -7962,7 +7962,7 @@ const W4000 = [
         {
             "id": 797,
             "word": "railway",
-            "pronunciation": "/ˈɹeɪlˌweɪ/",
+            "pronunciation": "ˈɹeɪlˌweɪ",
             "progress": [
                 0,
                 0,
@@ -7972,7 +7972,7 @@ const W4000 = [
         {
             "id": 798,
             "word": "bathroom",
-            "pronunciation": "/ˈbæθ.ɹuːm/",
+            "pronunciation": "ˈbæθ.ɹuːm",
             "progress": [
                 0,
                 0,
@@ -8002,7 +8002,7 @@ const W4000 = [
         {
             "id": 801,
             "word": "hey",
-            "pronunciation": "/heɪ/",
+            "pronunciation": "heɪ",
             "progress": [
                 0,
                 0,
@@ -8012,7 +8012,7 @@ const W4000 = [
         {
             "id": 802,
             "word": "worldwide",
-            "pronunciation": "/ˈwɜːldwaɪd/",
+            "pronunciation": "ˈwɜːldwaɪd",
             "progress": [
                 0,
                 0,
@@ -8022,7 +8022,7 @@ const W4000 = [
         {
             "id": 803,
             "word": "baseball",
-            "pronunciation": "/ˈbeɪs.bɔːl/",
+            "pronunciation": "ˈbeɪs.bɔːl",
             "progress": [
                 0,
                 0,
@@ -8032,7 +8032,7 @@ const W4000 = [
         {
             "id": 804,
             "word": "basketball",
-            "pronunciation": "/ˈbɑːs.kɪt.bɔːl/",
+            "pronunciation": "ˈbɑːs.kɪt.bɔːl",
             "progress": [
                 0,
                 0,
@@ -8042,7 +8042,7 @@ const W4000 = [
         {
             "id": 805,
             "word": "attorney",
-            "pronunciation": "/əˈtɜː(ɹ)ni/",
+            "pronunciation": "əˈtɜː(ɹ)ni",
             "progress": [
                 0,
                 0,
@@ -8052,7 +8052,7 @@ const W4000 = [
         {
             "id": 806,
             "word": "spite",
-            "pronunciation": "/spaɪt/",
+            "pronunciation": "spaɪt",
             "progress": [
                 0,
                 0,
@@ -8072,7 +8072,7 @@ const W4000 = [
         {
             "id": 808,
             "word": "confront",
-            "pronunciation": "/kɒnˈfɹɒnt/",
+            "pronunciation": "kɒnˈfɹɒnt",
             "progress": [
                 0,
                 0,
@@ -8082,7 +8082,7 @@ const W4000 = [
         {
             "id": 809,
             "word": "bicycle",
-            "pronunciation": "/ˈbaɪsɪkl̩/",
+            "pronunciation": "ˈbaɪsɪkl̩",
             "progress": [
                 0,
                 0,
@@ -8092,7 +8092,7 @@ const W4000 = [
         {
             "id": 810,
             "word": "convenient",
-            "pronunciation": "/kənˈviːniənt/",
+            "pronunciation": "kənˈviːniənt",
             "progress": [
                 0,
                 0,
@@ -8102,7 +8102,7 @@ const W4000 = [
         {
             "id": 811,
             "word": "jeans",
-            "pronunciation": "/d͡ʒiːnz/",
+            "pronunciation": "d͡ʒiːnz",
             "progress": [
                 0,
                 0,
@@ -8112,7 +8112,7 @@ const W4000 = [
         {
             "id": 812,
             "word": "reception",
-            "pronunciation": "/ɹɪˈsɛp.ʃn̩/",
+            "pronunciation": "ɹɪˈsɛp.ʃn̩",
             "progress": [
                 0,
                 0,
@@ -8122,7 +8122,7 @@ const W4000 = [
         {
             "id": 813,
             "word": "underground",
-            "pronunciation": "/ˈʌndəɡɹaʊnd/",
+            "pronunciation": "ˈʌndəɡɹaʊnd",
             "progress": [
                 0,
                 0,
@@ -8132,7 +8132,7 @@ const W4000 = [
         {
             "id": 814,
             "word": "mum",
-            "pronunciation": "/mʌm/",
+            "pronunciation": "mʌm",
             "progress": [
                 0,
                 0,
@@ -8142,7 +8142,7 @@ const W4000 = [
         {
             "id": 815,
             "word": "fuck",
-            "pronunciation": "/fʊk/",
+            "pronunciation": "fʊk",
             "progress": [
                 0,
                 0,
@@ -8152,7 +8152,7 @@ const W4000 = [
         {
             "id": 816,
             "word": "embryo",
-            "pronunciation": "/ˈɛmbɹi.əʊ/",
+            "pronunciation": "ˈɛmbɹi.əʊ",
             "progress": [
                 0,
                 0,
@@ -8162,7 +8162,7 @@ const W4000 = [
         {
             "id": 817,
             "word": "traveler",
-            "pronunciation": "/ˈtɹæv.l̩.ɚ/",
+            "pronunciation": "ˈtɹæv.l̩.ɚ",
             "progress": [
                 0,
                 0,
@@ -8172,7 +8172,7 @@ const W4000 = [
         {
             "id": 818,
             "word": "script",
-            "pronunciation": "/skɹɪpt/",
+            "pronunciation": "skɹɪpt",
             "progress": [
                 0,
                 0,
@@ -8182,7 +8182,7 @@ const W4000 = [
         {
             "id": 819,
             "word": "overwhelm",
-            "pronunciation": "/ˌovɚˈʍɛlm/",
+            "pronunciation": "ˌovɚˈʍɛlm",
             "progress": [
                 0,
                 0,
@@ -8192,7 +8192,7 @@ const W4000 = [
         {
             "id": 820,
             "word": "nod",
-            "pronunciation": "/nɔd/",
+            "pronunciation": "nɔd",
             "progress": [
                 0,
                 0,
@@ -8212,7 +8212,7 @@ const W4000 = [
         {
             "id": 822,
             "word": "satellite",
-            "pronunciation": "/ˈsætəlaɪt/",
+            "pronunciation": "ˈsætəlaɪt",
             "progress": [
                 0,
                 0,
@@ -8222,7 +8222,7 @@ const W4000 = [
         {
             "id": 823,
             "word": "departure",
-            "pronunciation": "/dɪˈpɑː(ɹ)tjə(ɹ)/",
+            "pronunciation": "dɪˈpɑː(ɹ)tjə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -8232,7 +8232,7 @@ const W4000 = [
         {
             "id": 824,
             "word": "supermarket",
-            "pronunciation": "/ˌsuːpəˈmɑːkɪt/",
+            "pronunciation": "ˌsuːpəˈmɑːkɪt",
             "progress": [
                 0,
                 0,
@@ -8242,7 +8242,7 @@ const W4000 = [
         {
             "id": 825,
             "word": "assault",
-            "pronunciation": "/əˈsɔːlt/",
+            "pronunciation": "əˈsɔːlt",
             "progress": [
                 0,
                 0,
@@ -8252,7 +8252,7 @@ const W4000 = [
         {
             "id": 826,
             "word": "vacation",
-            "pronunciation": "/veɪˈkeɪʃ(ə)n/",
+            "pronunciation": "veɪˈkeɪʃ(ə)n",
             "progress": [
                 0,
                 0,
@@ -8262,7 +8262,7 @@ const W4000 = [
         {
             "id": 827,
             "word": "senator",
-            "pronunciation": "/ˈsɛn.ə.tə/",
+            "pronunciation": "ˈsɛn.ə.tə",
             "progress": [
                 0,
                 0,
@@ -8272,7 +8272,7 @@ const W4000 = [
         {
             "id": 828,
             "word": "pencil",
-            "pronunciation": "/ˈpɛnsɪl/",
+            "pronunciation": "ˈpɛnsɪl",
             "progress": [
                 0,
                 0,
@@ -8282,7 +8282,7 @@ const W4000 = [
         {
             "id": 829,
             "word": "merger",
-            "pronunciation": "/ˈmɜːdʒə/",
+            "pronunciation": "ˈmɜːdʒə",
             "progress": [
                 0,
                 0,
@@ -8302,7 +8302,7 @@ const W4000 = [
         {
             "id": 831,
             "word": "sacrifice",
-            "pronunciation": "/ˈsækɹɪfaɪs/",
+            "pronunciation": "ˈsækɹɪfaɪs",
             "progress": [
                 0,
                 0,
@@ -8312,7 +8312,7 @@ const W4000 = [
         {
             "id": 832,
             "word": "en",
-            "pronunciation": "/i.ɛn/",
+            "pronunciation": "i.ɛn",
             "progress": [
                 0,
                 0,
@@ -8322,7 +8322,7 @@ const W4000 = [
         {
             "id": 833,
             "word": "priest",
-            "pronunciation": "/ˈpɹiːst/",
+            "pronunciation": "ˈpɹiːst",
             "progress": [
                 0,
                 0,
@@ -8332,7 +8332,7 @@ const W4000 = [
         {
             "id": 834,
             "word": "considerably",
-            "pronunciation": "/kənˈsɪdəɹəbli/",
+            "pronunciation": "kənˈsɪdəɹəbli",
             "progress": [
                 0,
                 0,
@@ -8352,7 +8352,7 @@ const W4000 = [
         {
             "id": 836,
             "word": "sharply",
-            "pronunciation": "/ʃɑːpli/",
+            "pronunciation": "ʃɑːpli",
             "progress": [
                 0,
                 0,
@@ -8372,7 +8372,7 @@ const W4000 = [
         {
             "id": 838,
             "word": "echo",
-            "pronunciation": "/ˈɛkəʊ/",
+            "pronunciation": "ˈɛkəʊ",
             "progress": [
                 0,
                 0,
@@ -8382,7 +8382,7 @@ const W4000 = [
         {
             "id": 839,
             "word": "founder",
-            "pronunciation": "/ˈfaʊndə/",
+            "pronunciation": "ˈfaʊndə",
             "progress": [
                 0,
                 0,
@@ -8392,7 +8392,7 @@ const W4000 = [
         {
             "id": 840,
             "word": "grip",
-            "pronunciation": "/ɡɹɪp/",
+            "pronunciation": "ɡɹɪp",
             "progress": [
                 0,
                 0,
@@ -8412,7 +8412,7 @@ const W4000 = [
         {
             "id": 842,
             "word": "spiritual",
-            "pronunciation": "/ˈspɪɹɪtjʊəl/",
+            "pronunciation": "ˈspɪɹɪtjʊəl",
             "progress": [
                 0,
                 0,
@@ -8422,7 +8422,7 @@ const W4000 = [
         {
             "id": 843,
             "word": "shame",
-            "pronunciation": "/ʃeɪm/",
+            "pronunciation": "ʃeɪm",
             "progress": [
                 0,
                 0,
@@ -8432,7 +8432,7 @@ const W4000 = [
         {
             "id": 844,
             "word": "shed",
-            "pronunciation": "/ʃɛd/",
+            "pronunciation": "ʃɛd",
             "progress": [
                 0,
                 0,
@@ -8442,7 +8442,7 @@ const W4000 = [
         {
             "id": 845,
             "word": "infrastructure",
-            "pronunciation": "/ˈɪnfɹəˌstɹʌk(t)ʃɚ/",
+            "pronunciation": "ˈɪnfɹəˌstɹʌk(t)ʃɚ",
             "progress": [
                 0,
                 0,
@@ -8452,7 +8452,7 @@ const W4000 = [
         {
             "id": 846,
             "word": "desperate",
-            "pronunciation": "/ˈdɛsp(ə)ɹət/",
+            "pronunciation": "ˈdɛsp(ə)ɹət",
             "progress": [
                 0,
                 0,
@@ -8462,7 +8462,7 @@ const W4000 = [
         {
             "id": 847,
             "word": "brick",
-            "pronunciation": "/bɹɪk/",
+            "pronunciation": "bɹɪk",
             "progress": [
                 0,
                 0,
@@ -8472,7 +8472,7 @@ const W4000 = [
         {
             "id": 848,
             "word": "recession",
-            "pronunciation": "/ɹɪˈsɛʃn̩/",
+            "pronunciation": "ɹɪˈsɛʃn̩",
             "progress": [
                 0,
                 0,
@@ -8482,7 +8482,7 @@ const W4000 = [
         {
             "id": 849,
             "word": "frustrate",
-            "pronunciation": "/fɹəˈstɹeɪt/",
+            "pronunciation": "fɹəˈstɹeɪt",
             "progress": [
                 0,
                 0,
@@ -8492,7 +8492,7 @@ const W4000 = [
         {
             "id": 850,
             "word": "prayer",
-            "pronunciation": "/pɹɛə(ɹ)/",
+            "pronunciation": "pɹɛə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -8502,7 +8502,7 @@ const W4000 = [
         {
             "id": 851,
             "word": "prescribe",
-            "pronunciation": "/pɹɪˈskɹaɪb/",
+            "pronunciation": "pɹɪˈskɹaɪb",
             "progress": [
                 0,
                 0,
@@ -8512,7 +8512,7 @@ const W4000 = [
         {
             "id": 852,
             "word": "administrative",
-            "pronunciation": "/ədˈmɪ.nɪs.tɹəˌtɪv/",
+            "pronunciation": "ədˈmɪ.nɪs.tɹəˌtɪv",
             "progress": [
                 0,
                 0,
@@ -8522,7 +8522,7 @@ const W4000 = [
         {
             "id": 853,
             "word": "rally",
-            "pronunciation": "/ˈɹæ.li/",
+            "pronunciation": "ˈɹæ.li",
             "progress": [
                 0,
                 0,
@@ -8532,7 +8532,7 @@ const W4000 = [
         {
             "id": 854,
             "word": "enthusiasm",
-            "pronunciation": "/-θuː-/",
+            "pronunciation": "-θuː-",
             "progress": [
                 0,
                 0,
@@ -8542,7 +8542,7 @@ const W4000 = [
         {
             "id": 855,
             "word": "fiscal",
-            "pronunciation": "/ˈfɪskəl/",
+            "pronunciation": "ˈfɪskəl",
             "progress": [
                 0,
                 0,
@@ -8562,7 +8562,7 @@ const W4000 = [
         {
             "id": 857,
             "word": "drunk",
-            "pronunciation": "/dɹʌŋk/",
+            "pronunciation": "dɹʌŋk",
             "progress": [
                 0,
                 0,
@@ -8572,7 +8572,7 @@ const W4000 = [
         {
             "id": 858,
             "word": "pet",
-            "pronunciation": "/pɛt/",
+            "pronunciation": "pɛt",
             "progress": [
                 0,
                 0,
@@ -8582,7 +8582,7 @@ const W4000 = [
         {
             "id": 859,
             "word": "conviction",
-            "pronunciation": "/kənˈvɪkʃən/",
+            "pronunciation": "kənˈvɪkʃən",
             "progress": [
                 0,
                 0,
@@ -8602,7 +8602,7 @@ const W4000 = [
         {
             "id": 861,
             "word": "dump",
-            "pronunciation": "/dʌmp/",
+            "pronunciation": "dʌmp",
             "progress": [
                 0,
                 0,
@@ -8612,7 +8612,7 @@ const W4000 = [
         {
             "id": 862,
             "word": "compel",
-            "pronunciation": "/kəmˈpɛl/",
+            "pronunciation": "kəmˈpɛl",
             "progress": [
                 0,
                 0,
@@ -8622,7 +8622,7 @@ const W4000 = [
         {
             "id": 863,
             "word": "horror",
-            "pronunciation": "/ˈhɔɹɚ/",
+            "pronunciation": "ˈhɔɹɚ",
             "progress": [
                 0,
                 0,
@@ -8632,7 +8632,7 @@ const W4000 = [
         {
             "id": 864,
             "word": "combat",
-            "pronunciation": "/ˈkɒmˌbæt/",
+            "pronunciation": "ˈkɒmˌbæt",
             "progress": [
                 0,
                 0,
@@ -8642,7 +8642,7 @@ const W4000 = [
         {
             "id": 865,
             "word": "relieve",
-            "pronunciation": "/ɹɪˈliːv/",
+            "pronunciation": "ɹɪˈliːv",
             "progress": [
                 0,
                 0,
@@ -8652,7 +8652,7 @@ const W4000 = [
         {
             "id": 866,
             "word": "ceiling",
-            "pronunciation": "/ˈsiːlɪŋ/",
+            "pronunciation": "ˈsiːlɪŋ",
             "progress": [
                 0,
                 0,
@@ -8672,7 +8672,7 @@ const W4000 = [
         {
             "id": 868,
             "word": "decent",
-            "pronunciation": "/ˈdiːsənt/",
+            "pronunciation": "ˈdiːsənt",
             "progress": [
                 0,
                 0,
@@ -8682,7 +8682,7 @@ const W4000 = [
         {
             "id": 869,
             "word": "equity",
-            "pronunciation": "/ˈɛk.wɪ.ti/",
+            "pronunciation": "ˈɛk.wɪ.ti",
             "progress": [
                 0,
                 0,
@@ -8692,7 +8692,7 @@ const W4000 = [
         {
             "id": 870,
             "word": "grave",
-            "pronunciation": "/ɡɹeɪv/",
+            "pronunciation": "ɡɹeɪv",
             "progress": [
                 0,
                 0,
@@ -8702,7 +8702,7 @@ const W4000 = [
         {
             "id": 871,
             "word": "overlook",
-            "pronunciation": "/əʊvəˈlʊk/",
+            "pronunciation": "əʊvəˈlʊk",
             "progress": [
                 0,
                 0,
@@ -8712,7 +8712,7 @@ const W4000 = [
         {
             "id": 872,
             "word": "mask",
-            "pronunciation": "/mæsk/",
+            "pronunciation": "mæsk",
             "progress": [
                 0,
                 0,
@@ -8722,7 +8722,7 @@ const W4000 = [
         {
             "id": 873,
             "word": "summit",
-            "pronunciation": "/ˈsʌmɪt/",
+            "pronunciation": "ˈsʌmɪt",
             "progress": [
                 0,
                 0,
@@ -8732,7 +8732,7 @@ const W4000 = [
         {
             "id": 874,
             "word": "unexpected",
-            "pronunciation": "/ʌnɪkˈspɛktɪd/",
+            "pronunciation": "ʌnɪkˈspɛktɪd",
             "progress": [
                 0,
                 0,
@@ -8752,7 +8752,7 @@ const W4000 = [
         {
             "id": 876,
             "word": "steam",
-            "pronunciation": "/stiːm/",
+            "pronunciation": "stiːm",
             "progress": [
                 0,
                 0,
@@ -8772,7 +8772,7 @@ const W4000 = [
         {
             "id": 878,
             "word": "intelligent",
-            "pronunciation": "/ɪnˈtɛlɪd͡ʒənt/",
+            "pronunciation": "ɪnˈtɛlɪd͡ʒənt",
             "progress": [
                 0,
                 0,
@@ -8792,7 +8792,7 @@ const W4000 = [
         {
             "id": 880,
             "word": "inspection",
-            "pronunciation": "/ɪnˈspɛkʃən/",
+            "pronunciation": "ɪnˈspɛkʃən",
             "progress": [
                 0,
                 0,
@@ -8802,7 +8802,7 @@ const W4000 = [
         {
             "id": 881,
             "word": "girlfriend",
-            "pronunciation": "/ˈɡɜːlfɹɛnd/",
+            "pronunciation": "ˈɡɜːlfɹɛnd",
             "progress": [
                 0,
                 0,
@@ -8812,7 +8812,7 @@ const W4000 = [
         {
             "id": 882,
             "word": "modest",
-            "pronunciation": "/ˈmɑdəst/",
+            "pronunciation": "ˈmɑdəst",
             "progress": [
                 0,
                 0,
@@ -8822,7 +8822,7 @@ const W4000 = [
         {
             "id": 883,
             "word": "seize",
-            "pronunciation": "/siːz/",
+            "pronunciation": "siːz",
             "progress": [
                 0,
                 0,
@@ -8832,7 +8832,7 @@ const W4000 = [
         {
             "id": 884,
             "word": "heaven",
-            "pronunciation": "/hɛvn/",
+            "pronunciation": "hɛvn",
             "progress": [
                 0,
                 0,
@@ -8842,7 +8842,7 @@ const W4000 = [
         {
             "id": 885,
             "word": "vulnerable",
-            "pronunciation": "/ˈvʌln(ə)ɹəbl̩/",
+            "pronunciation": "ˈvʌln(ə)ɹəbl̩",
             "progress": [
                 0,
                 0,
@@ -8852,7 +8852,7 @@ const W4000 = [
         {
             "id": 886,
             "word": "zoo",
-            "pronunciation": "/zuː/",
+            "pronunciation": "zuː",
             "progress": [
                 0,
                 0,
@@ -8862,7 +8862,7 @@ const W4000 = [
         {
             "id": 887,
             "word": "scandal",
-            "pronunciation": "/ˈskændəl/",
+            "pronunciation": "ˈskændəl",
             "progress": [
                 0,
                 0,
@@ -8872,7 +8872,7 @@ const W4000 = [
         {
             "id": 888,
             "word": "terrorism",
-            "pronunciation": "/ˈtɛɹəɹɪzəm/",
+            "pronunciation": "ˈtɛɹəɹɪzəm",
             "progress": [
                 0,
                 0,
@@ -8882,7 +8882,7 @@ const W4000 = [
         {
             "id": 889,
             "word": "battery",
-            "pronunciation": "/ˈbætəɹi/",
+            "pronunciation": "ˈbætəɹi",
             "progress": [
                 0,
                 0,
@@ -8892,7 +8892,7 @@ const W4000 = [
         {
             "id": 890,
             "word": "captain",
-            "pronunciation": "/ˈkæp.tən/",
+            "pronunciation": "ˈkæp.tən",
             "progress": [
                 0,
                 0,
@@ -8902,7 +8902,7 @@ const W4000 = [
         {
             "id": 891,
             "word": "toilet",
-            "pronunciation": "/ˈtɔɪ.lət/",
+            "pronunciation": "ˈtɔɪ.lət",
             "progress": [
                 0,
                 0,
@@ -8912,7 +8912,7 @@ const W4000 = [
         {
             "id": 892,
             "word": "forgive",
-            "pronunciation": "/fɚˈɡɪv/",
+            "pronunciation": "fɚˈɡɪv",
             "progress": [
                 0,
                 0,
@@ -8922,7 +8922,7 @@ const W4000 = [
         {
             "id": 893,
             "word": "republican",
-            "pronunciation": "/ɹɪˈpʌblɪkən/",
+            "pronunciation": "ɹɪˈpʌblɪkən",
             "progress": [
                 0,
                 0,
@@ -8932,7 +8932,7 @@ const W4000 = [
         {
             "id": 894,
             "word": "rumor",
-            "pronunciation": "/ˈɹuːmə(ɹ)/",
+            "pronunciation": "ˈɹuːmə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -8942,7 +8942,7 @@ const W4000 = [
         {
             "id": 895,
             "word": "fate",
-            "pronunciation": "/feɪt/",
+            "pronunciation": "feɪt",
             "progress": [
                 0,
                 0,
@@ -8952,7 +8952,7 @@ const W4000 = [
         {
             "id": 896,
             "word": "lane",
-            "pronunciation": "/leɪn/",
+            "pronunciation": "leɪn",
             "progress": [
                 0,
                 0,
@@ -8962,7 +8962,7 @@ const W4000 = [
         {
             "id": 897,
             "word": "resume",
-            "pronunciation": "/ɹəˈzjuːm/",
+            "pronunciation": "ɹəˈzjuːm",
             "progress": [
                 0,
                 0,
@@ -8972,7 +8972,7 @@ const W4000 = [
         {
             "id": 898,
             "word": "distress",
-            "pronunciation": "/dɪˈstɹɛs/",
+            "pronunciation": "dɪˈstɹɛs",
             "progress": [
                 0,
                 0,
@@ -8982,7 +8982,7 @@ const W4000 = [
         {
             "id": 899,
             "word": "website",
-            "pronunciation": "/ˈwɛbˌsaɪt/",
+            "pronunciation": "ˈwɛbˌsaɪt",
             "progress": [
                 0,
                 0,
@@ -8992,7 +8992,7 @@ const W4000 = [
         {
             "id": 900,
             "word": "guidance",
-            "pronunciation": "/ˈɡaɪdəns/",
+            "pronunciation": "ˈɡaɪdəns",
             "progress": [
                 0,
                 0,
@@ -9002,7 +9002,7 @@ const W4000 = [
         {
             "id": 901,
             "word": "ambition",
-            "pronunciation": "/æmˈbɪ.ʃən/",
+            "pronunciation": "æmˈbɪ.ʃən",
             "progress": [
                 0,
                 0,
@@ -9012,7 +9012,7 @@ const W4000 = [
         {
             "id": 902,
             "word": "flee",
-            "pronunciation": "/fliː/",
+            "pronunciation": "fliː",
             "progress": [
                 0,
                 0,
@@ -9022,7 +9022,7 @@ const W4000 = [
         {
             "id": 903,
             "word": "bay",
-            "pronunciation": "/beɪ/",
+            "pronunciation": "beɪ",
             "progress": [
                 0,
                 0,
@@ -9032,7 +9032,7 @@ const W4000 = [
         {
             "id": 904,
             "word": "constitutional",
-            "pronunciation": "/ˌkɒnstɪˈtjuːʃənəl/",
+            "pronunciation": "ˌkɒnstɪˈtjuːʃənəl",
             "progress": [
                 0,
                 0,
@@ -9042,7 +9042,7 @@ const W4000 = [
         {
             "id": 905,
             "word": "quit",
-            "pronunciation": "/kwɪt/",
+            "pronunciation": "kwɪt",
             "progress": [
                 0,
                 0,
@@ -9062,7 +9062,7 @@ const W4000 = [
         {
             "id": 907,
             "word": "boyfriend",
-            "pronunciation": "/ˈbɔɪfɹənd/",
+            "pronunciation": "ˈbɔɪfɹənd",
             "progress": [
                 0,
                 0,
@@ -9072,7 +9072,7 @@ const W4000 = [
         {
             "id": 908,
             "word": "electrical",
-            "pronunciation": "/ɪˈlɛktɹɪkəl/",
+            "pronunciation": "ɪˈlɛktɹɪkəl",
             "progress": [
                 0,
                 0,
@@ -9082,7 +9082,7 @@ const W4000 = [
         {
             "id": 909,
             "word": "drill",
-            "pronunciation": "/dɹɪl/",
+            "pronunciation": "dɹɪl",
             "progress": [
                 0,
                 0,
@@ -9092,7 +9092,7 @@ const W4000 = [
         {
             "id": 910,
             "word": "headline",
-            "pronunciation": "/ˈhɛd.laɪn/",
+            "pronunciation": "ˈhɛd.laɪn",
             "progress": [
                 0,
                 0,
@@ -9102,7 +9102,7 @@ const W4000 = [
         {
             "id": 911,
             "word": "deputy",
-            "pronunciation": "/ˈdɛpjəti/",
+            "pronunciation": "ˈdɛpjəti",
             "progress": [
                 0,
                 0,
@@ -9122,7 +9122,7 @@ const W4000 = [
         {
             "id": 913,
             "word": "commander",
-            "pronunciation": "/kəˈmandə/",
+            "pronunciation": "kəˈmandə",
             "progress": [
                 0,
                 0,
@@ -9132,7 +9132,7 @@ const W4000 = [
         {
             "id": 914,
             "word": "patch",
-            "pronunciation": "/pætʃ/",
+            "pronunciation": "pætʃ",
             "progress": [
                 0,
                 0,
@@ -9142,7 +9142,7 @@ const W4000 = [
         {
             "id": 915,
             "word": "instant",
-            "pronunciation": "/ˈɪnstənt/",
+            "pronunciation": "ˈɪnstənt",
             "progress": [
                 0,
                 0,
@@ -9152,7 +9152,7 @@ const W4000 = [
         {
             "id": 916,
             "word": "anniversary",
-            "pronunciation": "/ˌænɪˈvɜːs(ə)ɹi/",
+            "pronunciation": "ˌænɪˈvɜːs(ə)ɹi",
             "progress": [
                 0,
                 0,
@@ -9162,7 +9162,7 @@ const W4000 = [
         {
             "id": 917,
             "word": "fortunately",
-            "pronunciation": "/ˈfɔːt͡ʃənɪtli/",
+            "pronunciation": "ˈfɔːt͡ʃənɪtli",
             "progress": [
                 0,
                 0,
@@ -9182,7 +9182,7 @@ const W4000 = [
         {
             "id": 919,
             "word": "lease",
-            "pronunciation": "/liːs/",
+            "pronunciation": "liːs",
             "progress": [
                 0,
                 0,
@@ -9202,7 +9202,7 @@ const W4000 = [
         {
             "id": 921,
             "word": "premium",
-            "pronunciation": "/ˈpɹimiəm/",
+            "pronunciation": "ˈpɹimiəm",
             "progress": [
                 0,
                 0,
@@ -9212,7 +9212,7 @@ const W4000 = [
         {
             "id": 922,
             "word": "peaceful",
-            "pronunciation": "/ˈpiːsfəl/",
+            "pronunciation": "ˈpiːsfəl",
             "progress": [
                 0,
                 0,
@@ -9222,7 +9222,7 @@ const W4000 = [
         {
             "id": 923,
             "word": "testimony",
-            "pronunciation": "/ˈtɛstɪməni/",
+            "pronunciation": "ˈtɛstɪməni",
             "progress": [
                 0,
                 0,
@@ -9232,7 +9232,7 @@ const W4000 = [
         {
             "id": 924,
             "word": "annoy",
-            "pronunciation": "/əˈnɔɪ/",
+            "pronunciation": "əˈnɔɪ",
             "progress": [
                 0,
                 0,
@@ -9242,7 +9242,7 @@ const W4000 = [
         {
             "id": 925,
             "word": "fare",
-            "pronunciation": "/fɛə(ɹ)/",
+            "pronunciation": "fɛə(ɹ)",
             "progress": [
                 0,
                 0,
@@ -9252,7 +9252,7 @@ const W4000 = [
         {
             "id": 926,
             "word": "convey",
-            "pronunciation": "/kənˈveɪ/",
+            "pronunciation": "kənˈveɪ",
             "progress": [
                 0,
                 0,
@@ -9262,7 +9262,7 @@ const W4000 = [
         {
             "id": 927,
             "word": "policeman",
-            "pronunciation": "/pəˈliːsmən/",
+            "pronunciation": "pəˈliːsmən",
             "progress": [
                 0,
                 0,
@@ -9272,7 +9272,7 @@ const W4000 = [
         {
             "id": 928,
             "word": "renew",
-            "pronunciation": "/ɹɪˈnjuː/",
+            "pronunciation": "ɹɪˈnjuː",
             "progress": [
                 0,
                 0,
@@ -9282,7 +9282,7 @@ const W4000 = [
         {
             "id": 929,
             "word": "sandwich",
-            "pronunciation": "/ˈsæmwɪd͡ʒ/",
+            "pronunciation": "ˈsæmwɪd͡ʒ",
             "progress": [
                 0,
                 0,
@@ -9292,7 +9292,7 @@ const W4000 = [
         {
             "id": 930,
             "word": "upstairs",
-            "pronunciation": "/ˈʌpˌstɛəz/",
+            "pronunciation": "ˈʌpˌstɛəz",
             "progress": [
                 0,
                 0,
@@ -9302,7 +9302,7 @@ const W4000 = [
         {
             "id": 931,
             "word": "dive",
-            "pronunciation": "/ˈdaɪv/",
+            "pronunciation": "ˈdaɪv",
             "progress": [
                 0,
                 0,
@@ -9322,7 +9322,7 @@ const W4000 = [
         {
             "id": 933,
             "word": "terror",
-            "pronunciation": "/ˈtɛɹə/",
+            "pronunciation": "ˈtɛɹə",
             "progress": [
                 0,
                 0,
@@ -9332,7 +9332,7 @@ const W4000 = [
         {
             "id": 934,
             "word": "cotton",
-            "pronunciation": "/ˈkɒt.n̩/",
+            "pronunciation": "ˈkɒt.n̩",
             "progress": [
                 0,
                 0,
@@ -9342,7 +9342,7 @@ const W4000 = [
         {
             "id": 935,
             "word": "boil",
-            "pronunciation": "/bɔɪl/",
+            "pronunciation": "bɔɪl",
             "progress": [
                 0,
                 0,
@@ -9352,7 +9352,7 @@ const W4000 = [
         {
             "id": 936,
             "word": "juice",
-            "pronunciation": "/d͡ʒuːs/",
+            "pronunciation": "d͡ʒuːs",
             "progress": [
                 0,
                 0,
@@ -9362,7 +9362,7 @@ const W4000 = [
         {
             "id": 937,
             "word": "unhappy",
-            "pronunciation": "/ʌnˈhæpi/",
+            "pronunciation": "ʌnˈhæpi",
             "progress": [
                 0,
                 0,
@@ -9372,7 +9372,7 @@ const W4000 = [
         {
             "id": 938,
             "word": "urgent",
-            "pronunciation": "/ˈɜːdʒənt/",
+            "pronunciation": "ˈɜːdʒənt",
             "progress": [
                 0,
                 0,
@@ -9382,7 +9382,7 @@ const W4000 = [
         {
             "id": 939,
             "word": "tragedy",
-            "pronunciation": "/ˈtɹæd͡ʒɪdi/",
+            "pronunciation": "ˈtɹæd͡ʒɪdi",
             "progress": [
                 0,
                 0,
@@ -9402,7 +9402,7 @@ const W4000 = [
         {
             "id": 941,
             "word": "oocyte",
-            "pronunciation": "/ˈəʊəsʌɪt/",
+            "pronunciation": "ˈəʊəsʌɪt",
             "progress": [
                 0,
                 0,
@@ -9412,7 +9412,7 @@ const W4000 = [
         {
             "id": 942,
             "word": "defendant",
-            "pronunciation": "/dɪˈfɛnd.ənt/",
+            "pronunciation": "dɪˈfɛnd.ənt",
             "progress": [
                 0,
                 0,
@@ -9422,7 +9422,7 @@ const W4000 = [
         {
             "id": 943,
             "word": "dine",
-            "pronunciation": "/daɪn/",
+            "pronunciation": "daɪn",
             "progress": [
                 0,
                 0,
@@ -9432,7 +9432,7 @@ const W4000 = [
         {
             "id": 944,
             "word": "duck",
-            "pronunciation": "/dʌk/",
+            "pronunciation": "dʌk",
             "progress": [
                 0,
                 0,
@@ -9442,7 +9442,7 @@ const W4000 = [
         {
             "id": 945,
             "word": "lobby",
-            "pronunciation": "/lɒbi/",
+            "pronunciation": "lɒbi",
             "progress": [
                 0,
                 0,
@@ -9452,7 +9452,7 @@ const W4000 = [
         {
             "id": 946,
             "word": "enforce",
-            "pronunciation": "/ɪnˈfɔːs/",
+            "pronunciation": "ɪnˈfɔːs",
             "progress": [
                 0,
                 0,
@@ -9462,7 +9462,7 @@ const W4000 = [
         {
             "id": 947,
             "word": "tobacco",
-            "pronunciation": "/təˈbækoʊ/",
+            "pronunciation": "təˈbækoʊ",
             "progress": [
                 0,
                 0,
@@ -9472,7 +9472,7 @@ const W4000 = [
         {
             "id": 948,
             "word": "occasional",
-            "pronunciation": "/əˈkeɪʒ(ə)nəl/",
+            "pronunciation": "əˈkeɪʒ(ə)nəl",
             "progress": [
                 0,
                 0,
@@ -9482,7 +9482,7 @@ const W4000 = [
         {
             "id": 949,
             "word": "specially",
-            "pronunciation": "/ˈspɛʃəli/",
+            "pronunciation": "ˈspɛʃəli",
             "progress": [
                 0,
                 0,
@@ -9492,7 +9492,7 @@ const W4000 = [
         {
             "id": 950,
             "word": "funeral",
-            "pronunciation": "/ˈfjuːnəɹəl/",
+            "pronunciation": "ˈfjuːnəɹəl",
             "progress": [
                 0,
                 0,
@@ -9502,7 +9502,7 @@ const W4000 = [
         {
             "id": 951,
             "word": "pin",
-            "pronunciation": "/pɪn/",
+            "pronunciation": "pɪn",
             "progress": [
                 0,
                 0,
@@ -9512,7 +9512,7 @@ const W4000 = [
         {
             "id": 952,
             "word": "reservation",
-            "pronunciation": "/ˌɹɛzəˈveɪʃən/",
+            "pronunciation": "ˌɹɛzəˈveɪʃən",
             "progress": [
                 0,
                 0,
@@ -9522,7 +9522,7 @@ const W4000 = [
         {
             "id": 953,
             "word": "inevitable",
-            "pronunciation": "/ɪnˈɛvɪtəbəl/",
+            "pronunciation": "ɪnˈɛvɪtəbəl",
             "progress": [
                 0,
                 0,
@@ -9532,7 +9532,7 @@ const W4000 = [
         {
             "id": 954,
             "word": "stall",
-            "pronunciation": "/stɔːl/",
+            "pronunciation": "stɔːl",
             "progress": [
                 0,
                 0,
@@ -9542,7 +9542,7 @@ const W4000 = [
         {
             "id": 955,
             "word": "actress",
-            "pronunciation": "/ˈak.tɹəs/",
+            "pronunciation": "ˈak.tɹəs",
             "progress": [
                 0,
                 0,
@@ -9552,7 +9552,7 @@ const W4000 = [
         {
             "id": 956,
             "word": "rabbit",
-            "pronunciation": "/ˈɹæbət/",
+            "pronunciation": "ˈɹæbət",
             "progress": [
                 0,
                 0,
@@ -9562,7 +9562,7 @@ const W4000 = [
         {
             "id": 957,
             "word": "automatic",
-            "pronunciation": "/ˌɔːtəˈmætɪk/",
+            "pronunciation": "ˌɔːtəˈmætɪk",
             "progress": [
                 0,
                 0,
@@ -9572,7 +9572,7 @@ const W4000 = [
         {
             "id": 958,
             "word": "pit",
-            "pronunciation": "/ˈpɪt/",
+            "pronunciation": "ˈpɪt",
             "progress": [
                 0,
                 0,
@@ -9582,7 +9582,7 @@ const W4000 = [
         {
             "id": 959,
             "word": "gang",
-            "pronunciation": "/ɡæŋ/",
+            "pronunciation": "ɡæŋ",
             "progress": [
                 0,
                 0,
@@ -9592,7 +9592,7 @@ const W4000 = [
         {
             "id": 960,
             "word": "rebuild",
-            "pronunciation": "/ˈɹiːbɪld/",
+            "pronunciation": "ˈɹiːbɪld",
             "progress": [
                 0,
                 0,
@@ -9612,7 +9612,7 @@ const W4000 = [
         {
             "id": 962,
             "word": "rebel",
-            "pronunciation": "/ˈɹɛbəl/",
+            "pronunciation": "ˈɹɛbəl",
             "progress": [
                 0,
                 0,
@@ -9622,7 +9622,7 @@ const W4000 = [
         {
             "id": 963,
             "word": "cabinet",
-            "pronunciation": "/ˈkæ.bɪ.nɪt/",
+            "pronunciation": "ˈkæ.bɪ.nɪt",
             "progress": [
                 0,
                 0,
@@ -9632,7 +9632,7 @@ const W4000 = [
         {
             "id": 964,
             "word": "jet",
-            "pronunciation": "/dʒɛt/",
+            "pronunciation": "dʒɛt",
             "progress": [
                 0,
                 0,
@@ -9642,7 +9642,7 @@ const W4000 = [
         {
             "id": 965,
             "word": "oblige",
-            "pronunciation": "/əˈblaɪdʒ/",
+            "pronunciation": "əˈblaɪdʒ",
             "progress": [
                 0,
                 0,
@@ -9652,7 +9652,7 @@ const W4000 = [
         {
             "id": 966,
             "word": "generous",
-            "pronunciation": "/ˈdʒɛn(ə)ɹəs/",
+            "pronunciation": "ˈdʒɛn(ə)ɹəs",
             "progress": [
                 0,
                 0,
@@ -9662,7 +9662,7 @@ const W4000 = [
         {
             "id": 967,
             "word": "recycle",
-            "pronunciation": "/ɹiˈsaɪkəl/",
+            "pronunciation": "ɹiˈsaɪkəl",
             "progress": [
                 0,
                 0,
@@ -9672,7 +9672,7 @@ const W4000 = [
         {
             "id": 968,
             "word": "palace",
-            "pronunciation": "/ˈpæləs/",
+            "pronunciation": "ˈpæləs",
             "progress": [
                 0,
                 0,
@@ -9682,7 +9682,7 @@ const W4000 = [
         {
             "id": 969,
             "word": "beg",
-            "pronunciation": "/bɛɡ/",
+            "pronunciation": "bɛɡ",
             "progress": [
                 0,
                 0,
@@ -9692,7 +9692,7 @@ const W4000 = [
         {
             "id": 970,
             "word": "sole",
-            "pronunciation": "/səʊl/",
+            "pronunciation": "səʊl",
             "progress": [
                 0,
                 0,
@@ -9702,7 +9702,7 @@ const W4000 = [
         {
             "id": 971,
             "word": "outdoor",
-            "pronunciation": "/ˌaʊtˈdɔː/",
+            "pronunciation": "ˌaʊtˈdɔː",
             "progress": [
                 0,
                 0,
@@ -9712,7 +9712,7 @@ const W4000 = [
         {
             "id": 972,
             "word": "equip",
-            "pronunciation": "/ɪˈkwɪp/",
+            "pronunciation": "ɪˈkwɪp",
             "progress": [
                 0,
                 0,
@@ -9722,7 +9722,7 @@ const W4000 = [
         {
             "id": 973,
             "word": "prevail",
-            "pronunciation": "/pɹɪˈveɪl/",
+            "pronunciation": "pɹɪˈveɪl",
             "progress": [
                 0,
                 0,
@@ -9732,7 +9732,7 @@ const W4000 = [
         {
             "id": 974,
             "word": "intent",
-            "pronunciation": "/ɪnˈtɛnt/",
+            "pronunciation": "ɪnˈtɛnt",
             "progress": [
                 0,
                 0,
@@ -9752,7 +9752,7 @@ const W4000 = [
         {
             "id": 976,
             "word": "alert",
-            "pronunciation": "/əˈlɜːt/",
+            "pronunciation": "əˈlɜːt",
             "progress": [
                 0,
                 0,
@@ -9762,7 +9762,7 @@ const W4000 = [
         {
             "id": 977,
             "word": "publicly",
-            "pronunciation": "/ˈpʌblɪkli/",
+            "pronunciation": "ˈpʌblɪkli",
             "progress": [
                 0,
                 0,
@@ -9772,7 +9772,7 @@ const W4000 = [
         {
             "id": 978,
             "word": "treasure",
-            "pronunciation": "/ˈtɹɛʒə/",
+            "pronunciation": "ˈtɹɛʒə",
             "progress": [
                 0,
                 0,
@@ -9782,7 +9782,7 @@ const W4000 = [
         {
             "id": 979,
             "word": "steadily",
-            "pronunciation": "/ˈstɛdɪli/",
+            "pronunciation": "ˈstɛdɪli",
             "progress": [
                 0,
                 0,
@@ -9792,7 +9792,7 @@ const W4000 = [
         {
             "id": 980,
             "word": "decorate",
-            "pronunciation": "/ˈdɛkəɹeɪt/",
+            "pronunciation": "ˈdɛkəɹeɪt",
             "progress": [
                 0,
                 0,
@@ -9802,7 +9802,7 @@ const W4000 = [
         {
             "id": 981,
             "word": "squeeze",
-            "pronunciation": "/skwiːz/",
+            "pronunciation": "skwiːz",
             "progress": [
                 0,
                 0,
@@ -9812,7 +9812,7 @@ const W4000 = [
         {
             "id": 982,
             "word": "editorial",
-            "pronunciation": "/ˌɛdɪˈtɔːɹɪəl/",
+            "pronunciation": "ˌɛdɪˈtɔːɹɪəl",
             "progress": [
                 0,
                 0,
@@ -9822,7 +9822,7 @@ const W4000 = [
         {
             "id": 983,
             "word": "carve",
-            "pronunciation": "/kɑːv/",
+            "pronunciation": "kɑːv",
             "progress": [
                 0,
                 0,
@@ -9832,7 +9832,7 @@ const W4000 = [
         {
             "id": 984,
             "word": "courage",
-            "pronunciation": "/ˈkʌɹɪdʒ/",
+            "pronunciation": "ˈkʌɹɪdʒ",
             "progress": [
                 0,
                 0,
@@ -9842,7 +9842,7 @@ const W4000 = [
         {
             "id": 985,
             "word": "hungry",
-            "pronunciation": "/ˈhʌŋ.ɡɹi/",
+            "pronunciation": "ˈhʌŋ.ɡɹi",
             "progress": [
                 0,
                 0,
@@ -9852,7 +9852,7 @@ const W4000 = [
         {
             "id": 986,
             "word": "inspector",
-            "pronunciation": "/ɪnˈspɛktə/",
+            "pronunciation": "ɪnˈspɛktə",
             "progress": [
                 0,
                 0,
@@ -9862,7 +9862,7 @@ const W4000 = [
         {
             "id": 987,
             "word": "hardware",
-            "pronunciation": "/ˈhɑːdˌwɛə/",
+            "pronunciation": "ˈhɑːdˌwɛə",
             "progress": [
                 0,
                 0,
@@ -9872,7 +9872,7 @@ const W4000 = [
         {
             "id": 988,
             "word": "cottage",
-            "pronunciation": "/ˈkɒtɪdʒ/",
+            "pronunciation": "ˈkɒtɪdʒ",
             "progress": [
                 0,
                 0,
@@ -9882,7 +9882,7 @@ const W4000 = [
         {
             "id": 989,
             "word": "celebrity",
-            "pronunciation": "/sɪˈlɛbɹɪti/",
+            "pronunciation": "sɪˈlɛbɹɪti",
             "progress": [
                 0,
                 0,
@@ -9892,7 +9892,7 @@ const W4000 = [
         {
             "id": 990,
             "word": "jam",
-            "pronunciation": "/ˈdʒæːm/",
+            "pronunciation": "ˈdʒæːm",
             "progress": [
                 0,
                 0,
@@ -9902,7 +9902,7 @@ const W4000 = [
         {
             "id": 991,
             "word": "cloth",
-            "pronunciation": "/klɑθ/",
+            "pronunciation": "klɑθ",
             "progress": [
                 0,
                 0,
@@ -9912,7 +9912,7 @@ const W4000 = [
         {
             "id": 992,
             "word": "withdrawal",
-            "pronunciation": "/wɪðˈdɹɔːəl/",
+            "pronunciation": "wɪðˈdɹɔːəl",
             "progress": [
                 0,
                 0,
@@ -9922,7 +9922,7 @@ const W4000 = [
         {
             "id": 993,
             "word": "mill",
-            "pronunciation": "/mɪl/",
+            "pronunciation": "mɪl",
             "progress": [
                 0,
                 0,
@@ -9932,7 +9932,7 @@ const W4000 = [
         {
             "id": 994,
             "word": "coalition",
-            "pronunciation": "/koʊəˈlɪʃən/",
+            "pronunciation": "koʊəˈlɪʃən",
             "progress": [
                 0,
                 0,
@@ -9942,7 +9942,7 @@ const W4000 = [
         {
             "id": 995,
             "word": "signature",
-            "pronunciation": "/ˈsɪɡnətʃə/",
+            "pronunciation": "ˈsɪɡnətʃə",
             "progress": [
                 0,
                 0,
@@ -9952,7 +9952,7 @@ const W4000 = [
         {
             "id": 996,
             "word": "bitter",
-            "pronunciation": "/ˈbɪtə/",
+            "pronunciation": "ˈbɪtə",
             "progress": [
                 0,
                 0,
@@ -9972,7 +9972,7 @@ const W4000 = [
         {
             "id": 998,
             "word": "cease",
-            "pronunciation": "/siːs/",
+            "pronunciation": "siːs",
             "progress": [
                 0,
                 0,
@@ -9982,7 +9982,7 @@ const W4000 = [
         {
             "id": 999,
             "word": "beneficial",
-            "pronunciation": "/ˌbɛnəˈfɪʃəl/",
+            "pronunciation": "ˌbɛnəˈfɪʃəl",
             "progress": [
                 0,
                 0,

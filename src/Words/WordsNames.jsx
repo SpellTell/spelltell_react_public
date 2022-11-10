@@ -111,7 +111,7 @@ const WordsNames = [
     {
         "id": 12,
         "word": "Abigail",
-        "pronunciation": "/ˈa.bɪ.ɡeɪl/",
+        "pronunciation": "ˈa.bɪ.ɡeɪl",
         "progress": [
             0,
             0,
@@ -290,7 +290,7 @@ const WordsNames = [
     {
         "id": 30,
         "word": "Grace",
-        "pronunciation": "/ɡɹeɪs/",
+        "pronunciation": "ɡɹeɪs",
         "progress": [
             0,
             0,
@@ -340,7 +340,7 @@ const WordsNames = [
     {
         "id": 35,
         "word": "John",
-        "pronunciation": "/ˈdʒɒn/",
+        "pronunciation": "ˈdʒɒn",
         "progress": [
             0,
             0,
@@ -469,7 +469,7 @@ const WordsNames = [
     {
         "id": 48,
         "word": "Anna",
-        "pronunciation": "/ˈænə/",
+        "pronunciation": "ˈænə",
         "progress": [
             0,
             0,
@@ -489,7 +489,7 @@ const WordsNames = [
     {
         "id": 50,
         "word": "Victoria",
-        "pronunciation": "/vɪkˈtɔːɹi.ə/",
+        "pronunciation": "vɪkˈtɔːɹi.ə",
         "progress": [
             0,
             0,
@@ -567,7 +567,7 @@ const WordsNames = [
     {
         "id": 58,
         "word": "Jasmine",
-        "pronunciation": "/ˈdʒæzmɪn/",
+        "pronunciation": "ˈdʒæzmɪn",
         "progress": [
             0,
             0,
@@ -607,7 +607,7 @@ const WordsNames = [
     {
         "id": 62,
         "word": "Morgan",
-        "pronunciation": "/ˈmɔːɡən/",
+        "pronunciation": "ˈmɔːɡən",
         "progress": [
             0,
             0,
@@ -627,7 +627,7 @@ const WordsNames = [
     {
         "id": 64,
         "word": "Destiny",
-        "pronunciation": "/ˈdɛstɪni/",
+        "pronunciation": "ˈdɛstɪni",
         "progress": [
             0,
             0,
@@ -776,7 +776,7 @@ const WordsNames = [
     {
         "id": 79,
         "word": "Jack",
-        "pronunciation": "/dʒæk/",
+        "pronunciation": "dʒæk",
         "progress": [
             0,
             0,
@@ -796,7 +796,7 @@ const WordsNames = [
     {
         "id": 81,
         "word": "Hunter",
-        "pronunciation": "/ˈhʌntɚ/",
+        "pronunciation": "ˈhʌntɚ",
         "progress": [
             0,
             0,
@@ -836,7 +836,7 @@ const WordsNames = [
     {
         "id": 85,
         "word": "Angel",
-        "pronunciation": "/ˈeɪn.dʒəl/",
+        "pronunciation": "ˈeɪn.dʒəl",
         "progress": [
             0,
             0,
@@ -846,7 +846,7 @@ const WordsNames = [
     {
         "id": 86,
         "word": "Maria",
-        "pronunciation": "/ˈmɑɹ.i.ə/",
+        "pronunciation": "ˈmɑɹ.i.ə",
         "progress": [
             0,
             0,
@@ -886,7 +886,7 @@ const WordsNames = [
     {
         "id": 90,
         "word": "Lily",
-        "pronunciation": "/ˈlɪli/",
+        "pronunciation": "ˈlɪli",
         "progress": [
             0,
             0,
@@ -936,7 +936,7 @@ const WordsNames = [
     {
         "id": 95,
         "word": "Mason",
-        "pronunciation": "/ˈmeɪsən/",
+        "pronunciation": "ˈmeɪsən",
         "progress": [
             0,
             0,
@@ -1066,7 +1066,7 @@ const WordsNames = [
     {
         "id": 108,
         "word": "Faith",
-        "pronunciation": "/feɪθ/",
+        "pronunciation": "feɪθ",
         "progress": [
             0,
             0,
@@ -1096,7 +1096,7 @@ const WordsNames = [
     {
         "id": 111,
         "word": "Kyle",
-        "pronunciation": "/kaɪl/",
+        "pronunciation": "kaɪl",
         "progress": [
             0,
             0,
@@ -1226,7 +1226,7 @@ const WordsNames = [
     {
         "id": 124,
         "word": "Trinity",
-        "pronunciation": "/ˈtɹɪnɪti/",
+        "pronunciation": "ˈtɹɪnɪti",
         "progress": [
             0,
             0,
@@ -1266,7 +1266,7 @@ const WordsNames = [
     {
         "id": 128,
         "word": "Kylie",
-        "pronunciation": "/ˈkaɪli/",
+        "pronunciation": "ˈkaɪli",
         "progress": [
             0,
             0,
@@ -1286,7 +1286,7 @@ const WordsNames = [
     {
         "id": 130,
         "word": "Mary",
-        "pronunciation": "/ˈmeiɹi/",
+        "pronunciation": "ˈmeiɹi",
         "progress": [
             0,
             0,
@@ -1326,7 +1326,7 @@ const WordsNames = [
     {
         "id": 134,
         "word": "Riley",
-        "pronunciation": "/ˈɹaɪli/",
+        "pronunciation": "ˈɹaɪli",
         "progress": [
             0,
             0,
@@ -1476,7 +1476,7 @@ const WordsNames = [
     {
         "id": 149,
         "word": "Chase",
-        "pronunciation": "/tʃeɪs/",
+        "pronunciation": "tʃeɪs",
         "progress": [
             0,
             0,
@@ -1496,7 +1496,7 @@ const WordsNames = [
     {
         "id": 151,
         "word": "Cole",
-        "pronunciation": "/kɔʊl/",
+        "pronunciation": "kɔʊl",
         "progress": [
             0,
             0,
@@ -1526,7 +1526,7 @@ const WordsNames = [
     {
         "id": 154,
         "word": "Caroline",
-        "pronunciation": "/ˈkæ.ɹəˌlaɪn/",
+        "pronunciation": "ˈkæ.ɹəˌlaɪn",
         "progress": [
             0,
             0,
@@ -1615,7 +1615,7 @@ const WordsNames = [
     {
         "id": 163,
         "word": "Timothy",
-        "pronunciation": "/ˈtɪməθi/",
+        "pronunciation": "ˈtɪməθi",
         "progress": [
             0,
             0,
@@ -1645,7 +1645,7 @@ const WordsNames = [
     {
         "id": 166,
         "word": "Autumn",
-        "pronunciation": "/ˈɔːtəm/",
+        "pronunciation": "ˈɔːtəm",
         "progress": [
             0,
             0,
@@ -1765,7 +1765,7 @@ const WordsNames = [
     {
         "id": 178,
         "word": "Bailey",
-        "pronunciation": "/ˈbeɪli/",
+        "pronunciation": "ˈbeɪli",
         "progress": [
             0,
             0,
@@ -1924,7 +1924,7 @@ const WordsNames = [
     {
         "id": 194,
         "word": "Sierra",
-        "pronunciation": "/siˈɛɹə/",
+        "pronunciation": "siˈɛɹə",
         "progress": [
             0,
             0,
@@ -2032,7 +2032,7 @@ const WordsNames = [
     {
         "id": 205,
         "word": "Victor",
-        "pronunciation": "/ˈvɪk.tə(ɹ)/",
+        "pronunciation": "ˈvɪk.tə(ɹ)",
         "progress": [
             0,
             0,
@@ -2111,7 +2111,7 @@ const WordsNames = [
     {
         "id": 213,
         "word": "Riley",
-        "pronunciation": "/ˈɹaɪli/",
+        "pronunciation": "ˈɹaɪli",
         "progress": [
             0,
             0,
@@ -2181,7 +2181,7 @@ const WordsNames = [
     {
         "id": 220,
         "word": "Jade",
-        "pronunciation": "/d͡ʒeɪd/",
+        "pronunciation": "d͡ʒeɪd",
         "progress": [
             0,
             0,
@@ -2191,7 +2191,7 @@ const WordsNames = [
     {
         "id": 221,
         "word": "Mark",
-        "pronunciation": "/mɑɹk/",
+        "pronunciation": "mɑɹk",
         "progress": [
             0,
             0,
@@ -2510,7 +2510,7 @@ const WordsNames = [
     {
         "id": 253,
         "word": "Cooper",
-        "pronunciation": "/ˈkuːpə(ɹ)/",
+        "pronunciation": "ˈkuːpə(ɹ)",
         "progress": [
             0,
             0,
@@ -2658,7 +2658,7 @@ const WordsNames = [
     {
         "id": 268,
         "word": "Angel",
-        "pronunciation": "/ˈeɪn.dʒəl/",
+        "pronunciation": "ˈeɪn.dʒəl",
         "progress": [
             0,
             0,
@@ -2698,7 +2698,7 @@ const WordsNames = [
     {
         "id": 272,
         "word": "Charlotte",
-        "pronunciation": "/ˈʃɑːlət/",
+        "pronunciation": "ˈʃɑːlət",
         "progress": [
             0,
             0,
@@ -2728,7 +2728,7 @@ const WordsNames = [
     {
         "id": 275,
         "word": "Grant",
-        "pronunciation": "/ɡɹɑːnt/",
+        "pronunciation": "ɡɹɑːnt",
         "progress": [
             0,
             0,
@@ -2887,7 +2887,7 @@ const WordsNames = [
     {
         "id": 291,
         "word": "Spencer",
-        "pronunciation": "/ˈspɛnsə/",
+        "pronunciation": "ˈspɛnsə",
         "progress": [
             0,
             0,
@@ -2907,7 +2907,7 @@ const WordsNames = [
     {
         "id": 293,
         "word": "Gage",
-        "pronunciation": "/ɡeɪd͡ʒ/",
+        "pronunciation": "ɡeɪd͡ʒ",
         "progress": [
             0,
             0,
@@ -2917,7 +2917,7 @@ const WordsNames = [
     {
         "id": 294,
         "word": "Daisy",
-        "pronunciation": "/ˈdeɪ.zi/",
+        "pronunciation": "ˈdeɪ.zi",
         "progress": [
             0,
             0,
@@ -2927,7 +2927,7 @@ const WordsNames = [
     {
         "id": 295,
         "word": "Max",
-        "pronunciation": "/mæks/",
+        "pronunciation": "mæks",
         "progress": [
             0,
             0,
@@ -3017,7 +3017,7 @@ const WordsNames = [
     {
         "id": 304,
         "word": "Summer",
-        "pronunciation": "/ˈsʌmə(ɹ)/",
+        "pronunciation": "ˈsʌmə(ɹ)",
         "progress": [
             0,
             0,
@@ -3107,7 +3107,7 @@ const WordsNames = [
     {
         "id": 313,
         "word": "Dalton",
-        "pronunciation": "/ˈdɔːltən/",
+        "pronunciation": "ˈdɔːltən",
         "progress": [
             0,
             0,
@@ -3156,7 +3156,7 @@ const WordsNames = [
     {
         "id": 318,
         "word": "Genesis",
-        "pronunciation": "/ˈd͡ʒɛn.ə.sɪs/",
+        "pronunciation": "ˈd͡ʒɛn.ə.sɪs",
         "progress": [
             0,
             0,
@@ -3235,7 +3235,7 @@ const WordsNames = [
     {
         "id": 326,
         "word": "Alexia",
-        "pronunciation": "/ə.ˈlɛk.si.ə/",
+        "pronunciation": "ə.ˈlɛk.si.ə",
         "progress": [
             0,
             0,
@@ -3514,7 +3514,7 @@ const WordsNames = [
     {
         "id": 354,
         "word": "Serenity",
-        "pronunciation": "/səˈɹɛnɪti/",
+        "pronunciation": "səˈɹɛnɪti",
         "progress": [
             0,
             0,
@@ -3604,7 +3604,7 @@ const WordsNames = [
     {
         "id": 363,
         "word": "Devon",
-        "pronunciation": "/ˈdɛvən/",
+        "pronunciation": "ˈdɛvən",
         "progress": [
             0,
             0,
@@ -3614,7 +3614,7 @@ const WordsNames = [
     {
         "id": 364,
         "word": "Crystal",
-        "pronunciation": "/ˈkɹɪstəl/",
+        "pronunciation": "ˈkɹɪstəl",
         "progress": [
             0,
             0,
@@ -3672,7 +3672,7 @@ const WordsNames = [
     {
         "id": 370,
         "word": "Hope",
-        "pronunciation": "/həʊp/",
+        "pronunciation": "həʊp",
         "progress": [
             0,
             0,
@@ -3851,7 +3851,7 @@ const WordsNames = [
     {
         "id": 388,
         "word": "Abby",
-        "pronunciation": "/AE b ee/",
+        "pronunciation": "AE b ee",
         "progress": [
             0,
             0,
@@ -3861,7 +3861,7 @@ const WordsNames = [
     {
         "id": 389,
         "word": "Sergio",
-        "pronunciation": "/ s ER - g ih oh/",
+        "pronunciation": " s ER - g ih oh",
         "progress": [
             0,
             0,
@@ -3881,7 +3881,7 @@ const WordsNames = [
     {
         "id": 391,
         "word": "Donovan",
-        "pronunciation": "/D AH N - uh - v uh n/",
+        "pronunciation": "D AH N - uh - v uh n",
         "progress": [
             0,
             0,
@@ -3891,7 +3891,7 @@ const WordsNames = [
     {
         "id": 392,
         "word": "Adrianna",
-        "pronunciation": "/ai - d r ee - ae n ah/",
+        "pronunciation": "ai - d r ee - ae n ah",
         "progress": [
             0,
             0,
@@ -3911,7 +3911,7 @@ const WordsNames = [
     {
         "id": 394,
         "word": "Delaney",
-        "pronunciation": "/d uh - L AI - n ee/",
+        "pronunciation": "d uh - L AI - n ee",
         "pronunciation":  "🎵",
         "progress": [
             0,
@@ -3922,7 +3922,7 @@ const WordsNames = [
     {
         "id": 395,
         "word": "Marco",
-        "pronunciation": "/m AH r - k oh /",
+        "pronunciation": "m AH r - k oh ",
         "progress": [
             0,
             0,
@@ -3932,7 +3932,7 @@ const WordsNames = [
     {
         "id": 396,
         "word": "Karina",
-        "pronunciation": "/k uh - R EE - n uh/",
+        "pronunciation": "k uh - R EE - n uh",
         "progress": [
             0,
             0,
@@ -3952,7 +3952,7 @@ const WordsNames = [
     {
         "id": 398,
         "word": "Ellie",
-        "pronunciation": "/ELL - ee/",
+        "pronunciation": "ELL - ee",
         "progress": [
             0,
             0,
@@ -3962,7 +3962,7 @@ const WordsNames = [
     {
         "id": 399,
         "word": "Martin",
-        "pronunciation": "/ˈmɑː.tɪn/",
+        "pronunciation": "ˈmɑː.tɪn",
         "progress": [
             0,
             0,
@@ -3972,7 +3972,7 @@ const WordsNames = [
     {
         "id": 400,
         "word": "Jasmin",
-        "pronunciation": "/j ae s - m ih n/",
+        "pronunciation": "j ae s - m ih n",
         "progress": [
             0,
             0,

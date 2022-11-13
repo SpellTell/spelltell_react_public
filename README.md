@@ -4,6 +4,8 @@ SpellTell is an educational app that helps adults improve their spelling. SpellT
 
 Learning with SpellTell can also be very intensive. You can use it for hours, and for multiple days in a row. People who use it intensively are usually motivated by an imminent  promotion, or they may be moving to a new country, starting a new college course, or simply wanting to bulletproof their spelling. SpellTell is an educational app that is still in development. 
 
+![spelltell box screenshot](https://raw.githubusercontent.com/SpellTell/spelltell_react_public/main/spelltell-screen.png)
+
 ## About This Repo
 This repo represents open part of this app. This is the first version of fron page that contains SpellTell Box. SpellTell Box is cover part of this app. This is the main tool for practicing spelling that we use in our app. There are around 5000 words that you can practice on, right on the front page, without creating an account. 
 
